@@ -70,15 +70,15 @@
 					<Anneli_Jurnizia_Leader>1</Anneli_Jurnizia_Leader>
 					<Anneli_Jurnizia_Civilian_Male>5</Anneli_Jurnizia_Civilian_Male>
 					<Anneli_Jurnizia_Civilian_Female>10</Anneli_Jurnizia_Civilian_Female>
-					<Anneli_Jurnizia_Militia_Male>5</Anneli_Jurnizia_Militia_Male>
-					<Anneli_Jurnizia_Militia_Female>10</Anneli_Jurnizia_Militia_Female>
+					<Anneli_Jurnizia_Militia_Male>6</Anneli_Jurnizia_Militia_Male>
+					<Anneli_Jurnizia_Militia_Female>3</Anneli_Jurnizia_Militia_Female>
 					<Anneli_Jurnizia_Draftee>5</Anneli_Jurnizia_Draftee>
 					<Anneli_Jurnizia_Officer>3</Anneli_Jurnizia_Officer>
 					<Anneli_Jurnizia_Driver>3</Anneli_Jurnizia_Driver>
 					<Anneli_Jurnizia_Spetsnaz>3</Anneli_Jurnizia_Spetsnaz>
 					<Anneli_Jurnizia_Sniper>3</Anneli_Jurnizia_Sniper>
-					<Anneli_Jurnizia_InternalTroop_Male>3</Anneli_Jurnizia_InternalTroop_Male>
-					<Anneli_Jurnizia_InternalTroop_Female>6</Anneli_Jurnizia_InternalTroop_Female>
+					<Anneli_Jurnizia_InternalTroop_Male>5</Anneli_Jurnizia_InternalTroop_Male>
+					<Anneli_Jurnizia_InternalTroop_Female>5</Anneli_Jurnizia_InternalTroop_Female>
 					<Anneli_Jurnizia_HeavyTrooper>5</Anneli_Jurnizia_HeavyTrooper>
 				</options>
 			</li>
@@ -90,15 +90,15 @@
 					<Anneli_Jurnizia_Leader>1</Anneli_Jurnizia_Leader>
 					<Anneli_Jurnizia_Civilian_Male>3</Anneli_Jurnizia_Civilian_Male>
 					<Anneli_Jurnizia_Civilian_Female>6</Anneli_Jurnizia_Civilian_Female>
-					<Anneli_Jurnizia_Militia_Male>3</Anneli_Jurnizia_Militia_Male>
-					<Anneli_Jurnizia_Militia_Female>6</Anneli_Jurnizia_Militia_Female>
+					<Anneli_Jurnizia_Militia_Male>6</Anneli_Jurnizia_Militia_Male>
+					<Anneli_Jurnizia_Militia_Female>3</Anneli_Jurnizia_Militia_Female>
 					<Anneli_Jurnizia_Draftee>10</Anneli_Jurnizia_Draftee>
 					<Anneli_Jurnizia_Officer>3</Anneli_Jurnizia_Officer>
 					<Anneli_Jurnizia_Driver>3</Anneli_Jurnizia_Driver>
 					<Anneli_Jurnizia_Spetsnaz>3</Anneli_Jurnizia_Spetsnaz>
 					<Anneli_Jurnizia_Sniper>3</Anneli_Jurnizia_Sniper>
 					<Anneli_Jurnizia_InternalTroop_Male>5</Anneli_Jurnizia_InternalTroop_Male>
-					<Anneli_Jurnizia_InternalTroop_Female>10</Anneli_Jurnizia_InternalTroop_Female>
+					<Anneli_Jurnizia_InternalTroop_Female>5</Anneli_Jurnizia_InternalTroop_Female>
 					<Anneli_Jurnizia_HeavyTrooper>10</Anneli_Jurnizia_HeavyTrooper>
 				</options>
 			</li>
@@ -107,8 +107,8 @@
 				<options>
 					<Anneli_Jurnizia_Civilian_Male>1</Anneli_Jurnizia_Civilian_Male>
 					<Anneli_Jurnizia_Civilian_Female>1</Anneli_Jurnizia_Civilian_Female>
-					<Anneli_Jurnizia_Militia_Male>1</Anneli_Jurnizia_Militia_Male>
-					<Anneli_Jurnizia_Militia_Female>1</Anneli_Jurnizia_Militia_Female>
+					<Anneli_Jurnizia_InternalTroop_Male>1</Anneli_Jurnizia_InternalTroop_Male>
+					<Anneli_Jurnizia_InternalTroop_Female>1</Anneli_Jurnizia_InternalTroop_Female>
 					<Anneli_Jurnizia_Draftee>1</Anneli_Jurnizia_Draftee>
 					<Anneli_Jurnizia_Officer>1</Anneli_Jurnizia_Officer>
 					<Anneli_Jurnizia_Driver>1</Anneli_Jurnizia_Driver>
@@ -147,15 +147,15 @@
 					<Anneli_Jurnizia_Leader>1</Anneli_Jurnizia_Leader>
 					<Anneli_Jurnizia_Civilian_Male>3</Anneli_Jurnizia_Civilian_Male>
 					<Anneli_Jurnizia_Civilian_Female>6</Anneli_Jurnizia_Civilian_Female>
-					<Anneli_Jurnizia_Militia_Male>3</Anneli_Jurnizia_Militia_Male>
-					<Anneli_Jurnizia_Militia_Female>6</Anneli_Jurnizia_Militia_Female>
+					<Anneli_Jurnizia_Militia_Male>6</Anneli_Jurnizia_Militia_Male>
+					<Anneli_Jurnizia_Militia_Female>3</Anneli_Jurnizia_Militia_Female>
 					<Anneli_Jurnizia_Draftee>10</Anneli_Jurnizia_Draftee>
 					<Anneli_Jurnizia_Officer>3</Anneli_Jurnizia_Officer>
 					<Anneli_Jurnizia_Driver>3</Anneli_Jurnizia_Driver>
 					<Anneli_Jurnizia_Spetsnaz>3</Anneli_Jurnizia_Spetsnaz>
 					<Anneli_Jurnizia_Sniper>3</Anneli_Jurnizia_Sniper>
 					<Anneli_Jurnizia_InternalTroop_Male>5</Anneli_Jurnizia_InternalTroop_Male>
-					<Anneli_Jurnizia_InternalTroop_Female>10</Anneli_Jurnizia_InternalTroop_Female>
+					<Anneli_Jurnizia_InternalTroop_Female>5</Anneli_Jurnizia_InternalTroop_Female>
 					<Anneli_Jurnizia_HeavyTrooper>10</Anneli_Jurnizia_HeavyTrooper>
 				</options>
 			</li>

@@ -89,8 +89,6 @@
 		<apparel>
 			<wornGraphicPath>4/Anneli_Jurnizia_Camo6B2BodyArmor</wornGraphicPath>
 			<tags>
-				<li>Anneli_Jurnizia_Militia_Male</li>
-				<li>Anneli_Jurnizia_Militia_Female</li>
 				<li>Anneli_Jurnizia_Draftee</li>
 				<li>Anneli_Jurnizia_HeavyTrooper</li>
 			</tags>
@@ -182,8 +180,6 @@
 		<apparel>
 			<wornGraphicPath>4/Anneli_Jurnizia_Camo6B3BodyArmor</wornGraphicPath>
 			<tags>
-				<li>Anneli_Jurnizia_Militia_Male</li>
-				<li>Anneli_Jurnizia_Militia_Female</li>
 				<li>Anneli_Jurnizia_Draftee</li>
 				<li>Anneli_Jurnizia_HeavyTrooper</li>
 			</tags>
@@ -275,8 +271,6 @@
 		<apparel>
 			<wornGraphicPath>4/Anneli_Jurnizia_Camo6B13BodyArmor</wornGraphicPath>
 			<tags>
-				<li>Anneli_Jurnizia_Militia_Male</li>
-				<li>Anneli_Jurnizia_Militia_Female</li>
 				<li>Anneli_Jurnizia_Draftee</li>
 				<li>Anneli_Jurnizia_HeavyTrooper</li>
 			</tags>

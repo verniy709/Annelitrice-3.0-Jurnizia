@@ -55,6 +55,8 @@
 			<wornGraphicPath>5A/Anneli_Jurnizia_Lifchik</wornGraphicPath>
 			<tags>
 				<li>Anneli_Jurnizia_Spetsnaz</li>
+				<li>Anneli_Jurnizia_Militia_Male</li>
+				<li>Anneli_Jurnizia_Militia_Female</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -145,6 +147,8 @@
 			<wornGraphicPath>5A/Anneli_Jurnizia_TacticalBelt</wornGraphicPath>
 			<tags>
 				<li>Anneli_Jurnizia_Spetsnaz</li>
+				<li>Anneli_Jurnizia_Militia_Male</li>
+				<li>Anneli_Jurnizia_Militia_Female</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -178,8 +182,6 @@
 		<apparel>
 			<wornGraphicPath>5A/Anneli_Jurnizia_CamoTacticalBelt</wornGraphicPath>
 			<tags>
-				<li>Anneli_Jurnizia_Militia_Male</li>
-				<li>Anneli_Jurnizia_Militia_Female</li>
 				<li>Anneli_Jurnizia_Draftee</li>
 				<li>Anneli_Jurnizia_HeavyTrooper</li>
 			</tags>

@@ -1,149 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
 
-    <!-- Jurnizia Shield Base -->
-    <ThingDef Name="Jurnizia_BaseShield" ParentName="BaseWeapon" Abstract="True">
-        <techLevel>Medieval</techLevel>
-        <smeltable>true</smeltable>
-        <burnableByRecipe>true</burnableByRecipe>
-        <weaponClasses>
-            <li>Melee</li>
-        </weaponClasses>
+    <ThingDef Name="Anneli_Jurnizia_8C" ParentName="Anneli_8C" Abstract="True">
+        <equippedStatOffsets>
+        </equippedStatOffsets>
         <thingCategories>
             <li>Category_Annelitrice_Jurnizia</li>
         </thingCategories>
-        <thingClass>VFECore.Apparel_Shield</thingClass>
-        <statBases>
-            <WorkToMake>400</WorkToMake>
-            <EquipDelay>1</EquipDelay>
-            <Flammability>0.15</Flammability>
-        </statBases>
         <recipeMaker>
-            <useIngredientsForColor>false</useIngredientsForColor>
-            <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-            <workSkill>Crafting</workSkill>
-            <effectWorking>Tailor</effectWorking>
-            <soundWorking>Recipe_Tailor</soundWorking>
-            <unfinishedThingDef>UnfinishedApparel</unfinishedThingDef>
             <recipeUsers>
                 <li>Anneli_Jurnizia_Workbench</li>
             </recipeUsers>
         </recipeMaker>
-        <apparel>
-            <bodyPartGroups>
-                <li>LeftHand</li>
-            </bodyPartGroups>
-            <layers>
-                <li>VFEC_OuterShell</li>
-            </layers>
-            <careIfWornByCorpse>false</careIfWornByCorpse>
-            <careIfDamaged>false</careIfDamaged>
-            <countsAsClothingForNudity>false</countsAsClothingForNudity>
-            <canBeDesiredForIdeo>false</canBeDesiredForIdeo>
-            <useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
-        </apparel>
-        <inspectorTabs>
-            <li>ITab_Art</li>
-        </inspectorTabs>
-        <comps>
-            <li>
-                <compClass>CompQuality</compClass>
-            </li>
-            <li Class="CompProperties_Art">
-                <nameMaker>NamerArtWeaponMelee</nameMaker>
-                <descriptionMaker>ArtDescription_WeaponMelee</descriptionMaker>
-                <minQualityForArtistic>Excellent</minQualityForArtistic>
-            </li>
-            <li>
-                <compClass>CompColorable</compClass>
-            </li>
-        </comps>
     </ThingDef>
 
     <!--Anneli_Jurnizia_BZT75Shield-->
-    <ThingDef ParentName="Jurnizia_BaseShield">
+    <ThingDef ParentName="Anneli_Jurnizia_8C">
         <defName>Anneli_Jurnizia_BZT75Shield</defName>
+        <description>Dyeable.</description>
         <label>(Jurnizia)8C_BZT75Shield</label>
-        <description>Dyeable. But the color of shields has a bug.</description>
         <graphicData>
             <texPath>8C/Anneli_Jurnizia_BZT75Shield</texPath>
             <graphicClass>Graphic_Single</graphicClass>
-            <shaderType>CutoutComplex</shaderType>
-            <drawSize>0.85</drawSize>
         </graphicData>
-        <stuffCategories>
-            <li>Metallic</li>
-        </stuffCategories>
-        <costStuffCount>30</costStuffCount>
-        <costList>
-            <WoodLog>10</WoodLog>
-        </costList>
-        <statBases>
-            <MaxHitPoints>150</MaxHitPoints>
-            <StuffEffectMultiplierArmor>0.5</StuffEffectMultiplierArmor>
-            <StuffEffectMultiplierInsulation_Cold>0.05</StuffEffectMultiplierInsulation_Cold>
-            <StuffEffectMultiplierInsulation_Heat>0.05</StuffEffectMultiplierInsulation_Heat>
-            <Mass>3.0</Mass>
-        </statBases>
-        <equippedStatOffsets>
-            <MoveSpeed>-0.15</MoveSpeed>
-        </equippedStatOffsets>
-        <tools>
-            <li>
-                <label>base</label>
-                <capacities>
-                    <li>Poke</li>
-                </capacities>
-                <power>9</power>
-                <cooldownTime>2</cooldownTime>
-            </li>
-            <li>
-                <label>centre</label>
-                <labelUsedInLogging>false</labelUsedInLogging>
-                <capacities>
-                    <li>Blunt</li>
-                </capacities>
-                <power>9</power>
-                <cooldownTime>2</cooldownTime>
-            </li>
-        </tools>
-        <comps>
-            <li Class="VFECore.CompProperties_Shield">
-                <shieldTags>
-                    <li>Jurnizia_BZT75Shield</li>
-                </shieldTags>
-                <useDeflectMetalEffect>false</useDeflectMetalEffect>
-                <coveredBodyPartGroups>
-                    <li>Neck</li>
-                    <li>Torso</li>
-                    <li>Arms</li>
-                    <li>Hands</li>
-                    <li>Legs</li>
-                </coveredBodyPartGroups>
-                <offHandGraphicData>
-                    <texPath>8C/Anneli_Jurnizia_BZT75Shield</texPath>
-                    <graphicClass>Graphic_Multi</graphicClass>
-                    <shaderType>CutoutComplex</shaderType>
-                    <drawSize>0.9</drawSize>
-                </offHandGraphicData>
-                <offHandHoldOffset>
-                    <northDefault>
-                        <offset>(-0.06, 0, 0.26)</offset>
-                        <behind>true</behind>
-                    </northDefault>
-                    <east>
-                        <offset>(0.05, 0, 0.26)</offset>
-                        <behind>true</behind>
-                    </east>
-                    <south>
-                        <offset>(0.12, 1.00, 0.235)</offset>
-                    </south>
-                    <west>
-                        <offset>(-0.05, 0, 0.235)</offset>
-                    </west>
-                </offHandHoldOffset>
-            </li>
-        </comps>
+        <apparel>
+            <wornGraphicPath>8C/Anneli_Jurnizia_BZT75Shield</wornGraphicPath>
+            <tags>
+                <li>Anneli_Jurnizia_InternalTroop_Male</li>
+                <li>Anneli_Jurnizia_InternalTroop_Female</li>
+            </tags>
+            <useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+        </apparel>
         <colorGenerator Class="ColorGenerator_Options">
             <options>
                 <li>
@@ -152,92 +39,25 @@
                 </li>
             </options>
         </colorGenerator>
+        <generateAllowChance>0.35</generateAllowChance><!--Less Spawn-->
     </ThingDef>
 
     <!--Anneli_Jurnizia_CamoBZT75Shield-->
-    <ThingDef ParentName="Jurnizia_BaseShield">
+    <ThingDef ParentName="Anneli_Jurnizia_8C">
         <defName>Anneli_Jurnizia_CamoBZT75Shield</defName>
+        <description>NOT dyeable.</description>
         <label>(Jurnizia)8C_CamoBZT75Shield</label>
-        <description>Dyeable. But the color of shields has a bug.</description>
         <graphicData>
             <texPath>8C/Anneli_Jurnizia_CamoBZT75Shield</texPath>
             <graphicClass>Graphic_Single</graphicClass>
-            <shaderType>CutoutComplex</shaderType>
-            <drawSize>0.85</drawSize>
         </graphicData>
-        <stuffCategories>
-            <li>Metallic</li>
-        </stuffCategories>
-        <costStuffCount>30</costStuffCount>
-        <costList>
-            <WoodLog>10</WoodLog>
-        </costList>
-        <statBases>
-            <MaxHitPoints>150</MaxHitPoints>
-            <StuffEffectMultiplierArmor>0.5</StuffEffectMultiplierArmor>
-            <StuffEffectMultiplierInsulation_Cold>0.05</StuffEffectMultiplierInsulation_Cold>
-            <StuffEffectMultiplierInsulation_Heat>0.05</StuffEffectMultiplierInsulation_Heat>
-            <Mass>3.0</Mass>
-        </statBases>
-        <equippedStatOffsets>
-            <MoveSpeed>-0.15</MoveSpeed>
-        </equippedStatOffsets>
-        <tools>
-            <li>
-                <label>base</label>
-                <capacities>
-                    <li>Poke</li>
-                </capacities>
-                <power>9</power>
-                <cooldownTime>2</cooldownTime>
-            </li>
-            <li>
-                <label>centre</label>
-                <labelUsedInLogging>false</labelUsedInLogging>
-                <capacities>
-                    <li>Blunt</li>
-                </capacities>
-                <power>9</power>
-                <cooldownTime>2</cooldownTime>
-            </li>
-        </tools>
-        <comps>
-            <li Class="VFECore.CompProperties_Shield">
-                <shieldTags>
-                    <li>Jurnizia_CamoBZT75Shield</li>
-                </shieldTags>
-                <useDeflectMetalEffect>false</useDeflectMetalEffect>
-                <coveredBodyPartGroups>
-                    <li>Neck</li>
-                    <li>Torso</li>
-                    <li>Arms</li>
-                    <li>Hands</li>
-                    <li>Legs</li>
-                </coveredBodyPartGroups>
-                <offHandGraphicData>
-                    <texPath>8C/Anneli_Jurnizia_CamoBZT75Shield</texPath>
-                    <graphicClass>Graphic_Multi</graphicClass>
-                    <shaderType>CutoutComplex</shaderType>
-                    <drawSize>0.9</drawSize>
-                </offHandGraphicData>
-                <offHandHoldOffset>
-                    <northDefault>
-                        <offset>(-0.06, 0, 0.26)</offset>
-                        <behind>true</behind>
-                    </northDefault>
-                    <east>
-                        <offset>(0.05, 0, 0.26)</offset>
-                        <behind>true</behind>
-                    </east>
-                    <south>
-                        <offset>(0.12, 1.00, 0.235)</offset>
-                    </south>
-                    <west>
-                        <offset>(-0.05, 0, 0.235)</offset>
-                    </west>
-                </offHandHoldOffset>
-            </li>
-        </comps>
+        <apparel>
+            <wornGraphicPath>8C/Anneli_Jurnizia_CamoBZT75Shield</wornGraphicPath>
+            <tags>
+                <li>Anneli_Jurnizia_HeavyTrooper</li>
+            </tags>
+            <useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+        </apparel>
         <colorGenerator Class="ColorGenerator_Options">
             <options>
                 <li>
@@ -246,92 +66,26 @@
                 </li>
             </options>
         </colorGenerator>
+        <generateAllowChance>0.35</generateAllowChance><!--Less Spawn-->
     </ThingDef>
 
-   <!--Anneli_Jurnizia_VantVMShield-->
-    <ThingDef ParentName="Jurnizia_BaseShield">
+    <!--Anneli_Jurnizia_VantVMShield-->
+    <ThingDef ParentName="Anneli_Jurnizia_8C">
         <defName>Anneli_Jurnizia_VantVMShield</defName>
+        <description>Dyeable.</description>
         <label>(Jurnizia)8C_VantVMShield</label>
-        <description>Dyeable. But the color of shields has a bug.</description>
         <graphicData>
             <texPath>8C/Anneli_Jurnizia_VantVMShield</texPath>
             <graphicClass>Graphic_Single</graphicClass>
-            <shaderType>CutoutComplex</shaderType>
-            <drawSize>0.85</drawSize>
         </graphicData>
-        <stuffCategories>
-            <li>Metallic</li>
-        </stuffCategories>
-        <costStuffCount>40</costStuffCount>
-        <costList>
-            <WoodLog>10</WoodLog>
-        </costList>
-        <statBases>
-            <MaxHitPoints>200</MaxHitPoints>
-            <StuffEffectMultiplierArmor>0.6</StuffEffectMultiplierArmor>
-            <StuffEffectMultiplierInsulation_Cold>0.05</StuffEffectMultiplierInsulation_Cold>
-            <StuffEffectMultiplierInsulation_Heat>0.05</StuffEffectMultiplierInsulation_Heat>
-            <Mass>4.0</Mass>
-        </statBases>
-        <equippedStatOffsets>
-            <MoveSpeed>-0.25</MoveSpeed>
-        </equippedStatOffsets>
-        <tools>
-            <li>
-                <label>base</label>
-                <capacities>
-                    <li>Poke</li>
-                </capacities>
-                <power>9</power>
-                <cooldownTime>2</cooldownTime>
-            </li>
-            <li>
-                <label>centre</label>
-                <labelUsedInLogging>false</labelUsedInLogging>
-                <capacities>
-                    <li>Blunt</li>
-                </capacities>
-                <power>9</power>
-                <cooldownTime>2</cooldownTime>
-            </li>
-        </tools>
-        <comps>
-            <li Class="VFECore.CompProperties_Shield">
-                <shieldTags>
-                    <li>Jurnizia_VantVMShield</li>
-                </shieldTags>
-                <useDeflectMetalEffect>false</useDeflectMetalEffect>
-                <coveredBodyPartGroups>
-                    <li>Neck</li>
-                    <li>Torso</li>
-                    <li>Arms</li>
-                    <li>Hands</li>
-                    <li>Legs</li>
-                </coveredBodyPartGroups>
-                <offHandGraphicData>
-                    <texPath>8C/Anneli_Jurnizia_VantVMShield</texPath>
-                    <graphicClass>Graphic_Multi</graphicClass>
-                    <shaderType>CutoutComplex</shaderType>
-                    <drawSize>1.35</drawSize>
-                </offHandGraphicData>
-                <offHandHoldOffset>
-                    <northDefault>
-                        <offset>(-0.28, 0, 0.21)</offset>
-                        <behind>true</behind>
-                    </northDefault>
-                    <east>
-                        <offset>(0.08, 0, 0.21)</offset>
-                        <behind>true</behind>
-                    </east>
-                    <south>
-                        <offset>(0.25, 1.00, 0.185)</offset>
-                    </south>
-                    <west>
-                        <offset>(-0.08, 0, 0.185)</offset>
-                    </west>
-                </offHandHoldOffset>
-            </li>
-        </comps>
+        <apparel>
+            <wornGraphicPath>8C/Anneli_Jurnizia_VantVMShield</wornGraphicPath>
+            <tags>
+                <li>Anneli_Jurnizia_InternalTroop_Male</li>
+                <li>Anneli_Jurnizia_InternalTroop_Female</li>
+            </tags>
+            <useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+        </apparel>
         <colorGenerator Class="ColorGenerator_Options">
             <options>
                 <li>
@@ -340,92 +94,25 @@
                 </li>
             </options>
         </colorGenerator>
+        <generateAllowChance>0.35</generateAllowChance><!--Less Spawn-->
     </ThingDef>
 
     <!--Anneli_Jurnizia_CamoVantVMShield-->
-    <ThingDef ParentName="Jurnizia_BaseShield">
+    <ThingDef ParentName="Anneli_Jurnizia_8C">
         <defName>Anneli_Jurnizia_CamoVantVMShield</defName>
+        <description>NOT dyeable.</description>
         <label>(Jurnizia)8C_CamoVantVMShield</label>
-        <description>Dyeable. But the color of shields has a bug.</description>
         <graphicData>
             <texPath>8C/Anneli_Jurnizia_CamoVantVMShield</texPath>
             <graphicClass>Graphic_Single</graphicClass>
-            <shaderType>CutoutComplex</shaderType>
-            <drawSize>0.85</drawSize>
         </graphicData>
-        <stuffCategories>
-            <li>Metallic</li>
-        </stuffCategories>
-        <costStuffCount>40</costStuffCount>
-        <costList>
-            <WoodLog>10</WoodLog>
-        </costList>
-        <statBases>
-            <MaxHitPoints>200</MaxHitPoints>
-            <StuffEffectMultiplierArmor>0.6</StuffEffectMultiplierArmor>
-            <StuffEffectMultiplierInsulation_Cold>0.05</StuffEffectMultiplierInsulation_Cold>
-            <StuffEffectMultiplierInsulation_Heat>0.05</StuffEffectMultiplierInsulation_Heat>
-            <Mass>4.0</Mass>
-        </statBases>
-        <equippedStatOffsets>
-            <MoveSpeed>-0.25</MoveSpeed>
-        </equippedStatOffsets>
-        <tools>
-            <li>
-                <label>base</label>
-                <capacities>
-                    <li>Poke</li>
-                </capacities>
-                <power>9</power>
-                <cooldownTime>2</cooldownTime>
-            </li>
-            <li>
-                <label>centre</label>
-                <labelUsedInLogging>false</labelUsedInLogging>
-                <capacities>
-                    <li>Blunt</li>
-                </capacities>
-                <power>9</power>
-                <cooldownTime>2</cooldownTime>
-            </li>
-        </tools>
-        <comps>
-            <li Class="VFECore.CompProperties_Shield">
-                <shieldTags>
-                    <li>Jurnizia_CamoVantVMShield</li>
-                </shieldTags>
-                <useDeflectMetalEffect>false</useDeflectMetalEffect>
-                <coveredBodyPartGroups>
-                    <li>Neck</li>
-                    <li>Torso</li>
-                    <li>Arms</li>
-                    <li>Hands</li>
-                    <li>Legs</li>
-                </coveredBodyPartGroups>
-                <offHandGraphicData>
-                    <texPath>8C/Anneli_Jurnizia_CamoVantVMShield</texPath>
-                    <graphicClass>Graphic_Multi</graphicClass>
-                    <shaderType>CutoutComplex</shaderType>
-                    <drawSize>1.35</drawSize>
-                </offHandGraphicData>
-                <offHandHoldOffset>
-                    <northDefault>
-                        <offset>(-0.28, 0, 0.21)</offset>
-                        <behind>true</behind>
-                    </northDefault>
-                    <east>
-                        <offset>(0.08, 0, 0.21)</offset>
-                        <behind>true</behind>
-                    </east>
-                    <south>
-                        <offset>(0.25, 1.00, 0.185)</offset>
-                    </south>
-                    <west>
-                        <offset>(-0.08, 0, 0.185)</offset>
-                    </west>
-                </offHandHoldOffset>
-            </li>
-        </comps>
+        <apparel>
+            <wornGraphicPath>8C/Anneli_Jurnizia_CamoVantVMShield</wornGraphicPath>
+            <tags>
+                <li>Anneli_Jurnizia_HeavyTrooper</li>
+            </tags>
+            <useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+        </apparel>
         <colorGenerator Class="ColorGenerator_Options">
             <options>
                 <li>
@@ -434,6 +121,7 @@
                 </li>
             </options>
         </colorGenerator>
+        <generateAllowChance>0.35</generateAllowChance><!--Less Spawn-->
     </ThingDef>
 
 </Defs>

@@ -38,18 +38,18 @@
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
-				<!-- <li>
-					<weight>10</weight>
-					<only>(220,160,140,255)</only>
-				</li>
 				<li>
 					<weight>10</weight>
 					<only>(150,150,160,255)</only>
 				</li>
 				<li>
 					<weight>10</weight>
+					<only>(130,120,100,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
 					<only>(140,190,240,255)</only>
-				</li> -->
+				</li>
 				<li>
 					<weight>10</weight>
 					<only>(50,45,50,255)</only>

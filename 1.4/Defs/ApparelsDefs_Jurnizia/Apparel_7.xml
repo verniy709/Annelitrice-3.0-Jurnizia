@@ -46,7 +46,7 @@
 	<ThingDef ParentName="Anneli_Jurnizia_7">
 		<defName>Anneli_Jurnizia_ATAKA_Olive</defName>
 		<description>Dyeable.</description>
-		<label>(Jurnizia)4_ATAKA_Olive</label>
+		<label>(Jurnizia)7_ATAKA_Olive</label>
 		<graphicData>
 			<texPath>7/Anneli_Jurnizia_ATAKA</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -81,7 +81,7 @@
 	<ThingDef ParentName="Anneli_Jurnizia_7">
 		<defName>Anneli_Jurnizia_CamoATAKA</defName>
 		<description>NOT dyeable.</description>
-		<label>(Jurnizia)4_CamoATAKA</label>
+		<label>(Jurnizia)7_CamoATAKA</label>
 		<graphicData>
 			<texPath>7/Anneli_Jurnizia_CamoATAKA</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -126,6 +126,14 @@
 			<options>
 				<li>
 					<weight>10</weight>
+					<only>(60,65,90,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(110,90,75,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
 					<only>(50,45,50,255)</only>
 				</li>
 			</options>
@@ -154,6 +162,10 @@
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
+				<li>
+					<weight>10</weight>
+					<only>(110,90,75,255)</only>
+				</li>
 				<li>
 					<weight>10</weight>
 					<only>(130,120,100,255)</only>

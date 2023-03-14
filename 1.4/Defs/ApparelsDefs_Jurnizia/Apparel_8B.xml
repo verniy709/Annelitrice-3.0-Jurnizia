@@ -14,6 +14,44 @@
 		</recipeMaker>
 	</ThingDef>
 
+	<ThingDef ParentName="MoteBase">
+		<defName>Mote_Anneli_Jurnizia_LaserDesignator_Aim</defName>
+		<thingClass>MoteDualAttached</thingClass>
+		<altitudeLayer>MoteLow</altitudeLayer>
+		<mote>
+			<fadeInTime>0.15</fadeInTime>
+			<fadeOutTime>0.3</fadeOutTime>
+			<solidTime>999999</solidTime>
+			<needsMaintenance>True</needsMaintenance>
+			<rotateTowardsTarget>True</rotateTowardsTarget>
+			<scaleToConnectTargets>True</scaleToConnectTargets>
+			<fadeOutUnmaintained>True</fadeOutUnmaintained>
+		</mote>
+		<graphicData>
+			<texPath>Effects/Mote_Anneli_Jurnizia_LaserDesignator_Aim</texPath>
+			<shaderType>MoteGlow</shaderType>
+			<drawSize>(1, 1)</drawSize>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="MoteBase">
+		<defName>Mote_Anneli_Jurnizia_LaserDesignator_Target</defName>
+		<thingClass>MoteAttached</thingClass>
+		<altitudeLayer>MoteLow</altitudeLayer>
+		<mote>
+			<fadeInTime>0.5</fadeInTime>
+			<fadeOutTime>5.0</fadeOutTime>
+			<solidTime>999999</solidTime>
+			<growthRate>0.05</growthRate>
+			<needsMaintenance>True</needsMaintenance>
+		</mote>
+		<graphicData>
+			<texPath>Effects/Mote_Anneli_Jurnizia_LaserDesignator_Target</texPath>
+			<shaderType>MoteGlow</shaderType>
+			<drawSize>(6, 6)</drawSize>
+		</graphicData>
+	</ThingDef>
+
 	<ThingDef ParentName="Anneli_Jurnizia_8B">
 		<defName>Anneli_Jurnizia_LaserDesignator</defName>
 		<description>Dyeable.</description>
@@ -39,11 +77,11 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.1</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.05</generateAllowChance><!--Less Spawn-->
 		<costList>
 			<Steel>300</Steel>
-      		<ComponentIndustrial>1</ComponentIndustrial>
-    	</costList>
+			<ComponentIndustrial>1</ComponentIndustrial>
+		</costList>
 		<statBases>
 			<WorkToMake>3000</WorkToMake>
 			<Mass>5</Mass>
@@ -55,7 +93,7 @@
 			<li>
 				<verbClass>Verb_Bombardment</verbClass>
 				<hasStandardCommand>true</hasStandardCommand>
-				<warmupTime>7.5</warmupTime>
+				<warmupTime>8.5</warmupTime>
 				<ai_AvoidFriendlyFireRadius>23</ai_AvoidFriendlyFireRadius>
 				<ai_IsBuildingDestroyer>true</ai_IsBuildingDestroyer>
 				<range>44.9</range>
@@ -66,6 +104,9 @@
 				<targetParams>
 					<canTargetLocations>true</canTargetLocations>
 				</targetParams>
+				<aimingLineMote>Mote_Anneli_Jurnizia_LaserDesignator_Aim</aimingLineMote>
+				<!-- <aimingLineMoteFixedLength>25.9</aimingLineMoteFixedLength> -->
+				<aimingTargetMote>Mote_Anneli_Jurnizia_LaserDesignator_Target</aimingTargetMote>
 			</li>
 		</verbs>
 		<comps>
