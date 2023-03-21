@@ -6,7 +6,7 @@
 		<itemQuality>Masterwork</itemQuality>
 		<defaultFactionType>Anneli_Faction_Jurnizia</defaultFactionType>
 		<isFighter>true</isFighter>
-		<combatPower>180</combatPower>
+		<combatPower>170</combatPower>
 		<canBeSapper>true</canBeSapper>
 		<backstoryCategories>
 			<li>Anneli_Childhood</li>
@@ -66,6 +66,18 @@
 			<li>IndustrialGunAdvanced</li>
 			<li>GunHeavy</li>
 		</weaponTags>
+		<modExtensions Inherit="False">
+			<li Class="VFECore.PawnKindDefExtension">
+				<shieldMoney>
+					<min>100</min>
+					<max>400</max>
+				</shieldMoney>
+				<shieldTags>
+					<li>Jurnizia_CamoBZT75Shield</li>
+					<li>Jurnizia_CamoVantVMShield</li>
+				</shieldTags>
+			</li>
+		</modExtensions>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Jurnizia_KindBase">
@@ -216,6 +228,18 @@
 			<li>IndustrialGunAdvanced</li>
 			<li>SniperRifle</li>
 		</weaponTags>
+		<modExtensions Inherit="False">
+			<li Class="VFECore.PawnKindDefExtension">
+				<shieldMoney>
+					<min>100</min>
+					<max>400</max>
+				</shieldMoney>
+				<shieldTags>
+					<li>Jurnizia_CamoBZT75Shield</li>
+					<li>Jurnizia_CamoVantVMShield</li>
+				</shieldTags>
+			</li>
+		</modExtensions>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Jurnizia_KindBase">
@@ -251,6 +275,18 @@
 			<li>IndustrialGunAdvanced</li>
 			<li>SniperRifle</li>
 		</weaponTags>
+		<modExtensions Inherit="False">
+			<li Class="VFECore.PawnKindDefExtension">
+				<shieldMoney>
+					<min>100</min>
+					<max>400</max>
+				</shieldMoney>
+				<shieldTags>
+					<li>Jurnizia_BZT75Shield</li>
+					<li>Jurnizia_VantVMShield</li>
+				</shieldTags>
+			</li>
+		</modExtensions>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Jurnizia_KindBase">
@@ -269,6 +305,18 @@
 			<li>IndustrialGunAdvanced</li>
 			<li>SniperRifle</li>
 		</weaponTags>
+		<modExtensions Inherit="False">
+			<li Class="VFECore.PawnKindDefExtension">
+				<shieldMoney>
+					<min>100</min>
+					<max>400</max>
+				</shieldMoney>
+				<shieldTags>
+					<li>Jurnizia_BZT75Shield</li>
+					<li>Jurnizia_VantVMShield</li>
+				</shieldTags>
+			</li>
+		</modExtensions>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Jurnizia_KindBase">
@@ -287,6 +335,18 @@
 			<li>IndustrialGunAdvanced</li>
 			<li>GunHeavy</li>
 		</weaponTags>
+		<modExtensions Inherit="False">
+			<li Class="VFECore.PawnKindDefExtension">
+				<shieldMoney>
+					<min>100</min>
+					<max>400</max>
+				</shieldMoney>
+				<shieldTags>
+					<li>Jurnizia_CamoBZT75Shield</li>
+					<li>Jurnizia_CamoVantVMShield</li>
+				</shieldTags>
+			</li>
+		</modExtensions>
 	</PawnKindDef>
 
 </Defs>
