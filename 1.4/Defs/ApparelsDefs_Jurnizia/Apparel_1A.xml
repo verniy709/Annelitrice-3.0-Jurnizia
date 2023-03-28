@@ -3,6 +3,14 @@
 
 	<ThingDef Name="Anneli_Jurnizia_1A" ParentName="Anneli_1A" Abstract="True">
 		<equippedStatOffsets>
+			<PainShockThreshold>0.1</PainShockThreshold>
+			<ShootingAccuracyPawn>0.05</ShootingAccuracyPawn>
+			<AimingDelayFactor>-0.05</AimingDelayFactor>
+			<EatingSpeed>0.1</EatingSpeed>			
+			<ConstructionSpeed>0.1</ConstructionSpeed>
+			<HuntingStealth>0.1</HuntingStealth>
+			<MedicalTendSpeed>0.1</MedicalTendSpeed>
+			<MedicalTendQuality>0.1</MedicalTendQuality>
 		</equippedStatOffsets>
 		<thingCategories>
 			<li>Category_Annelitrice_Jurnizia</li>
@@ -69,7 +77,7 @@
 		</colorGenerator>
 	</ThingDef>
 
-<!--Anneli_Jurnizia_LaceBraA-->
+	<!--Anneli_Jurnizia_LaceBraA-->
 	<ThingDef ParentName="Anneli_Jurnizia_1A">
 		<defName>Anneli_Jurnizia_LaceBraA</defName>
 		<description>Dyeable.</description>
@@ -98,7 +106,7 @@
 		</colorGenerator>
 	</ThingDef>
 
-<!--Anneli_Jurnizia_LaceBraB-->
+	<!--Anneli_Jurnizia_LaceBraB-->
 	<ThingDef ParentName="Anneli_Jurnizia_1A">
 		<defName>Anneli_Jurnizia_LaceBraB</defName>
 		<description>Dyeable.</description>
@@ -127,7 +135,7 @@
 		</colorGenerator>
 	</ThingDef>
 
-<!--Anneli_Jurnizia_SportsBra-->
+	<!--Anneli_Jurnizia_SportsBra-->
 	<ThingDef ParentName="Anneli_Jurnizia_1A">
 		<defName>Anneli_Jurnizia_SportsBra</defName>
 		<description>Dyeable.</description>

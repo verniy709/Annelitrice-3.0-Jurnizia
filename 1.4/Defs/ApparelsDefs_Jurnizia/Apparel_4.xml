@@ -3,6 +3,14 @@
 
 	<ThingDef Name="Anneli_Jurnizia_4" ParentName="Anneli_4" Abstract="True">
 		<equippedStatOffsets>
+			<PainShockThreshold>0.1</PainShockThreshold>
+			<ShootingAccuracyPawn>0.05</ShootingAccuracyPawn>
+			<AimingDelayFactor>-0.05</AimingDelayFactor>
+			<EatingSpeed>0.1</EatingSpeed>			
+			<ConstructionSpeed>0.1</ConstructionSpeed>
+			<HuntingStealth>0.1</HuntingStealth>
+			<MedicalTendSpeed>0.1</MedicalTendSpeed>
+			<MedicalTendQuality>0.1</MedicalTendQuality>
 		</equippedStatOffsets>
 		<thingCategories>
 			<li>Category_Annelitrice_Jurnizia</li>
@@ -46,7 +54,7 @@
 	<ThingDef ParentName="Anneli_Jurnizia_4">
 		<defName>Anneli_Jurnizia_6B2BodyArmor_Olive</defName>
 		<description>Dyeable.</description>
-		<label>(Jurnizia)4_6B2BodyArmor_Olive</label>
+		<label>(Jurnizia)4_6B2BodyArmor</label>
 		<graphicData>
 			<texPath>4/Anneli_Jurnizia_6B2BodyArmor</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -137,7 +145,7 @@
 	<ThingDef ParentName="Anneli_Jurnizia_4">
 		<defName>Anneli_Jurnizia_6B3BodyArmor_Olive</defName>
 		<description>Dyeable.</description>
-		<label>(Jurnizia)4_6B3BodyArmor_Olive</label>
+		<label>(Jurnizia)4_6B3BodyArmor</label>
 		<graphicData>
 			<texPath>4/Anneli_Jurnizia_6B3BodyArmor</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -228,7 +236,7 @@
 	<ThingDef ParentName="Anneli_Jurnizia_4">
 		<defName>Anneli_Jurnizia_6B13BodyArmor_Olive</defName>
 		<description>Dyeable.</description>
-		<label>(Jurnizia)4_6B13BodyArmor_Olive</label>
+		<label>(Jurnizia)4_6B13BodyArmor</label>
 		<graphicData>
 			<texPath>4/Anneli_Jurnizia_6B13BodyArmor</texPath>
 			<graphicClass>Graphic_Single</graphicClass>

@@ -3,6 +3,14 @@
 
 	<ThingDef Name="Anneli_Jurnizia_5A" ParentName="Anneli_5A" Abstract="True">
 		<equippedStatOffsets>
+			<PainShockThreshold>0.1</PainShockThreshold>
+			<ShootingAccuracyPawn>0.05</ShootingAccuracyPawn>
+			<AimingDelayFactor>-0.05</AimingDelayFactor>
+			<EatingSpeed>0.1</EatingSpeed>			
+			<ConstructionSpeed>0.1</ConstructionSpeed>
+			<HuntingStealth>0.1</HuntingStealth>
+			<MedicalTendSpeed>0.1</MedicalTendSpeed>
+			<MedicalTendQuality>0.1</MedicalTendQuality>
 		</equippedStatOffsets>
 		<thingCategories>
 			<li>Category_Annelitrice_Jurnizia</li>
@@ -46,7 +54,7 @@
 	<ThingDef ParentName="Anneli_Jurnizia_5A">
 		<defName>Anneli_Jurnizia_Lifchik_Olive</defName>
 		<description>Dyeable.</description>
-		<label>(Jurnizia)5A_Lifchik_Olive</label>
+		<label>(Jurnizia)5A_Lifchik</label>
 		<graphicData>
 			<texPath>5A/Anneli_Jurnizia_Lifchik</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -81,7 +89,7 @@
 	<!--Anneli_Jurnizia_CamoLifchik-->
 	<ThingDef ParentName="Anneli_Jurnizia_5A">
 		<defName>Anneli_Jurnizia_CamoLifchik</defName>
-		<description>Dyeable.</description>
+		<description>Not dyeable.</description>
 		<label>(Jurnizia)5A_CamoLifchik</label>
 		<graphicData>
 			<texPath>5A/Anneli_Jurnizia_CamoLifchik</texPath>
@@ -138,7 +146,7 @@
 	<ThingDef ParentName="Anneli_Jurnizia_5A">
 		<defName>Anneli_Jurnizia_TacticalBelt_Olive</defName>
 		<description>Dyeable.</description>
-		<label>(Jurnizia)5A_TacticalBelt_Olive</label>
+		<label>(Jurnizia)5A_TacticalBelt</label>
 		<graphicData>
 			<texPath>5A/Anneli_Jurnizia_TacticalBelt</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -173,7 +181,7 @@
 <!--Anneli_Jurnizia_CamoTacticalBelt-->
 	<ThingDef ParentName="Anneli_Jurnizia_5A">
 		<defName>Anneli_Jurnizia_CamoTacticalBelt</defName>
-		<description>Dyeable.</description>
+		<description>Not dyeable.</description>
 		<label>(Jurnizia)5A_CamoTacticalBelt</label>
 		<graphicData>
 			<texPath>5A/Anneli_Jurnizia_CamoTacticalBelt</texPath>
@@ -201,7 +209,7 @@
 	<!--Anneli_Jurnizia_Bandolier-->
 	<ThingDef ParentName="Anneli_Jurnizia_5A">
 		<defName>Anneli_Jurnizia_Bandolier</defName>
-		<description>Dyeable.</description>
+		<description>Not dyeable.</description>
 		<label>(Jurnizia)5A_Bandolier</label>
 		<graphicData>
 			<texPath>5A/Anneli_Jurnizia_Bandolier</texPath>
@@ -233,7 +241,7 @@
 	<!--Anneli_Jurnizia_GhillieSuit-->
 	<ThingDef ParentName="Anneli_Jurnizia_5A">
 		<defName>Anneli_Jurnizia_GhillieSuit</defName>
-		<description>Dyeable.</description>
+		<description>Not dyeable.</description>
 		<label>(Jurnizia)5A_GhillieSuit</label>
 		<graphicData>
 			<texPath>5A/Anneli_Jurnizia_GhillieSuit</texPath>

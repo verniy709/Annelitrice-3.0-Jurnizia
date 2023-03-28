@@ -3,6 +3,14 @@
 
 	<ThingDef Name="Anneli_Jurnizia_5B_NonMetal" ParentName="Anneli_5B_NonMetal" Abstract="True">
 		<equippedStatOffsets>
+			<PainShockThreshold>0.1</PainShockThreshold>
+			<ShootingAccuracyPawn>0.05</ShootingAccuracyPawn>
+			<AimingDelayFactor>-0.05</AimingDelayFactor>
+			<EatingSpeed>0.1</EatingSpeed>			
+			<ConstructionSpeed>0.1</ConstructionSpeed>
+			<HuntingStealth>0.1</HuntingStealth>
+			<MedicalTendSpeed>0.1</MedicalTendSpeed>
+			<MedicalTendQuality>0.1</MedicalTendQuality>
 		</equippedStatOffsets>
 		<thingCategories>
 			<li>Category_Annelitrice_Jurnizia</li>
@@ -16,6 +24,14 @@
 
 	<ThingDef Name="Anneli_Jurnizia_5B_Metal" ParentName="Anneli_5B_Metal" Abstract="True">
 		<equippedStatOffsets>
+			<PainShockThreshold>0.1</PainShockThreshold>
+			<ShootingAccuracyPawn>0.05</ShootingAccuracyPawn>
+			<AimingDelayFactor>-0.05</AimingDelayFactor>
+			<EatingSpeed>0.1</EatingSpeed>			
+			<ConstructionSpeed>0.1</ConstructionSpeed>
+			<HuntingStealth>0.1</HuntingStealth>
+			<MedicalTendSpeed>0.1</MedicalTendSpeed>
+			<MedicalTendQuality>0.1</MedicalTendQuality>
 		</equippedStatOffsets>
 		<thingCategories>
 			<li>Category_Annelitrice_Jurnizia</li>
@@ -59,7 +75,7 @@
 	<ThingDef ParentName="Anneli_Jurnizia_5B_Metal">
 		<defName>Anneli_Jurnizia_LegRig_Green</defName>
 		<description>Dyeable.</description>
-		<label>(Jurnizia)5B_LegRig_Green</label>
+		<label>(Jurnizia)5B_LegRig</label>
 		<graphicData>
 			<texPath>5B/Anneli_Jurnizia_LegRig</texPath>
 			<graphicClass>Graphic_Single</graphicClass>

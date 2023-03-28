@@ -2,8 +2,6 @@
 <Defs>
 
 	<ThingDef Name="Anneli_Jurnizia_8B" ParentName="Anneli_8B" Abstract="True">
-		<equippedStatOffsets>
-		</equippedStatOffsets>
 		<thingCategories>
 			<li>Category_Annelitrice_Jurnizia</li>
 		</thingCategories>
@@ -73,7 +71,7 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(255,255,255,255)</only>
+					<only>(145,165,110,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
@@ -82,6 +80,7 @@
 			<Steel>300</Steel>
 			<ComponentIndustrial>1</ComponentIndustrial>
 		</costList>
+		<rotatable>false</rotatable>
 		<statBases>
 			<WorkToMake>3000</WorkToMake>
 			<Mass>5</Mass>
@@ -93,7 +92,7 @@
 			<li>
 				<verbClass>Verb_Bombardment</verbClass>
 				<hasStandardCommand>true</hasStandardCommand>
-				<warmupTime>8.5</warmupTime>
+				<warmupTime>9.5</warmupTime>
 				<ai_AvoidFriendlyFireRadius>23</ai_AvoidFriendlyFireRadius>
 				<ai_IsBuildingDestroyer>true</ai_IsBuildingDestroyer>
 				<range>44.9</range>
@@ -117,7 +116,7 @@
 				<baseReloadTicks>60</baseReloadTicks>
 				<soundReload>Standard_Reload</soundReload>
 				<hotKey>Misc4</hotKey>
-				<chargeNoun>jump</chargeNoun>
+				<chargeNoun>refill</chargeNoun>
 				<displayGizmoWhileUndrafted>false</displayGizmoWhileUndrafted>
 			</li>
 		</comps>
