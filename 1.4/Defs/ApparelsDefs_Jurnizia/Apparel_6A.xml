@@ -140,6 +140,34 @@
 		</colorGenerator>
 	</ThingDef>
 
+	<!--Anneli_Jurnizia_FlatCap-->
+	<ThingDef ParentName="Anneli_Jurnizia_6A_NonMetal">
+		<defName>Anneli_Jurnizia_FlatCap</defName>
+		<description>Dyeable.</description>
+		<label>(Jurnizia)6A_FlatCap</label>
+		<graphicData>
+			<texPath>6A/Anneli_Jurnizia_FlatCap</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6A/Anneli_Jurnizia_FlatCap</wornGraphicPath>
+			<tags>
+				<li>Anneli_Jurnizia_Civilian_Male</li>
+				<li>Anneli_Jurnizia_Militia_Male</li>
+				<li>Anneli_Jurnizia_Driver</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
 	<!--Anneli_Jurnizia_Bandana-->
 	<ThingDef ParentName="Anneli_Jurnizia_6A_NonMetal">
 		<defName>Anneli_Jurnizia_Bandana</defName>
@@ -383,12 +411,41 @@
 		<apparel>
 			<wornGraphicPath>6A/Anneli_Jurnizia_Ushanka</wornGraphicPath>
 			<tags>
-				<li>Anneli_Jurnizia_Civilian_Male</li>
-				<li>Anneli_Jurnizia_Civilian_Female</li>
 				<li>Anneli_Jurnizia_Militia_Male</li>
 				<li>Anneli_Jurnizia_Militia_Female</li>
 				<li>Anneli_Jurnizia_Officer</li>
 				<li>Anneli_Jurnizia_Driver</li>
+				<li>Anneli_Jurnizia_Draftee</li>
+				<li>Anneli_Jurnizia_HeavyTrooper</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_Jurnizia_ShapkaUshanka-->
+	<ThingDef ParentName="Anneli_Jurnizia_6A_NonMetal">
+		<defName>Anneli_Jurnizia_ShapkaUshanka</defName>
+		<description>Dyeable.</description>
+		<label>(Jurnizia)6A_ShapkaUshanka</label>
+		<graphicData>
+			<texPath>6A/Anneli_Jurnizia_ShapkaUshanka</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6A/Anneli_Jurnizia_ShapkaUshanka</wornGraphicPath>
+			<tags>
+				<li>Anneli_Jurnizia_Civilian_Male</li>
+				<li>Anneli_Jurnizia_Civilian_Female</li>
+				<li>Anneli_Jurnizia_Militia_Male</li>
+				<li>Anneli_Jurnizia_Militia_Female</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>

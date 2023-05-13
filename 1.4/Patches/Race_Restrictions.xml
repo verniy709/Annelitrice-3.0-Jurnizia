@@ -6,7 +6,7 @@
       <mods><li>Annelitrice 3.0</li></mods>
       <match Class="PatchOperationAdd">
         <success>Always</success>
-        <xpath>/Defs/AlienRace.ThingDef_AlienRace[defName="Annelitrice"]/alienRace/raceRestriction/apparelList</xpath>        
+        <xpath>/Defs/AlienRace.ThingDef_AlienRace[@Name="Anneli_BasePawn"]/alienRace/raceRestriction/apparelList</xpath>        
         <value>
            <li>Anneli_Jurnizia_BikiniBra</li>
            <li>Anneli_Jurnizia_CamoBikiniBra</li>
@@ -87,6 +87,7 @@
            <li>Anneli_Jurnizia_PeakCap</li>
            <li>Anneli_Jurnizia_Shlemofon</li>
            <li>Anneli_Jurnizia_Beanie</li>
+           <li>Anneli_Jurnizia_FlatCap</li>
            <li>Anneli_Jurnizia_Bandana</li>
            <li>Anneli_Jurnizia_CamoBandana</li>
            <li>Anneli_Jurnizia_Hood</li>
@@ -96,6 +97,7 @@
            <li>Anneli_Jurnizia_PatrolCap</li>
            <li>Anneli_Jurnizia_CamoPatrolCap</li>
            <li>Anneli_Jurnizia_Ushanka</li>
+           <li>Anneli_Jurnizia_ShapkaUshanka</li>
            <li>Anneli_Jurnizia_SSH68Helmet</li>
            <li>Anneli_Jurnizia_CamoSSH68Helmet</li>
            <li>Anneli_Jurnizia_MASKAHelmet</li>

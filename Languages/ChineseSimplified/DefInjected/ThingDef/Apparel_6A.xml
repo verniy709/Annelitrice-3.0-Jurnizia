@@ -18,6 +18,11 @@
   <Anneli_Jurnizia_Beanie.label>(切尼亚)6A_御寒帽</Anneli_Jurnizia_Beanie.label>
   <Anneli_Jurnizia_Beanie.description>可染色.</Anneli_Jurnizia_Beanie.description>
 
+    <!-- Anneli_Jurnizia_FlatCap -->
+
+  <Anneli_Jurnizia_FlatCap.label>(切尼亚)6A_平顶帽</Anneli_Jurnizia_FlatCap.label>
+  <Anneli_Jurnizia_FlatCap.description>可染色.</Anneli_Jurnizia_FlatCap.description>
+
 
   <!-- Anneli_Jurnizia_Bandana -->
 
@@ -69,8 +74,14 @@
 
   <!-- Anneli_Jurnizia_Ushanka -->
 
-  <Anneli_Jurnizia_Ushanka.label>(切尼亚)6A_冬帽</Anneli_Jurnizia_Ushanka.label>
+  <Anneli_Jurnizia_Ushanka.label>(切尼亚)6A_军用乌桑卡</Anneli_Jurnizia_Ushanka.label>
   <Anneli_Jurnizia_Ushanka.description>可染色.</Anneli_Jurnizia_Ushanka.description>
+  
+
+  <!-- Anneli_Jurnizia_ShapkaUshanka -->
+
+  <Anneli_Jurnizia_ShapkaUshanka.label>(切尼亚)6A_乌桑卡</Anneli_Jurnizia_ShapkaUshanka.label>
+  <Anneli_Jurnizia_ShapkaUshanka.description>可染色.</Anneli_Jurnizia_ShapkaUshanka.description>
 
 
   <!-- Anneli_Jurnizia_SSH68Helmet -->
