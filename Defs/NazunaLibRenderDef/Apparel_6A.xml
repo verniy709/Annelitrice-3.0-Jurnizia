@@ -28,6 +28,14 @@
 						<hide>true</hide>
 					</li>
 					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
 						<defLevelName>Anneli_HairCombo_BraidA_Anneli_BackHair</defLevelName>
 						<hide>true</hide>
 					</li>
@@ -81,6 +89,82 @@
 					</li>
 					<li>
 						<defLevelName>Anneli_HairCombo_TiedC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_BraidA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedD_Anneli_Ahoge</defLevelName>
 						<hide>true</hide>
 					</li>
 				</hideList>
@@ -116,6 +200,14 @@
 						<hide>true</hide>
 					</li>
 					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
 						<defLevelName>Anneli_HairCombo_BraidA_Anneli_BackHair</defLevelName>
 						<hide>true</hide>
 					</li>
@@ -169,6 +261,82 @@
 					</li>
 					<li>
 						<defLevelName>Anneli_HairCombo_TiedC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_BraidA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedD_Anneli_Ahoge</defLevelName>
 						<hide>true</hide>
 					</li>
 				</hideList>
@@ -204,6 +372,14 @@
 						<hide>true</hide>
 					</li>
 					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
 						<defLevelName>Anneli_HairCombo_BraidA_Anneli_BackHair</defLevelName>
 						<hide>true</hide>
 					</li>
@@ -257,6 +433,82 @@
 					</li>
 					<li>
 						<defLevelName>Anneli_HairCombo_TiedC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_BraidA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedD_Anneli_Ahoge</defLevelName>
 						<hide>true</hide>
 					</li>
 				</hideList>
@@ -314,6 +566,14 @@
 						<hide>true</hide>
 					</li>
 					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
 						<defLevelName>Anneli_HairCombo_BraidA_Anneli_BackHair</defLevelName>
 						<hide>true</hide>
 					</li>
@@ -367,6 +627,82 @@
 					</li>
 					<li>
 						<defLevelName>Anneli_HairCombo_TiedC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_BraidA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedD_Anneli_Ahoge</defLevelName>
 						<hide>true</hide>
 					</li>
 				</hideList>
@@ -402,6 +738,14 @@
 						<hide>true</hide>
 					</li>
 					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
 						<defLevelName>Anneli_HairCombo_BraidA_Anneli_BackHair</defLevelName>
 						<hide>true</hide>
 					</li>
@@ -455,6 +799,82 @@
 					</li>
 					<li>
 						<defLevelName>Anneli_HairCombo_TiedC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_BraidA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedD_Anneli_Ahoge</defLevelName>
 						<hide>true</hide>
 					</li>
 				</hideList>
@@ -490,6 +910,14 @@
 						<hide>true</hide>
 					</li>
 					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
 						<defLevelName>Anneli_HairCombo_BraidA_Anneli_BackHair</defLevelName>
 						<hide>true</hide>
 					</li>
@@ -543,6 +971,82 @@
 					</li>
 					<li>
 						<defLevelName>Anneli_HairCombo_TiedC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_BraidA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedD_Anneli_Ahoge</defLevelName>
 						<hide>true</hide>
 					</li>
 				</hideList>
@@ -578,6 +1082,14 @@
 						<hide>true</hide>
 					</li>
 					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
 						<defLevelName>Anneli_HairCombo_BraidA_Anneli_BackHair</defLevelName>
 						<hide>true</hide>
 					</li>
@@ -631,6 +1143,82 @@
 					</li>
 					<li>
 						<defLevelName>Anneli_HairCombo_TiedC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_BraidA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedD_Anneli_Ahoge</defLevelName>
 						<hide>true</hide>
 					</li>
 				</hideList>
@@ -666,6 +1254,14 @@
 						<hide>true</hide>
 					</li>
 					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
 						<defLevelName>Anneli_HairCombo_BraidA_Anneli_BackHair</defLevelName>
 						<hide>true</hide>
 					</li>
@@ -719,6 +1315,82 @@
 					</li>
 					<li>
 						<defLevelName>Anneli_HairCombo_TiedC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_BraidA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedD_Anneli_Ahoge</defLevelName>
 						<hide>true</hide>
 					</li>
 				</hideList>
@@ -754,6 +1426,14 @@
 						<hide>true</hide>
 					</li>
 					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
 						<defLevelName>Anneli_HairCombo_BraidA_Anneli_BackHair</defLevelName>
 						<hide>true</hide>
 					</li>
@@ -807,6 +1487,82 @@
 					</li>
 					<li>
 						<defLevelName>Anneli_HairCombo_TiedC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_BraidA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedD_Anneli_Ahoge</defLevelName>
 						<hide>true</hide>
 					</li>
 				</hideList>
@@ -842,6 +1598,14 @@
 						<hide>true</hide>
 					</li>
 					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
 						<defLevelName>Anneli_HairCombo_BraidA_Anneli_BackHair</defLevelName>
 						<hide>true</hide>
 					</li>
@@ -895,6 +1659,82 @@
 					</li>
 					<li>
 						<defLevelName>Anneli_HairCombo_TiedC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_BraidA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedD_Anneli_Ahoge</defLevelName>
 						<hide>true</hide>
 					</li>
 				</hideList>
@@ -930,6 +1770,14 @@
 						<hide>true</hide>
 					</li>
 					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
 						<defLevelName>Anneli_HairCombo_BraidA_Anneli_BackHair</defLevelName>
 						<hide>true</hide>
 					</li>
@@ -983,6 +1831,82 @@
 					</li>
 					<li>
 						<defLevelName>Anneli_HairCombo_TiedC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_BraidA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedD_Anneli_Ahoge</defLevelName>
 						<hide>true</hide>
 					</li>
 				</hideList>
@@ -1018,6 +1942,14 @@
 						<hide>true</hide>
 					</li>
 					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
 						<defLevelName>Anneli_HairCombo_BraidA_Anneli_BackHair</defLevelName>
 						<hide>true</hide>
 					</li>
@@ -1071,6 +2003,82 @@
 					</li>
 					<li>
 						<defLevelName>Anneli_HairCombo_TiedC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_BraidA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedD_Anneli_Ahoge</defLevelName>
 						<hide>true</hide>
 					</li>
 				</hideList>
@@ -1106,6 +2114,14 @@
 						<hide>true</hide>
 					</li>
 					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
 						<defLevelName>Anneli_HairCombo_BraidA_Anneli_BackHair</defLevelName>
 						<hide>true</hide>
 					</li>
@@ -1159,6 +2175,82 @@
 					</li>
 					<li>
 						<defLevelName>Anneli_HairCombo_TiedC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_BraidA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedD_Anneli_Ahoge</defLevelName>
 						<hide>true</hide>
 					</li>
 				</hideList>
@@ -1194,6 +2286,14 @@
 						<hide>true</hide>
 					</li>
 					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
 						<defLevelName>Anneli_HairCombo_BraidA_Anneli_BackHair</defLevelName>
 						<hide>true</hide>
 					</li>
@@ -1247,6 +2347,82 @@
 					</li>
 					<li>
 						<defLevelName>Anneli_HairCombo_TiedC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_BraidA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedD_Anneli_Ahoge</defLevelName>
 						<hide>true</hide>
 					</li>
 				</hideList>
@@ -1282,6 +2458,14 @@
 						<hide>true</hide>
 					</li>
 					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
 						<defLevelName>Anneli_HairCombo_BraidA_Anneli_BackHair</defLevelName>
 						<hide>true</hide>
 					</li>
@@ -1335,6 +2519,82 @@
 					</li>
 					<li>
 						<defLevelName>Anneli_HairCombo_TiedC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_BraidA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedD_Anneli_Ahoge</defLevelName>
 						<hide>true</hide>
 					</li>
 				</hideList>
@@ -1370,6 +2630,14 @@
 						<hide>true</hide>
 					</li>
 					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
 						<defLevelName>Anneli_HairCombo_BraidA_Anneli_BackHair</defLevelName>
 						<hide>true</hide>
 					</li>
@@ -1423,6 +2691,82 @@
 					</li>
 					<li>
 						<defLevelName>Anneli_HairCombo_TiedC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_BraidA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedD_Anneli_Ahoge</defLevelName>
 						<hide>true</hide>
 					</li>
 				</hideList>
@@ -1458,6 +2802,14 @@
 						<hide>true</hide>
 					</li>
 					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
 						<defLevelName>Anneli_HairCombo_BraidA_Anneli_BackHair</defLevelName>
 						<hide>true</hide>
 					</li>
@@ -1511,6 +2863,82 @@
 					</li>
 					<li>
 						<defLevelName>Anneli_HairCombo_TiedC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_BraidA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedD_Anneli_Ahoge</defLevelName>
 						<hide>true</hide>
 					</li>
 				</hideList>
