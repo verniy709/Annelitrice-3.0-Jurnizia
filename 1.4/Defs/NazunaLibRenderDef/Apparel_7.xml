@@ -12,8 +12,8 @@
 				<prefix>
 					<li>Anneli_Jurnizia_ATAKA</li>
 				</prefix>
-				<renderLayer>FrontShell</renderLayer>
-				<textureLevelsName>Anneli_FrontShell7</textureLevelsName>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel7</textureLevelsName>
 				<drawOffsetSouth>(0, 2.09065, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 2.09065, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 2.9272, 0)</drawOffsetNorth>
@@ -28,7 +28,7 @@
 				</prefix>
 				<renderLayer>BottomShell</renderLayer>
 				<textureLevelsName>Anneli_BottomShell7</textureLevelsName>
-				<drawOffsetSouth>(0, -2.032, 0)</drawOffsetSouth>
+				<drawOffsetSouth>(0, -0.232, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 2.09065, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 2.9272, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 2.09065, 0)</drawOffsetWest>
@@ -50,8 +50,8 @@
 				<prefix>
 					<li>Anneli_Jurnizia_ATAKA</li>
 				</prefix>
-				<renderLayer>FrontShell</renderLayer>
-				<textureLevelsName>Anneli_FrontShell7</textureLevelsName>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel7</textureLevelsName>
 				<drawOffsetSouth>(0, 2.09065, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 2.09065, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 2.9272, 0)</drawOffsetNorth>
@@ -66,7 +66,7 @@
 				</prefix>
 				<renderLayer>BottomShell</renderLayer>
 				<textureLevelsName>Anneli_BottomShell7</textureLevelsName>
-				<drawOffsetSouth>(0, -2.032, 0)</drawOffsetSouth>
+				<drawOffsetSouth>(0, -0.232, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 2.09065, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 2.9272, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 2.09065, 0)</drawOffsetWest>
@@ -88,8 +88,8 @@
 				<prefix>
 					<li>Anneli_Jurnizia_CamoATAKA</li>
 				</prefix>
-				<renderLayer>FrontShell</renderLayer>
-				<textureLevelsName>Anneli_FrontShell7</textureLevelsName>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel7</textureLevelsName>
 				<drawOffsetSouth>(0, 2.09065, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 2.09065, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 2.9272, 0)</drawOffsetNorth>
@@ -104,7 +104,7 @@
 				</prefix>
 				<renderLayer>BottomShell</renderLayer>
 				<textureLevelsName>Anneli_BottomShell7</textureLevelsName>
-				<drawOffsetSouth>(0, -2.032, 0)</drawOffsetSouth>
+				<drawOffsetSouth>(0, -0.232, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 2.09065, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 2.9272, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 2.09065, 0)</drawOffsetWest>
@@ -126,8 +126,8 @@
 				<prefix>
 					<li>Anneli_Jurnizia_Backpack</li>
 				</prefix>
-				<renderLayer>FrontShell</renderLayer>
-				<textureLevelsName>Anneli_FrontShell7</textureLevelsName>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel7</textureLevelsName>
 				<drawOffsetSouth>(0, 2.09065, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 2.09065, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 2.9272, 0)</drawOffsetNorth>
@@ -142,7 +142,7 @@
 				</prefix>
 				<renderLayer>BottomShell</renderLayer>
 				<textureLevelsName>Anneli_BottomShell7</textureLevelsName>
-				<drawOffsetSouth>(0, -2.032, 0)</drawOffsetSouth>
+				<drawOffsetSouth>(0, -0.232, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 2.09065, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 2.9272, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 2.09065, 0)</drawOffsetWest>
@@ -164,8 +164,8 @@
 				<prefix>
 					<li>Anneli_Jurnizia_Sack</li>
 				</prefix>
-				<renderLayer>FrontShell</renderLayer>
-				<textureLevelsName>Anneli_FrontShell7</textureLevelsName>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel7</textureLevelsName>
 				<drawOffsetSouth>(0, 2.09065, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 2.09065, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 2.9272, 0)</drawOffsetNorth>
@@ -180,7 +180,7 @@
 				</prefix>
 				<renderLayer>BottomShell</renderLayer>
 				<textureLevelsName>Anneli_BottomShell7</textureLevelsName>
-				<drawOffsetSouth>(0, -2.032, 0)</drawOffsetSouth>
+				<drawOffsetSouth>(0, -0.232, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 2.09065, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 2.9272, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 2.09065, 0)</drawOffsetWest>
