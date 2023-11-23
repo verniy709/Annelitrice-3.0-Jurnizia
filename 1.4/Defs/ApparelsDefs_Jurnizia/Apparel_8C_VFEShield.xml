@@ -66,7 +66,6 @@
             <careIfDamaged>false</careIfDamaged>
             <countsAsClothingForNudity>false</countsAsClothingForNudity>
             <canBeDesiredForIdeo>false</canBeDesiredForIdeo>
-            <useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
         </apparel>
         <inspectorTabs>
             <li>ITab_Art</li>
@@ -87,8 +86,6 @@
     </ThingDef>
 
     <ThingDef Name="Anneli_Jurnizia_8C_BaseVFEShield" ParentName="Anneli_8C_VFEShieldJurniziaBase" Abstract="True">
-        <equippedStatOffsets>
-        </equippedStatOffsets>
         <thingCategories>
             <li>Category_Annelitrice_Jurnizia</li>
         </thingCategories>
@@ -107,7 +104,6 @@
         <graphicData>
             <texPath>8C/Anneli_Jurnizia_BZT75Shield</texPath>
             <graphicClass>Graphic_Single</graphicClass>
-            <shaderType>CutoutComplex</shaderType>
             <drawSize>0.85</drawSize>
         </graphicData>
         <comps>
@@ -223,7 +219,6 @@
         <graphicData>
             <texPath>8C/Anneli_Jurnizia_VantVMShield</texPath>
             <graphicClass>Graphic_Single</graphicClass>
-            <shaderType>CutoutComplex</shaderType>
             <drawSize>0.85</drawSize>
         </graphicData>
         <comps>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
-	<ThingDef Name="Anneli_Jurnizia_6BC" ParentName="Anneli_6BC" Abstract="True">
+	<ThingDef Name="Anneli_Jurnizia_6BC_NonMetal" ParentName="Anneli_6BC_NonMetal" Abstract="True">
+		<equippedStatOffsets>
+			<ShootingAccuracyPawn>0.1</ShootingAccuracyPawn>
+		</equippedStatOffsets>
+		<thingCategories>
+			<li>Category_Annelitrice_Jurnizia</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_Jurnizia_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<ThingDef Name="Anneli_Jurnizia_6BC_Metal" ParentName="Anneli_6BC_Metal" Abstract="True">
 		<equippedStatOffsets>
 			<ShootingAccuracyPawn>0.1</ShootingAccuracyPawn>
 		</equippedStatOffsets>
@@ -16,7 +30,7 @@
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_GP5GasMaskA-->
-	<ThingDef ParentName="Anneli_Jurnizia_6BC">
+	<ThingDef ParentName="Anneli_Jurnizia_6BC_NonMetal">
 		<defName>Anneli_Jurnizia_GP5GasMaskA</defName>
 		<description>Dyeable.</description>
 		<label>(Jurnizia)6BC_GP5GasMaskA</label>
@@ -46,7 +60,7 @@
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_GP5GasMaskB-->
-	<ThingDef ParentName="Anneli_Jurnizia_6BC">
+	<ThingDef ParentName="Anneli_Jurnizia_6BC_NonMetal">
 		<defName>Anneli_Jurnizia_GP5GasMaskB</defName>
 		<description>Dyeable.</description>
 		<label>(Jurnizia)6BC_GP5GasMaskB</label>
@@ -76,7 +90,7 @@
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_PMK1GasMaskA-->
-	<ThingDef ParentName="Anneli_Jurnizia_6BC">
+	<ThingDef ParentName="Anneli_Jurnizia_6BC_NonMetal">
 		<defName>Anneli_Jurnizia_PMK1GasMaskA</defName>
 		<description>Dyeable.</description>
 		<label>(Jurnizia)6BC_PMK1GasMaskA</label>
@@ -104,7 +118,7 @@
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_PMK1GasMaskB-->
-	<ThingDef ParentName="Anneli_Jurnizia_6BC">
+	<ThingDef ParentName="Anneli_Jurnizia_6BC_NonMetal">
 		<defName>Anneli_Jurnizia_PMK1GasMaskB</defName>
 		<description>Dyeable.</description>
 		<label>(Jurnizia)6BC_PMK1GasMaskB</label>
