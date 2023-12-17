@@ -99,6 +99,7 @@
 				<li>Anneli_Jurnizia_Civilian_Male</li>
 				<li>Anneli_Jurnizia_Militia_Male</li>
 				<li>Anneli_Jurnizia_Civilian_Female</li>
+				<li>Anneli_Jurnizia_Civilian_Streamer</li>
 				<li>Anneli_Jurnizia_Militia_Female</li>
 				<li>Anneli_Jurnizia_Driver</li>
 			</tags>
@@ -124,6 +125,7 @@
 				</li>
 			</options>
 		</colorGenerator>
+		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_FlatCap-->
@@ -188,7 +190,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_CamoBandana-->
@@ -414,6 +416,7 @@
 				</li>
 			</options>
 		</colorGenerator>
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_ShapkaUshanka-->
@@ -430,6 +433,7 @@
 			<tags>
 				<li>Anneli_Jurnizia_Civilian_Male</li>
 				<li>Anneli_Jurnizia_Civilian_Female</li>
+				<li>Anneli_Jurnizia_Civilian_Streamer</li>
 				<li>Anneli_Jurnizia_Militia_Male</li>
 				<li>Anneli_Jurnizia_Militia_Female</li>
 			</tags>
@@ -451,6 +455,7 @@
 				</li>
 			</options>
 		</colorGenerator>
+		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_SSH68Helmet-->

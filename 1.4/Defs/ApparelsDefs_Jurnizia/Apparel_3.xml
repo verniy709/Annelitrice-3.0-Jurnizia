@@ -34,6 +34,7 @@
 				<li>Anneli_Jurnizia_Driver</li>
 				<li>Anneli_Jurnizia_InternalTroop_Male</li>
 				<li>Anneli_Jurnizia_Civilian_Female</li>
+				<li>Anneli_Jurnizia_Civilian_Streamer</li>
 				<li>Anneli_Jurnizia_Militia_Female</li>
 				<li>Anneli_Jurnizia_InternalTroop_Female</li>
 			</tags>
@@ -59,7 +60,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_TrenchCoat-->
@@ -86,7 +87,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_AdidasJacket-->
@@ -106,6 +107,7 @@
 				<li>Anneli_Jurnizia_Driver</li>
 				<li>Anneli_Jurnizia_InternalTroop_Male</li>
 				<li>Anneli_Jurnizia_Civilian_Female</li>
+				<li>Anneli_Jurnizia_Civilian_Streamer</li>
 				<li>Anneli_Jurnizia_Militia_Female</li>
 				<li>Anneli_Jurnizia_InternalTroop_Female</li>
 			</tags>
@@ -119,7 +121,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_Parka-->
@@ -176,7 +178,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_CamoParka-->
@@ -204,7 +206,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_PufferVest-->
@@ -240,7 +242,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 	
 	<!--Anneli_Jurnizia_FurCoat-->
@@ -280,7 +282,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 	
 

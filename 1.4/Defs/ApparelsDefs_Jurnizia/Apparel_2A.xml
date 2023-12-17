@@ -28,6 +28,7 @@
 			<wornGraphicPath>2A/Anneli_Jurnizia_SleevelessShirt</wornGraphicPath>
 			<tags>
 				<li>Anneli_Jurnizia_Civilian_Female</li>
+				<li>Anneli_Jurnizia_Civilian_Streamer</li>
 				<li>Anneli_Jurnizia_Militia_Female</li>
 				<li>Anneli_Jurnizia_Officer</li>
 				<li>Anneli_Jurnizia_InternalTroop_Female</li>
@@ -205,6 +206,7 @@
 			<wornGraphicPath>2A/Anneli_Jurnizia_OversizedShirt</wornGraphicPath>
 			<tags>
 				<li>Anneli_Jurnizia_Civilian_Female</li>
+				<li>Anneli_Jurnizia_Civilian_Streamer</li>
 				<li>Anneli_Jurnizia_Militia_Female</li>
 				<li>Anneli_Jurnizia_InternalTroop_Female</li>
 			</tags>
@@ -232,11 +234,8 @@
 		<apparel>
 			<wornGraphicPath>2A/Anneli_Jurnizia_OpenChestShirt</wornGraphicPath>
 			<tags>
-				<li>Anneli_Jurnizia_Civilian_Male</li>
-				<li>Anneli_Jurnizia_Militia_Male</li>
-				<li>Anneli_Jurnizia_Driver</li>
-				<li>Anneli_Jurnizia_InternalTroop_Male</li>
 				<li>Anneli_Jurnizia_Civilian_Female</li>
+				<li>Anneli_Jurnizia_Civilian_Streamer</li>
 				<li>Anneli_Jurnizia_Militia_Female</li>
 				<li>Anneli_Jurnizia_InternalTroop_Female</li>
 			</tags>

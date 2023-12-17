@@ -81,6 +81,7 @@
 				<li>Anneli_Jurnizia_Draftee</li>
 				<li>Anneli_Jurnizia_InternalTroop_Male</li>
 				<li>Anneli_Jurnizia_Civilian_Female</li>
+				<li>Anneli_Jurnizia_Civilian_Streamer</li>
 				<li>Anneli_Jurnizia_Militia_Female</li>
 				<li>Anneli_Jurnizia_InternalTroop_Female</li>
 			</tags>
@@ -106,7 +107,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_EyePatchA-->
@@ -135,7 +136,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.35</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_EyePatchB-->
@@ -164,7 +165,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.35</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 

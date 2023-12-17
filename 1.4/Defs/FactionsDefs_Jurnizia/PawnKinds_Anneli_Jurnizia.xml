@@ -20,7 +20,7 @@
 		</techHediffsTags>
 		<apparelAllowHeadgearChance>1.0</apparelAllowHeadgearChance>
 		<gearHealthRange>
-			<min>0.4</min>
+			<min>1.0</min>
 			<max>2.0</max>
 		</gearHealthRange>
 		<inventoryOptions>
@@ -57,6 +57,10 @@
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<factionLeader>true</factionLeader>
+		<apparelRequired>
+			<li>Anneli_Jurnizia_CamoPants</li>
+			<li>Anneli_Jurnizia_CamoParka</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>Anneli_Jurnizia_Common</li>
 			<li>Anneli_Jurnizia_HeavyTrooper</li>
@@ -85,6 +89,35 @@
 		<label>Jurnizia_Civilian</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Jurnizia_PlaidSleevelessShirt</li>
+			<li>Anneli_Jurnizia_Jeans</li> 
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_Jurnizia_Common</li>
+			<li>Anneli_Jurnizia_Civilian_Male</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>SimpleGun</li>
+			<li>Revolver</li>
+			<li>IndustrialGunAdvanced</li>
+			<li>GrenadeDestructive</li>
+			<li>MedievalMeleeBasic</li>
+			<li>NeolithicMeleeBasic</li>
+			<li>MedievalMeleeDecent</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_Jurnizia_KindBase">
+		<defName>Anneli_Jurnizia_Thug</defName>
+		<label>Jurnizia_Civilian</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Jurnizia_SportPants</li>
+			<li>Anneli_Jurnizia_AdidasJacket</li> 
+		</apparelRequired>
 		<apparelTags>
 			<li>Anneli_Jurnizia_Common</li>
 			<li>Anneli_Jurnizia_Civilian_Male</li>
@@ -106,9 +139,63 @@
 		<label>Jurnizia_Civilian</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Jurnizia_SleevelessShirt</li>
+			<li>Anneli_Jurnizia_DenimShorts</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>Anneli_Jurnizia_Common</li>
 			<li>Anneli_Jurnizia_Civilian_Female</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>SimpleGun</li>
+			<li>Revolver</li>
+			<li>IndustrialGunAdvanced</li>
+			<li>GrenadeDestructive</li>
+			<li>MedievalMeleeBasic</li>
+			<li>NeolithicMeleeBasic</li>
+			<li>MedievalMeleeDecent</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_Jurnizia_KindBase">
+		<defName>Anneli_Jurnizia_Civilian_Jogger</defName>
+		<label>Jurnizia_Civilian</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Jurnizia_Leggings</li>
+			<li>Anneli_Jurnizia_Hoodie</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_Jurnizia_Common</li>
+			<li>Anneli_Jurnizia_Civilian_Female</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>SimpleGun</li>
+			<li>Revolver</li>
+			<li>IndustrialGunAdvanced</li>
+			<li>GrenadeDestructive</li>
+			<li>MedievalMeleeBasic</li>
+			<li>NeolithicMeleeBasic</li>
+			<li>MedievalMeleeDecent</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_Jurnizia_KindBase">
+		<defName>Anneli_Jurnizia_Civilian_Streamer</defName>
+		<label>Jurnizia_Civilian</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Jurnizia_OpenChestShirt</li>
+			<li>Anneli_Jurnizia_LeatherSkirt</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_Jurnizia_Common</li>
+			<li>Anneli_Jurnizia_Civilian_Streamer</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
@@ -127,6 +214,10 @@
 		<label>Jurnizia_Militia</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Jurnizia_TShirt</li>
+			<li>Anneli_Jurnizia_Jeans</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>Anneli_Jurnizia_Common</li>
 			<li>Anneli_Jurnizia_Militia_Male</li>
@@ -145,6 +236,9 @@
 		<label>Jurnizia_Militia</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Jurnizia_Dress</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>Anneli_Jurnizia_Common</li>
 			<li>Anneli_Jurnizia_Militia_Female</li>
@@ -163,6 +257,10 @@
 		<label>Jurnizia_Draftee</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Jurnizia_CamoTankTop</li>
+			<li>Anneli_Jurnizia_CamoPants</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>Anneli_Jurnizia_Common</li>
 			<li>Anneli_Jurnizia_Draftee</li>
@@ -181,6 +279,10 @@
 		<label>Jurnizia_Officer</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Jurnizia_ShirtNecktie</li>
+			<li>Anneli_Jurnizia_Skirt</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>BeltDefensePop</li>
 			<li>Anneli_Jurnizia_Common</li>
@@ -199,6 +301,10 @@
 		<label>Jurnizia_Driver</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Jurnizia_BaggyPants</li>
+			<li>Anneli_Jurnizia_Parka</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>Anneli_Jurnizia_Common</li>
 			<li>Anneli_Jurnizia_Driver</li>
@@ -216,6 +322,10 @@
 		<label>Jurnizia_Spetsnaz</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Jurnizia_GorkaPants</li>
+			<li>Anneli_Jurnizia_GorkaParka</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>BeltDefensePop</li>
 			<li>Anneli_Jurnizia_Common</li>
@@ -247,6 +357,12 @@
 		<label>Jurnizia_Sniper</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Jurnizia_CamoPants</li>
+			<li>Anneli_Jurnizia_CamoParka</li>
+			<li>Anneli_Jurnizia_GhillieSuit</li>
+			<li>Anneli_Jurnizia_GhillieHood</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>BeltDefensePop</li>
 			<li>Anneli_Jurnizia_Common</li>
@@ -264,6 +380,10 @@
 		<label>Jurnizia_InternalTroop</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Jurnizia_ShirtNecktie</li>
+			<li>Anneli_Jurnizia_Jeans</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>Anneli_Jurnizia_Common</li>
 			<li>Anneli_Jurnizia_InternalTroop_Male</li>
@@ -294,6 +414,42 @@
 		<label>Jurnizia_InternalTroop</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Jurnizia_SunDress</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_Jurnizia_Common</li>
+			<li>Anneli_Jurnizia_InternalTroop_Female</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>SimpleGun</li>
+			<li>Revolver</li>
+			<li>IndustrialGunAdvanced</li>
+			<li>SniperRifle</li>
+		</weaponTags>
+		<modExtensions Inherit="False">
+			<li Class="VFECore.PawnKindDefExtension">
+				<shieldMoney>
+					<min>100</min>
+					<max>400</max>
+				</shieldMoney>
+				<shieldTags>
+					<li>Jurnizia_BZT75Shield</li>
+					<li>Jurnizia_VantVMShield</li>
+				</shieldTags>
+			</li>
+		</modExtensions>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_Jurnizia_KindBase">
+		<defName>Anneli_Jurnizia_Agent</defName>
+		<label>Jurnizia_InternalTroop</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Jurnizia_SheathDress</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>Anneli_Jurnizia_Common</li>
 			<li>Anneli_Jurnizia_InternalTroop_Female</li>
@@ -324,6 +480,10 @@
 		<label>Jurnizia_HeavyTrooper</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_Jurnizia_CamoPants</li>
+			<li>Anneli_Jurnizia_CamoParka</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>Anneli_Jurnizia_Common</li>
 			<li>Anneli_Jurnizia_HeavyTrooper</li>

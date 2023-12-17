@@ -37,7 +37,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_Lifchik_Olive-->
@@ -73,7 +73,7 @@
 			<!--Not makeable-->
 			<useIngredientsForColor>false</useIngredientsForColor>
 		</recipeMaker>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_CamoLifchik-->
@@ -101,7 +101,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_TacticalBelt-->
@@ -129,7 +129,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_TacticalBelt_Olive-->
@@ -165,7 +165,7 @@
 			<!--Not makeable-->
 			<useIngredientsForColor>false</useIngredientsForColor>
 		</recipeMaker>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 <!--Anneli_Jurnizia_CamoTacticalBelt-->
@@ -193,7 +193,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_Bandolier-->

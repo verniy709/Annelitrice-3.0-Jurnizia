@@ -61,6 +61,7 @@
 			<wornGraphicPath>2B/Anneli_Jurnizia_DenimShorts</wornGraphicPath>
 			<tags>
 				<li>Anneli_Jurnizia_Civilian_Female</li>
+				<li>Anneli_Jurnizia_Civilian_Streamer</li>
 				<li>Anneli_Jurnizia_Militia_Female</li>
 				<li>Anneli_Jurnizia_InternalTroop_Female</li>
 			</tags>
@@ -93,6 +94,7 @@
 			<wornGraphicPath>2B/Anneli_Jurnizia_Leggings</wornGraphicPath>
 			<tags>
 				<li>Anneli_Jurnizia_Civilian_Female</li>
+				<li>Anneli_Jurnizia_Civilian_Streamer</li>
 				<li>Anneli_Jurnizia_Militia_Female</li>
 				<li>Anneli_Jurnizia_InternalTroop_Female</li>
 			</tags>
@@ -121,6 +123,7 @@
 			<wornGraphicPath>2B/Anneli_Jurnizia_Skirt</wornGraphicPath>
 			<tags>
 				<li>Anneli_Jurnizia_Civilian_Female</li>
+				<li>Anneli_Jurnizia_Civilian_Streamer</li>
 				<li>Anneli_Jurnizia_Militia_Female</li>
 				<li>Anneli_Jurnizia_Officer</li>
 				<li>Anneli_Jurnizia_InternalTroop_Female</li>
@@ -131,7 +134,7 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(255,245,245,255)</only>
+					<only>(130,120,100,255)</only>
 				</li>
 				<li>
 					<weight>10</weight>
@@ -154,6 +157,7 @@
 			<wornGraphicPath>2B/Anneli_Jurnizia_LeatherSkirt</wornGraphicPath>
 			<tags>
 				<li>Anneli_Jurnizia_Civilian_Female</li>
+				<li>Anneli_Jurnizia_Civilian_Streamer</li>
 				<li>Anneli_Jurnizia_Militia_Female</li>
 				<li>Anneli_Jurnizia_Officer</li>
 				<li>Anneli_Jurnizia_InternalTroop_Female</li>
@@ -281,7 +285,5 @@
 			</options>
 		</colorGenerator>
 	</ThingDef>
-
-
 
 </Defs>

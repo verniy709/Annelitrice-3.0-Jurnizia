@@ -61,10 +61,10 @@
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel2B</textureLevelsName>
-				<drawOffsetSouth>(0, 0.21, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 0.21, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 0.21, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 0.21, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 1.2541, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.2541, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.2541, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.2541, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>

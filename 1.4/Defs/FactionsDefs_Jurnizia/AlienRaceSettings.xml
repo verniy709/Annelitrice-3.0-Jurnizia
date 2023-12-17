@@ -13,7 +13,25 @@
 				</li>
 				<li>
 					<kindDefs>
+						<li>Anneli_Jurnizia_Thug</li>
+					</kindDefs>
+					<chance>1</chance>
+				</li>
+				<li>
+					<kindDefs>
 						<li>Anneli_Jurnizia_Civilian_Female</li>
+					</kindDefs>
+					<chance>1</chance>
+				</li>
+				<li>
+					<kindDefs>
+						<li>Anneli_Jurnizia_Civilian_Jogger</li>
+					</kindDefs>
+					<chance>1</chance>
+				</li>
+				<li>
+					<kindDefs>
+						<li>Anneli_Jurnizia_Civilian_Streamer</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
@@ -73,6 +91,12 @@
 				</li>
 				<li>
 					<kindDefs>
+						<li>Anneli_Jurnizia_Agent</li>
+					</kindDefs>
+					<chance>1</chance>
+				</li>
+				<li>
+					<kindDefs>
 						<li>Anneli_Jurnizia_HeavyTrooper</li>
 					</kindDefs>
 					<chance>1</chance>
@@ -90,7 +114,25 @@
 						</li>
 						<li>
 							<kindDefs>
+								<li>Anneli_Jurnizia_Thug</li>
+							</kindDefs>
+							<chance>1</chance>
+						</li>
+						<li>
+							<kindDefs>
 								<li>Anneli_Jurnizia_Civilian_Female</li>
+							</kindDefs>
+							<chance>1</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_Jurnizia_Civilian_Jogger</li>
+							</kindDefs>
+							<chance>1</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_Jurnizia_Civilian_Streamer</li>
 							</kindDefs>
 							<chance>1</chance>
 						</li>
@@ -145,6 +187,12 @@
 						<li>
 							<kindDefs>
 								<li>Anneli_Jurnizia_InternalTroop_Female</li>
+							</kindDefs>
+							<chance>1</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_Jurnizia_Agent</li>
 							</kindDefs>
 							<chance>1</chance>
 						</li>
@@ -170,7 +218,25 @@
 				</li>
 				<li>
 					<kindDefs>
+						<li>Anneli_Jurnizia_Thug</li>
+					</kindDefs>
+					<chance>1</chance>
+				</li>
+				<li>
+					<kindDefs>
 						<li>Anneli_Jurnizia_Civilian_Female</li>
+					</kindDefs>
+					<chance>1</chance>
+				</li>
+				<li>
+					<kindDefs>
+						<li>Anneli_Jurnizia_Civilian_Jogger</li>
+					</kindDefs>
+					<chance>1</chance>
+				</li>
+				<li>
+					<kindDefs>
+						<li>Anneli_Jurnizia_Civilian_Streamer</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
@@ -230,6 +296,12 @@
 				</li>
 				<li>
 					<kindDefs>
+						<li>Anneli_Jurnizia_Agent</li>
+					</kindDefs>
+					<chance>1</chance>
+				</li>
+				<li>
+					<kindDefs>
 						<li>Anneli_Jurnizia_HeavyTrooper</li>
 					</kindDefs>
 					<chance>1</chance>
@@ -247,7 +319,25 @@
 						</li>
 						<li>
 							<kindDefs>
+								<li>Anneli_Jurnizia_Thug</li>
+							</kindDefs>
+							<chance>100</chance>
+						</li>
+						<li>
+							<kindDefs>
 								<li>Anneli_Jurnizia_Civilian_Female</li>
+							</kindDefs>
+							<chance>100</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_Jurnizia_Civilian_Jogger</li>
+							</kindDefs>
+							<chance>100</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_Jurnizia_Civilian_Streamer</li>
 							</kindDefs>
 							<chance>100</chance>
 						</li>
@@ -302,6 +392,12 @@
 						<li>
 							<kindDefs>
 								<li>Anneli_Jurnizia_InternalTroop_Female</li>
+							</kindDefs>
+							<chance>100</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_Jurnizia_Agent</li>
 							</kindDefs>
 							<chance>100</chance>
 						</li>

@@ -65,57 +65,46 @@
 			<max>75</max>
 		</allowedArrivalTemperatureRange>
 		<pawnGroupMakers>
-			<!-- War Band -->
-			<li>
-				<kindDef>Combat</kindDef>
-				<commonality>60</commonality>
-				<options>
-					<Anneli_Jurnizia_Leader>1</Anneli_Jurnizia_Leader>
-					<Anneli_Jurnizia_Civilian_Male>5</Anneli_Jurnizia_Civilian_Male>
-					<Anneli_Jurnizia_Civilian_Female>10</Anneli_Jurnizia_Civilian_Female>
-					<Anneli_Jurnizia_Militia_Male>6</Anneli_Jurnizia_Militia_Male>
-					<Anneli_Jurnizia_Militia_Female>3</Anneli_Jurnizia_Militia_Female>
-					<Anneli_Jurnizia_Draftee>5</Anneli_Jurnizia_Draftee>
-					<Anneli_Jurnizia_Officer>3</Anneli_Jurnizia_Officer>
-					<Anneli_Jurnizia_Driver>3</Anneli_Jurnizia_Driver>
-					<Anneli_Jurnizia_Spetsnaz>3</Anneli_Jurnizia_Spetsnaz>
-					<Anneli_Jurnizia_Sniper>3</Anneli_Jurnizia_Sniper>
-					<Anneli_Jurnizia_InternalTroop_Male>5</Anneli_Jurnizia_InternalTroop_Male>
-					<Anneli_Jurnizia_InternalTroop_Female>5</Anneli_Jurnizia_InternalTroop_Female>
-					<Anneli_Jurnizia_HeavyTrooper>5</Anneli_Jurnizia_HeavyTrooper>
-				</options>
-			</li>
 			<!-- Regular Army -->
 			<li>
 				<kindDef>Combat</kindDef>
-				<commonality>40</commonality>
+				<commonality>100</commonality>
 				<options>
 					<Anneli_Jurnizia_Leader>1</Anneli_Jurnizia_Leader>
 					<Anneli_Jurnizia_Civilian_Male>3</Anneli_Jurnizia_Civilian_Male>
-					<Anneli_Jurnizia_Civilian_Female>6</Anneli_Jurnizia_Civilian_Female>
-					<Anneli_Jurnizia_Militia_Male>6</Anneli_Jurnizia_Militia_Male>
+					<Anneli_Jurnizia_Thug>3</Anneli_Jurnizia_Thug>
+					<Anneli_Jurnizia_Civilian_Female>3</Anneli_Jurnizia_Civilian_Female>
+					<Anneli_Jurnizia_Civilian_Jogger>3</Anneli_Jurnizia_Civilian_Jogger>
+					<Anneli_Jurnizia_Civilian_Streamer>3</Anneli_Jurnizia_Civilian_Streamer>
+					<Anneli_Jurnizia_Militia_Male>3</Anneli_Jurnizia_Militia_Male>
 					<Anneli_Jurnizia_Militia_Female>3</Anneli_Jurnizia_Militia_Female>
-					<Anneli_Jurnizia_Draftee>10</Anneli_Jurnizia_Draftee>
+					<Anneli_Jurnizia_Draftee>5</Anneli_Jurnizia_Draftee>
 					<Anneli_Jurnizia_Officer>3</Anneli_Jurnizia_Officer>
-					<Anneli_Jurnizia_Driver>3</Anneli_Jurnizia_Driver>
-					<Anneli_Jurnizia_Spetsnaz>3</Anneli_Jurnizia_Spetsnaz>
-					<Anneli_Jurnizia_Sniper>3</Anneli_Jurnizia_Sniper>
-					<Anneli_Jurnizia_InternalTroop_Male>5</Anneli_Jurnizia_InternalTroop_Male>
-					<Anneli_Jurnizia_InternalTroop_Female>5</Anneli_Jurnizia_InternalTroop_Female>
-					<Anneli_Jurnizia_HeavyTrooper>10</Anneli_Jurnizia_HeavyTrooper>
+					<Anneli_Jurnizia_Driver>2</Anneli_Jurnizia_Driver>
+					<Anneli_Jurnizia_Spetsnaz>2</Anneli_Jurnizia_Spetsnaz>
+					<Anneli_Jurnizia_Sniper>2</Anneli_Jurnizia_Sniper>
+					<Anneli_Jurnizia_InternalTroop_Male>3</Anneli_Jurnizia_InternalTroop_Male>
+					<Anneli_Jurnizia_InternalTroop_Female>3</Anneli_Jurnizia_InternalTroop_Female>
+					<Anneli_Jurnizia_Agent>3</Anneli_Jurnizia_Agent>
+					<Anneli_Jurnizia_HeavyTrooper>5</Anneli_Jurnizia_HeavyTrooper>
 				</options>
 			</li>
 			<li>
 				<kindDef>Peaceful</kindDef>
 				<options>
 					<Anneli_Jurnizia_Civilian_Male>1</Anneli_Jurnizia_Civilian_Male>
+					<Anneli_Jurnizia_Thug>1</Anneli_Jurnizia_Thug>
 					<Anneli_Jurnizia_Civilian_Female>1</Anneli_Jurnizia_Civilian_Female>
-					<Anneli_Jurnizia_InternalTroop_Male>1</Anneli_Jurnizia_InternalTroop_Male>
-					<Anneli_Jurnizia_InternalTroop_Female>1</Anneli_Jurnizia_InternalTroop_Female>
+					<Anneli_Jurnizia_Civilian_Jogger>1</Anneli_Jurnizia_Civilian_Jogger>
+					<Anneli_Jurnizia_Civilian_Streamer>1</Anneli_Jurnizia_Civilian_Streamer>
+					<Anneli_Jurnizia_Militia_Male>1</Anneli_Jurnizia_Militia_Male>
+					<Anneli_Jurnizia_Militia_Female>1</Anneli_Jurnizia_Militia_Female>
 					<Anneli_Jurnizia_Draftee>1</Anneli_Jurnizia_Draftee>
 					<Anneli_Jurnizia_Officer>1</Anneli_Jurnizia_Officer>
-					<Anneli_Jurnizia_Driver>1</Anneli_Jurnizia_Driver>
-					<Anneli_Jurnizia_Spetsnaz>1</Anneli_Jurnizia_Spetsnaz>
+					<Anneli_Jurnizia_InternalTroop_Male>1</Anneli_Jurnizia_InternalTroop_Male>
+					<Anneli_Jurnizia_InternalTroop_Female>1</Anneli_Jurnizia_InternalTroop_Female>
+					<Anneli_Jurnizia_Agent>1</Anneli_Jurnizia_Agent>
+					<Anneli_Jurnizia_HeavyTrooper>1</Anneli_Jurnizia_HeavyTrooper>
 				</options>
 			</li>
 			<li>
@@ -131,7 +120,10 @@
 				</carriers>
 				<guards>
 					<Anneli_Jurnizia_Civilian_Male>1</Anneli_Jurnizia_Civilian_Male>
+					<Anneli_Jurnizia_Thug>1</Anneli_Jurnizia_Thug>
 					<Anneli_Jurnizia_Civilian_Female>1</Anneli_Jurnizia_Civilian_Female>
+					<Anneli_Jurnizia_Civilian_Jogger>1</Anneli_Jurnizia_Civilian_Jogger>
+					<Anneli_Jurnizia_Civilian_Streamer>1</Anneli_Jurnizia_Civilian_Streamer>
 					<Anneli_Jurnizia_Militia_Male>1</Anneli_Jurnizia_Militia_Male>
 					<Anneli_Jurnizia_Militia_Female>1</Anneli_Jurnizia_Militia_Female>
 					<Anneli_Jurnizia_Draftee>1</Anneli_Jurnizia_Draftee>
@@ -141,6 +133,7 @@
 					<Anneli_Jurnizia_Sniper>1</Anneli_Jurnizia_Sniper>
 					<Anneli_Jurnizia_InternalTroop_Male>1</Anneli_Jurnizia_InternalTroop_Male>
 					<Anneli_Jurnizia_InternalTroop_Female>1</Anneli_Jurnizia_InternalTroop_Female>
+					<Anneli_Jurnizia_Agent>1</Anneli_Jurnizia_Agent>
 					<Anneli_Jurnizia_HeavyTrooper>1</Anneli_Jurnizia_HeavyTrooper>
 				</guards>
 			</li>
@@ -149,17 +142,21 @@
 				<options>
 					<Anneli_Jurnizia_Leader>1</Anneli_Jurnizia_Leader>
 					<Anneli_Jurnizia_Civilian_Male>3</Anneli_Jurnizia_Civilian_Male>
-					<Anneli_Jurnizia_Civilian_Female>6</Anneli_Jurnizia_Civilian_Female>
-					<Anneli_Jurnizia_Militia_Male>6</Anneli_Jurnizia_Militia_Male>
+					<Anneli_Jurnizia_Thug>3</Anneli_Jurnizia_Thug>
+					<Anneli_Jurnizia_Civilian_Female>3</Anneli_Jurnizia_Civilian_Female>
+					<Anneli_Jurnizia_Civilian_Jogger>3</Anneli_Jurnizia_Civilian_Jogger>
+					<Anneli_Jurnizia_Civilian_Streamer>3</Anneli_Jurnizia_Civilian_Streamer>
+					<Anneli_Jurnizia_Militia_Male>3</Anneli_Jurnizia_Militia_Male>
 					<Anneli_Jurnizia_Militia_Female>3</Anneli_Jurnizia_Militia_Female>
-					<Anneli_Jurnizia_Draftee>10</Anneli_Jurnizia_Draftee>
+					<Anneli_Jurnizia_Draftee>5</Anneli_Jurnizia_Draftee>
 					<Anneli_Jurnizia_Officer>3</Anneli_Jurnizia_Officer>
-					<Anneli_Jurnizia_Driver>3</Anneli_Jurnizia_Driver>
-					<Anneli_Jurnizia_Spetsnaz>3</Anneli_Jurnizia_Spetsnaz>
-					<Anneli_Jurnizia_Sniper>3</Anneli_Jurnizia_Sniper>
-					<Anneli_Jurnizia_InternalTroop_Male>5</Anneli_Jurnizia_InternalTroop_Male>
-					<Anneli_Jurnizia_InternalTroop_Female>5</Anneli_Jurnizia_InternalTroop_Female>
-					<Anneli_Jurnizia_HeavyTrooper>10</Anneli_Jurnizia_HeavyTrooper>
+					<Anneli_Jurnizia_Driver>2</Anneli_Jurnizia_Driver>
+					<Anneli_Jurnizia_Spetsnaz>2</Anneli_Jurnizia_Spetsnaz>
+					<Anneli_Jurnizia_Sniper>2</Anneli_Jurnizia_Sniper>
+					<Anneli_Jurnizia_InternalTroop_Male>3</Anneli_Jurnizia_InternalTroop_Male>
+					<Anneli_Jurnizia_InternalTroop_Female>3</Anneli_Jurnizia_InternalTroop_Female>
+					<Anneli_Jurnizia_Agent>3</Anneli_Jurnizia_Agent>
+					<Anneli_Jurnizia_HeavyTrooper>5</Anneli_Jurnizia_HeavyTrooper>
 				</options>
 			</li>
 			<li MayRequire="Ludeon.RimWorld.Ideology">
@@ -167,13 +164,21 @@
 				<commonality>1</commonality>
 				<options>
 					<Anneli_Jurnizia_Civilian_Male>1</Anneli_Jurnizia_Civilian_Male>
+					<Anneli_Jurnizia_Thug>1</Anneli_Jurnizia_Thug>
 					<Anneli_Jurnizia_Civilian_Female>1</Anneli_Jurnizia_Civilian_Female>
-					<Anneli_Jurnizia_InternalTroop_Male>1</Anneli_Jurnizia_InternalTroop_Male>
-					<Anneli_Jurnizia_InternalTroop_Female>1</Anneli_Jurnizia_InternalTroop_Female>
+					<Anneli_Jurnizia_Civilian_Jogger>1</Anneli_Jurnizia_Civilian_Jogger>
+					<Anneli_Jurnizia_Civilian_Streamer>1</Anneli_Jurnizia_Civilian_Streamer>
+					<Anneli_Jurnizia_Militia_Male>1</Anneli_Jurnizia_Militia_Male>
+					<Anneli_Jurnizia_Militia_Female>1</Anneli_Jurnizia_Militia_Female>
 					<Anneli_Jurnizia_Draftee>1</Anneli_Jurnizia_Draftee>
 					<Anneli_Jurnizia_Officer>1</Anneli_Jurnizia_Officer>
 					<Anneli_Jurnizia_Driver>1</Anneli_Jurnizia_Driver>
 					<Anneli_Jurnizia_Spetsnaz>1</Anneli_Jurnizia_Spetsnaz>
+					<Anneli_Jurnizia_Sniper>1</Anneli_Jurnizia_Sniper>
+					<Anneli_Jurnizia_InternalTroop_Male>1</Anneli_Jurnizia_InternalTroop_Male>
+					<Anneli_Jurnizia_InternalTroop_Female>1</Anneli_Jurnizia_InternalTroop_Female>
+					<Anneli_Jurnizia_Agent>1</Anneli_Jurnizia_Agent>
+					<Anneli_Jurnizia_HeavyTrooper>1</Anneli_Jurnizia_HeavyTrooper>
 				</options>
 			</li>
 			<li MayRequire="Ludeon.RimWorld.Ideology">
@@ -181,13 +186,21 @@
 				<commonality>1</commonality>
 				<options>
 					<Anneli_Jurnizia_Civilian_Male>1</Anneli_Jurnizia_Civilian_Male>
+					<Anneli_Jurnizia_Thug>1</Anneli_Jurnizia_Thug>
 					<Anneli_Jurnizia_Civilian_Female>1</Anneli_Jurnizia_Civilian_Female>
-					<Anneli_Jurnizia_InternalTroop_Male>1</Anneli_Jurnizia_InternalTroop_Male>
-					<Anneli_Jurnizia_InternalTroop_Female>1</Anneli_Jurnizia_InternalTroop_Female>
+					<Anneli_Jurnizia_Civilian_Jogger>1</Anneli_Jurnizia_Civilian_Jogger>
+					<Anneli_Jurnizia_Civilian_Streamer>1</Anneli_Jurnizia_Civilian_Streamer>
+					<Anneli_Jurnizia_Militia_Male>1</Anneli_Jurnizia_Militia_Male>
+					<Anneli_Jurnizia_Militia_Female>1</Anneli_Jurnizia_Militia_Female>
 					<Anneli_Jurnizia_Draftee>1</Anneli_Jurnizia_Draftee>
 					<Anneli_Jurnizia_Officer>1</Anneli_Jurnizia_Officer>
 					<Anneli_Jurnizia_Driver>1</Anneli_Jurnizia_Driver>
 					<Anneli_Jurnizia_Spetsnaz>1</Anneli_Jurnizia_Spetsnaz>
+					<Anneli_Jurnizia_Sniper>1</Anneli_Jurnizia_Sniper>
+					<Anneli_Jurnizia_InternalTroop_Male>1</Anneli_Jurnizia_InternalTroop_Male>
+					<Anneli_Jurnizia_InternalTroop_Female>1</Anneli_Jurnizia_InternalTroop_Female>
+					<Anneli_Jurnizia_Agent>1</Anneli_Jurnizia_Agent>
+					<Anneli_Jurnizia_HeavyTrooper>1</Anneli_Jurnizia_HeavyTrooper>
 				</options>
 			</li>
 			<li MayRequire="Ludeon.RimWorld.Ideology">
@@ -195,13 +208,21 @@
 				<commonality>1</commonality>
 				<options>
 					<Anneli_Jurnizia_Civilian_Male>1</Anneli_Jurnizia_Civilian_Male>
+					<Anneli_Jurnizia_Thug>1</Anneli_Jurnizia_Thug>
 					<Anneli_Jurnizia_Civilian_Female>1</Anneli_Jurnizia_Civilian_Female>
-					<Anneli_Jurnizia_InternalTroop_Male>1</Anneli_Jurnizia_InternalTroop_Male>
-					<Anneli_Jurnizia_InternalTroop_Female>1</Anneli_Jurnizia_InternalTroop_Female>
+					<Anneli_Jurnizia_Civilian_Jogger>1</Anneli_Jurnizia_Civilian_Jogger>
+					<Anneli_Jurnizia_Civilian_Streamer>1</Anneli_Jurnizia_Civilian_Streamer>
+					<Anneli_Jurnizia_Militia_Male>1</Anneli_Jurnizia_Militia_Male>
+					<Anneli_Jurnizia_Militia_Female>1</Anneli_Jurnizia_Militia_Female>
 					<Anneli_Jurnizia_Draftee>1</Anneli_Jurnizia_Draftee>
 					<Anneli_Jurnizia_Officer>1</Anneli_Jurnizia_Officer>
 					<Anneli_Jurnizia_Driver>1</Anneli_Jurnizia_Driver>
 					<Anneli_Jurnizia_Spetsnaz>1</Anneli_Jurnizia_Spetsnaz>
+					<Anneli_Jurnizia_Sniper>1</Anneli_Jurnizia_Sniper>
+					<Anneli_Jurnizia_InternalTroop_Male>1</Anneli_Jurnizia_InternalTroop_Male>
+					<Anneli_Jurnizia_InternalTroop_Female>1</Anneli_Jurnizia_InternalTroop_Female>
+					<Anneli_Jurnizia_Agent>1</Anneli_Jurnizia_Agent>
+					<Anneli_Jurnizia_HeavyTrooper>1</Anneli_Jurnizia_HeavyTrooper>
 				</options>
 			</li>
 			<li MayRequire="Ludeon.RimWorld.Ideology">
@@ -209,13 +230,21 @@
 				<commonality>1</commonality>
 				<options>
 					<Anneli_Jurnizia_Civilian_Male>1</Anneli_Jurnizia_Civilian_Male>
+					<Anneli_Jurnizia_Thug>1</Anneli_Jurnizia_Thug>
 					<Anneli_Jurnizia_Civilian_Female>1</Anneli_Jurnizia_Civilian_Female>
-					<Anneli_Jurnizia_InternalTroop_Male>1</Anneli_Jurnizia_InternalTroop_Male>
-					<Anneli_Jurnizia_InternalTroop_Female>1</Anneli_Jurnizia_InternalTroop_Female>
+					<Anneli_Jurnizia_Civilian_Jogger>1</Anneli_Jurnizia_Civilian_Jogger>
+					<Anneli_Jurnizia_Civilian_Streamer>1</Anneli_Jurnizia_Civilian_Streamer>
+					<Anneli_Jurnizia_Militia_Male>1</Anneli_Jurnizia_Militia_Male>
+					<Anneli_Jurnizia_Militia_Female>1</Anneli_Jurnizia_Militia_Female>
 					<Anneli_Jurnizia_Draftee>1</Anneli_Jurnizia_Draftee>
 					<Anneli_Jurnizia_Officer>1</Anneli_Jurnizia_Officer>
 					<Anneli_Jurnizia_Driver>1</Anneli_Jurnizia_Driver>
 					<Anneli_Jurnizia_Spetsnaz>1</Anneli_Jurnizia_Spetsnaz>
+					<Anneli_Jurnizia_Sniper>1</Anneli_Jurnizia_Sniper>
+					<Anneli_Jurnizia_InternalTroop_Male>1</Anneli_Jurnizia_InternalTroop_Male>
+					<Anneli_Jurnizia_InternalTroop_Female>1</Anneli_Jurnizia_InternalTroop_Female>
+					<Anneli_Jurnizia_Agent>1</Anneli_Jurnizia_Agent>
+					<Anneli_Jurnizia_HeavyTrooper>1</Anneli_Jurnizia_HeavyTrooper>
 				</options>
 			</li>
 		</pawnGroupMakers>
