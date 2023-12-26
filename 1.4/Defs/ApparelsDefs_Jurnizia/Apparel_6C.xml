@@ -25,12 +25,10 @@
 			<wornGraphicPath>6C/Anneli_Jurnizia_Balaclava</wornGraphicPath>
 			<tags>
 				<li>Anneli_Jurnizia_Militia_Male</li>
-				<li>Anneli_Jurnizia_Militia_Female</li>
 				<li>Anneli_Jurnizia_Driver</li>
 				<li>Anneli_Jurnizia_Draftee</li>
 				<li>Anneli_Jurnizia_HeavyTrooper</li>
 				<li>Anneli_Jurnizia_InternalTroop_Male</li>
-				<li>Anneli_Jurnizia_InternalTroop_Female</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
