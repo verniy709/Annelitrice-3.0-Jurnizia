@@ -70,6 +70,10 @@
         <inspectorTabs>
             <li>ITab_Art</li>
         </inspectorTabs>
+        <tradeTags>
+            <li>BasicClothing</li>
+            <li>Clothing</li>
+        </tradeTags>
         <comps>
             <li>
                 <compClass>CompQuality</compClass>
