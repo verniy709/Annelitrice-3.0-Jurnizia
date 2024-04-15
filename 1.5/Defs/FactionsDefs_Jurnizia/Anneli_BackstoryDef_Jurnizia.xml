@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<!--Adulthood-->
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_Jurnizia_Homesteader</defName>
+		<title>Annelitrice Jurnizia Homesteader</title>
+		<titleShort>Jurnizia Homesteader</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as a Jurnizia homesteader. She is conscripted by local warlords.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+			<Plants>4</Plants>
+			<Cooking>2</Cooking>
+			<Animals>2</Animals>
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_Jurnizia</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_Jurnizia_Youth</defName>
+		<title>Annelitrice Jurnizia Youth</title>
+		<titleShort>Jurnizia Youth</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as a Jurnizia youth, pursuing excitement and glory in the war.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+			<Artistic>4</Artistic>
+			<Melee>4</Melee>
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_Jurnizia</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_Jurnizia_ArmyReserve</defName>
+		<title>Annelitrice Jurnizia Army Reserve</title>
+		<titleShort>Jurnizia Army Reserve</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as a Jurnizia army reserve. She has the skills to survive this war.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+			<Shooting>4</Shooting>
+			<Construction>2</Construction>
+			<Crafting>2</Crafting>
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_Jurnizia</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_Jurnizia_Officer</defName>
+		<title>Annelitrice Jurnizia Officer</title>
+		<titleShort>Jurnizia Officer</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as a Jurnizia officer. Everyone in her family serves in the army.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+			<Shooting>4</Shooting>
+			<Social>4</Social>
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_Jurnizia</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_Jurnizia_Laborer</defName>
+		<title>Annelitrice Jurnizia Laborer</title>
+		<titleShort>Jurnizia Laborer</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as a Jurnizia laborer of an oil company.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+			<Construction>6</Construction>
+			<Mining>6</Mining>
+			<Intellectual>-4</Intellectual>
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_Jurnizia</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_Jurnizia_ArtStudent</defName>
+		<title>Annelitrice Jurnizia Art Student</title>
+		<titleShort>Jurnizia Art Student</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as a Jurnizia art student. She was admitted by a local art academy, but the war ruined everything.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+			<Artistic>6</Artistic>
+			<Intellectual>2</Intellectual>
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_Jurnizia</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_Jurnizia_Veteran</defName>
+		<title>Annelitrice Jurnizia Veteran</title>
+		<titleShort>Jurnizia Veteran</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as a Jurnizia veteran. She joins the army again because she has not received pension for months.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+			<Shooting>4</Shooting>
+			<Melee>2</Melee>
+			<Medicine>2</Medicine>
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_Jurnizia</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_Jurnizia_SpecialForce</defName>
+		<title>Annelitrice Jurnizia Special Force</title>
+		<titleShort>Jurnizia Special Force</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as a member of Jurnizia special force. She has excellent combat skills, but also some dark secrets.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+			<Melee>4</Melee>
+			<Shooting>4</Shooting>
+			<Construction>4</Construction>
+			<Medicine>2</Medicine>
+			<Artistic>-6</Artistic>
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_Jurnizia</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_Jurnizia_Warlord</defName>
+		<title>Annelitrice Jurnizia Warlord</title>
+		<titleShort>Jurnizia Warlord</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as a Jurnizia warlord. She owns everything, and therefore becomes paranoid that others will take her belongings away.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+			<Intellectual>6</Intellectual>
+			<Shooting>4</Shooting>
+			<Artistic>4</Artistic>
+			<Animals>2</Animals>
+			<Social>-10</Social>
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_Jurnizia</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
+		<defName>Anneli_Jurnizia_Spokesperson</defName>
+		<title>Annelitrice Jurnizia Spokesperson</title>
+		<titleShort>Jurnizia Spokesperson</titleShort>
+		<baseDesc>[PAWN_nameDef] acts as a Jurnizia spokesperson. Her job is to declare victory and deny defeats.</baseDesc>
+		<slot>Adulthood</slot>
+		<skillGains>
+			<Social>8</Social>
+		</skillGains>
+		<spawnCategories>
+			<li>Anneli_Story_Jurnizia</li>
+			<li>Anneli_Story</li>
+		</spawnCategories>
+	</AlienRace.AlienBackstoryDef>
+
+</Defs>
