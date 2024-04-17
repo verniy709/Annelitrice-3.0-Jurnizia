@@ -108,7 +108,7 @@
         <graphicData>
             <texPath>8C/Anneli_Jurnizia_BZT75Shield</texPath>
             <graphicClass>Graphic_Single</graphicClass>
-            <drawSize>0.85</drawSize>
+            <drawSize>1</drawSize>
         </graphicData>
         <comps>
             <li Class="VFECore.CompProperties_Shield">
@@ -166,7 +166,7 @@
             <texPath>8C/Anneli_Jurnizia_CamoBZT75Shield</texPath>
             <graphicClass>Graphic_Single</graphicClass>
             <shaderType>CutoutComplex</shaderType>
-            <drawSize>0.85</drawSize>
+            <drawSize>1</drawSize>
         </graphicData>
         <comps>
             <li Class="VFECore.CompProperties_Shield">
@@ -223,7 +223,7 @@
         <graphicData>
             <texPath>8C/Anneli_Jurnizia_VantVMShield</texPath>
             <graphicClass>Graphic_Single</graphicClass>
-            <drawSize>0.85</drawSize>
+            <drawSize>1</drawSize>
         </graphicData>
         <comps>
             <li Class="VFECore.CompProperties_Shield">
@@ -281,7 +281,7 @@
             <texPath>8C/Anneli_Jurnizia_CamoVantVMShield</texPath>
             <graphicClass>Graphic_Single</graphicClass>
             <shaderType>CutoutComplex</shaderType>
-            <drawSize>0.85</drawSize>
+            <drawSize>1</drawSize>
         </graphicData>
         <comps>
             <li Class="VFECore.CompProperties_Shield">
