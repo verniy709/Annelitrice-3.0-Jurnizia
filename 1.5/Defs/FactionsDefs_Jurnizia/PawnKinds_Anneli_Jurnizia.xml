@@ -8,10 +8,14 @@
 		<isFighter>true</isFighter>
 		<combatPower>180</combatPower>
 		<canBeSapper>true</canBeSapper>
-		<backstoryCategories>
-			<li>Anneli_Childhood</li>
-			<li>Anneli_Story</li>
-		</backstoryCategories>
+		<backstoryFiltersOverride>
+			<li>
+				<categories>
+					<li>Anneli_Childhood</li>
+					<li>Anneli_Story_Jurnizia</li>
+				</categories>
+			</li>
+		</backstoryFiltersOverride>
 		<weaponMoney>1500</weaponMoney>
 		<techHediffsChance>0.1</techHediffsChance>
 		<techHediffsMoney>1000</techHediffsMoney>
