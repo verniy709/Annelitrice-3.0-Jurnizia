@@ -11,12 +11,12 @@
 				<prefix>
 					<li>Anneli_Jurnizia_Balaclava</li>
 				</prefix>
-				<renderLayer>FaceMask</renderLayer>
+				<renderLayer>Hat</renderLayer>
 				<textureLevelsName>Anneli_Apparel6C</textureLevelsName>
-				<drawOffsetSouth>(0, 0, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 0, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 0, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 0, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 83, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 83, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 83, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 83, 0)</drawOffsetWest>
 				<meshType>Head</meshType>
 				<hideList>
 					<li>
@@ -339,12 +339,12 @@
 				<prefix>
 					<li>Anneli_Jurnizia_CamoMask</li>
 				</prefix>
-				<renderLayer>FaceMask</renderLayer>
+				<renderLayer>Hat</renderLayer>
 				<textureLevelsName>Anneli_Apparel6C</textureLevelsName>
-				<drawOffsetSouth>(0, 0, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 0, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 0, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 0, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 83, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 83, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 83, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 83, 0)</drawOffsetWest>
 				<meshType>Head</meshType>
 			</li>
 		</levels>
@@ -361,12 +361,12 @@
 				<prefix>
 					<li>Anneli_Jurnizia_Cigar</li>
 				</prefix>
-				<renderLayer>FaceMask</renderLayer>
+				<renderLayer>Hat</renderLayer>
 				<textureLevelsName>Anneli_Apparel6C</textureLevelsName>
-				<drawOffsetSouth>(0, 0, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 0, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 0, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 0, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 83, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 83, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 83, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 83, 0)</drawOffsetWest>
 				<meshType>Head</meshType>
 			</li>
 		</levels>
