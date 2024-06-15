@@ -3,7 +3,7 @@
 
 	<ThingDef Name="Anneli_Jurnizia_5B_NonMetal" ParentName="Anneli_5B_NonMetal" Abstract="True">
 		<thingCategories>
-			<li>Category_Annelitrice_Jurnizia</li>
+			<li>Anneli_Category_Jurnizia</li>
 		</thingCategories>
 		<recipeMaker>
 			<recipeUsers>
@@ -14,7 +14,7 @@
 
 	<ThingDef Name="Anneli_Jurnizia_5B_Metal" ParentName="Anneli_5B_Metal" Abstract="True">
 		<thingCategories>
-			<li>Category_Annelitrice_Jurnizia</li>
+			<li>Anneli_Category_Jurnizia</li>
 		</thingCategories>
 		<recipeMaker>
 			<recipeUsers>
@@ -79,7 +79,7 @@
 			</options>
 		</colorGenerator>
 		<thingCategories Inherit="False">
-			<li>Category_Annelitrice_Jurnizia_Dyed</li>
+			<li>Anneli_Category_Jurnizia_Dyed</li>
 		</thingCategories>
 		<recipeMaker Inherit="False">
 			<!--Not makeable-->

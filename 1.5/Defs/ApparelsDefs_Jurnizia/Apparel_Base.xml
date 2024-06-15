@@ -2,14 +2,14 @@
 <Defs>
 
 	<ThingCategoryDef>
-		<defName>Category_Annelitrice_Jurnizia</defName>
+		<defName>Anneli_Category_Jurnizia</defName>
 		<parent>Apparel</parent>
 		<label>Annelitrice Jurnizia Apparels</label>
 	</ThingCategoryDef>
 
 	<ThingCategoryDef>
-		<defName>Category_Annelitrice_Jurnizia_Dyed</defName>
-		<parent>Category_Annelitrice_Jurnizia</parent>
+		<defName>Anneli_Category_Jurnizia_Dyed</defName>
+		<parent>Anneli_Category_Jurnizia</parent>
 		<label>Pawn Spawn Jurnizia Apparels</label>
 	</ThingCategoryDef>
 	

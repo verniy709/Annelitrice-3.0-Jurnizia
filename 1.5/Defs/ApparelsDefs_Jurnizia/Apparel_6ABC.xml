@@ -6,7 +6,7 @@
 			<ShootingAccuracyPawn>0.2</ShootingAccuracyPawn>
 		</equippedStatOffsets>
 		<thingCategories>
-			<li>Category_Annelitrice_Jurnizia</li>
+			<li>Anneli_Category_Jurnizia</li>
 		</thingCategories>
 		<recipeMaker>
 			<recipeUsers>
@@ -20,7 +20,7 @@
 			<ShootingAccuracyPawn>0.2</ShootingAccuracyPawn>
 		</equippedStatOffsets>
 		<thingCategories>
-			<li>Category_Annelitrice_Jurnizia</li>
+			<li>Anneli_Category_Jurnizia</li>
 		</thingCategories>
 		<recipeMaker>
 			<recipeUsers>

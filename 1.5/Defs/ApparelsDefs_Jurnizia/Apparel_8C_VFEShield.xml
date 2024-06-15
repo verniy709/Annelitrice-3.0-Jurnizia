@@ -91,7 +91,7 @@
 
     <ThingDef Name="Anneli_Jurnizia_8C_BaseVFEShield" ParentName="Anneli_8C_VFEShieldJurniziaBase" Abstract="True">
         <thingCategories>
-            <li>Category_Annelitrice_Jurnizia</li>
+            <li>Anneli_Category_Jurnizia</li>
         </thingCategories>
         <recipeMaker>
             <recipeUsers>

@@ -16,7 +16,7 @@
 				<textureLevelsName>Anneli_Apparel7</textureLevelsName>
 				<drawOffsetSouth>(0, 58, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 58, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 93, 0)</drawOffsetNorth>
+				<drawOffsetNorth>(0, 96, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 58, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
@@ -55,7 +55,7 @@
 				<textureLevelsName>Anneli_Apparel7</textureLevelsName>
 				<drawOffsetSouth>(0, 58, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 58, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 93, 0)</drawOffsetNorth>
+				<drawOffsetNorth>(0, 96, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 58, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
@@ -94,7 +94,7 @@
 				<textureLevelsName>Anneli_Apparel7</textureLevelsName>
 				<drawOffsetSouth>(0, 58, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 58, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 93, 0)</drawOffsetNorth>
+				<drawOffsetNorth>(0, 96, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 58, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>

@@ -3,7 +3,7 @@
 
 	<ThingDef Name="Anneli_Jurnizia_1C" ParentName="Anneli_1C" Abstract="True">
 		<thingCategories>
-			<li>Category_Annelitrice_Jurnizia</li>
+			<li>Anneli_Category_Jurnizia</li>
 		</thingCategories>
 		<recipeMaker>
 			<recipeUsers>

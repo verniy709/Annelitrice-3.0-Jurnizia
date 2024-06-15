@@ -3,7 +3,7 @@
 
 	<ThingDef Name="Anneli_Jurnizia_4" ParentName="Anneli_4" Abstract="True">
 		<thingCategories>
-			<li>Category_Annelitrice_Jurnizia</li>
+			<li>Anneli_Category_Jurnizia</li>
 		</thingCategories>
 		<recipeMaker>
 			<recipeUsers>
@@ -66,7 +66,7 @@
 			</options>
 		</colorGenerator>
 		<thingCategories Inherit="False">
-			<li>Category_Annelitrice_Jurnizia_Dyed</li>
+			<li>Anneli_Category_Jurnizia_Dyed</li>
 		</thingCategories>
 		<recipeMaker Inherit="False">
 			<!--Not makeable-->
@@ -157,7 +157,7 @@
 			</options>
 		</colorGenerator>
 		<thingCategories Inherit="False">
-			<li>Category_Annelitrice_Jurnizia_Dyed</li>
+			<li>Anneli_Category_Jurnizia_Dyed</li>
 		</thingCategories>
 		<recipeMaker Inherit="False">
 			<!--Not makeable-->
@@ -248,7 +248,7 @@
 			</options>
 		</colorGenerator>
 		<thingCategories Inherit="False">
-			<li>Category_Annelitrice_Jurnizia_Dyed</li>
+			<li>Anneli_Category_Jurnizia_Dyed</li>
 		</thingCategories>
 		<recipeMaker Inherit="False">
 			<!--Not makeable-->
