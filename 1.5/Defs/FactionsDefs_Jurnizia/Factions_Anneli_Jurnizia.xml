@@ -26,7 +26,7 @@
 		<settlementTexturePath>Anneli_Factions/Anneli_Jurnizia</settlementTexturePath>
 		<factionIconPath>Anneli_Factions/Anneli_Jurnizia</factionIconPath>
 		<listOrderPriority>30</listOrderPriority>
-		<settlementGenerationWeight>0.5</settlementGenerationWeight>
+		<settlementGenerationWeight>1</settlementGenerationWeight>
 		<requiredCountAtGameStart>1</requiredCountAtGameStart>
 		<maxCountAtGameStart>1</maxCountAtGameStart>
 		<canMakeRandomly>true</canMakeRandomly>
