@@ -12,7 +12,7 @@
 					<li>Anneli_Jurnizia_MASKASlit</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6ABC</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6ABC</textureLevelsName>
 				<drawOffsetSouth>(0, 92, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 92, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 92, 0)</drawOffsetNorth>
@@ -184,7 +184,7 @@
 					<li>Anneli_Jurnizia_MASKAVisor</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6ABC</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6ABC</textureLevelsName>
 				<drawOffsetSouth>(0, 92, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 92, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 92, 0)</drawOffsetNorth>

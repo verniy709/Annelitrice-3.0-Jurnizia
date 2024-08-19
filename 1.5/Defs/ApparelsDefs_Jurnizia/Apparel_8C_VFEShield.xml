@@ -155,6 +155,7 @@
                 </li>
             </options>
         </colorGenerator>
+        <generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
     </ThingDef>
 
     <!--Anneli_Jurnizia_CamoBZT75Shield-->
@@ -213,6 +214,7 @@
                 </li>
             </options>
         </colorGenerator>
+        <generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
     </ThingDef>
 
    <!--Anneli_Jurnizia_VantVMShield-->
@@ -270,6 +272,7 @@
                 </li>
             </options>
         </colorGenerator>
+        <generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
     </ThingDef>
 
     <!--Anneli_Jurnizia_CamoVantVMShield-->
@@ -328,6 +331,7 @@
                 </li>
             </options>
         </colorGenerator>
+        <generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
     </ThingDef>
 
 </Defs>

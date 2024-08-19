@@ -12,7 +12,7 @@
 					<li>Anneli_Jurnizia_PeakCap</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 92, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 92, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 92, 0)</drawOffsetNorth>
@@ -184,7 +184,7 @@
 					<li>Anneli_Jurnizia_Shlemofon</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 92, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 92, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 92, 0)</drawOffsetNorth>
@@ -356,7 +356,7 @@
 					<li>Anneli_Jurnizia_Beanie</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 92, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 92, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 92, 0)</drawOffsetNorth>
@@ -528,7 +528,7 @@
 					<li>Anneli_Jurnizia_FlatCap</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 92, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 92, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 92, 0)</drawOffsetNorth>
@@ -550,7 +550,7 @@
 					<li>Anneli_Jurnizia_Bandana</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 90, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 90, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 90, 0)</drawOffsetNorth>
@@ -722,7 +722,7 @@
 					<li>Anneli_Jurnizia_CamoBandana</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 90, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 90, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 90, 0)</drawOffsetNorth>
@@ -894,7 +894,7 @@
 					<li>Anneli_Jurnizia_Hood</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 92, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 92, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 92, 0)</drawOffsetNorth>
@@ -1066,7 +1066,7 @@
 					<li>Anneli_Jurnizia_CamoHood</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 92, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 92, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 92, 0)</drawOffsetNorth>
@@ -1238,7 +1238,7 @@
 					<li>Anneli_Jurnizia_GorkaHood</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 92, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 92, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 92, 0)</drawOffsetNorth>
@@ -1410,7 +1410,7 @@
 					<li>Anneli_Jurnizia_GhillieHood</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 92, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 92, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 92, 0)</drawOffsetNorth>
@@ -1582,7 +1582,7 @@
 					<li>Anneli_Jurnizia_PatrolCap</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 92, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 92, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 92, 0)</drawOffsetNorth>
@@ -1754,7 +1754,7 @@
 					<li>Anneli_Jurnizia_CamoPatrolCap</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 92, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 92, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 92, 0)</drawOffsetNorth>
@@ -1926,7 +1926,7 @@
 					<li>Anneli_Jurnizia_Ushanka</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 92, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 92, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 92, 0)</drawOffsetNorth>
@@ -2098,7 +2098,7 @@
 					<li>Anneli_Jurnizia_ShapkaUshanka</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 92, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 92, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 92, 0)</drawOffsetNorth>
@@ -2270,7 +2270,7 @@
 					<li>Anneli_Jurnizia_SSH68Helmet</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 92, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 92, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 92, 0)</drawOffsetNorth>
@@ -2442,7 +2442,7 @@
 					<li>Anneli_Jurnizia_CamoSSH68Helmet</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 92, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 92, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 92, 0)</drawOffsetNorth>
@@ -2614,7 +2614,7 @@
 					<li>Anneli_Jurnizia_MASKAHelmet</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 92, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 92, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 92, 0)</drawOffsetNorth>
@@ -2786,7 +2786,7 @@
 					<li>Anneli_Jurnizia_CamoMASKAHelmet</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6A</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
 				<drawOffsetSouth>(0, 92, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 92, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 92, 0)</drawOffsetNorth>

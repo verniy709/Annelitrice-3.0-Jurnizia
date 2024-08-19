@@ -37,6 +37,7 @@
       <li>ITab_Bills</li>
     </inspectorTabs>
     <building>
+      <paintable>true</paintable>
       <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
     </building>
     <comps>

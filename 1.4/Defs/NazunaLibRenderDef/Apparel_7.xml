@@ -32,6 +32,7 @@
 				<drawOffsetEast>(0, 2.09065, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 2.9272, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 2.09065, 0)</drawOffsetWest>
+				<renderSwitch>(1, 0, 0)</renderSwitch>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
@@ -70,6 +71,7 @@
 				<drawOffsetEast>(0, 2.09065, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 2.9272, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 2.09065, 0)</drawOffsetWest>
+				<renderSwitch>(1, 0, 0)</renderSwitch>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
@@ -108,6 +110,7 @@
 				<drawOffsetEast>(0, 2.09065, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 2.9272, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 2.09065, 0)</drawOffsetWest>
+				<renderSwitch>(1, 0, 0)</renderSwitch>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
@@ -146,6 +149,7 @@
 				<drawOffsetEast>(0, 2.09065, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 2.9272, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 2.09065, 0)</drawOffsetWest>
+				<renderSwitch>(1, 0, 0)</renderSwitch>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
@@ -184,6 +188,7 @@
 				<drawOffsetEast>(0, 2.09065, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 2.9272, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 2.09065, 0)</drawOffsetWest>
+				<renderSwitch>(1, 0, 0)</renderSwitch>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
