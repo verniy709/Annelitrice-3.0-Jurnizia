@@ -13,10 +13,10 @@
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3</textureLevelsName>
-				<drawOffsetSouth>(0, 52, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 52, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 52, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 52, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 2.500, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.500, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.500, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.500, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
@@ -28,145 +28,15 @@
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3_LCS_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
-				<drawOffsetSouth>(0, 66, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 13, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 66, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 66, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 3.038, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.000, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 3.038, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 3.038, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_LCS_Left</def>
 				</actionManager>
-				<hideList>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorSuitA_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorSuitB_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_ShirtNecktie_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_OversizedShirt_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_OpenChestShirt_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopD_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_LongDressB_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_LongDressB_White_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_ShirtA_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_DressC_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_LongDressA_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_GymShirt_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_TShirt_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_TShirt_Olive_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_Dress_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_HalfRobeA_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_HalfRobeB_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorCropTopA_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorCropTopB_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtBowTie_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtNecktie_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtOpen_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_KendoTop_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_ShirtB_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopD_Anneli_Apparel2_LCS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_NunAttireB_Anneli_Apparel2_LLS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_BodiceB_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_Chemise_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_MaidDressA_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_NunAttireA_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopA_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_DressA_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-				</hideList>
 			</li>
 			<li>
 				<prefix>
@@ -177,145 +47,15 @@
 				<flipped>true</flipped>
 				<switchEastWest>true</switchEastWest>
 				<useStaticYOffset>true</useStaticYOffset>
-				<drawOffsetSouth>(0, 66, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 66, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 66, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 13, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 3.038, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 3.038, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 3.038, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.000, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_LCS_Right</def>
 				</actionManager>
-				<hideList>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorSuitA_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorSuitB_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_ShirtNecktie_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_OversizedShirt_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_OpenChestShirt_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopD_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_LongDressB_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_LongDressB_White_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_ShirtA_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_DressC_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_LongDressA_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_GymShirt_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_TShirt_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_TShirt_Olive_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_Dress_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_HalfRobeA_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_HalfRobeB_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorCropTopA_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorCropTopB_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtBowTie_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtNecktie_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtOpen_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_KendoTop_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_ShirtB_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopD_Anneli_Apparel2_LCS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_NunAttireB_Anneli_Apparel2_LLS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_BodiceB_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_Chemise_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_MaidDressA_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_NunAttireA_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopA_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_DressA_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-				</hideList>
 			</li>
 		</levels>
 	</NareisLib.MultiTexDef>
@@ -333,10 +73,10 @@
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3</textureLevelsName>
-				<drawOffsetSouth>(0, 52, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 52, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 52, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 52, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 2.500, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.500, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.500, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.500, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
@@ -348,145 +88,15 @@
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3_LS_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
-				<drawOffsetSouth>(0, 66, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 13, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 66, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 66, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 3.038, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.000, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 3.038, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 3.038, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_LS_Left</def>
 				</actionManager>
-				<hideList>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorSuitA_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorSuitB_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_ShirtNecktie_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_OversizedShirt_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_OpenChestShirt_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopD_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_LongDressB_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_LongDressB_White_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_ShirtA_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_DressC_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_LongDressA_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_GymShirt_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_TShirt_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_TShirt_Olive_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_Dress_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_HalfRobeA_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_HalfRobeB_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorCropTopA_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorCropTopB_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtBowTie_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtNecktie_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtOpen_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_KendoTop_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_ShirtB_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopD_Anneli_Apparel2_LCS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_NunAttireB_Anneli_Apparel2_LLS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_BodiceB_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_Chemise_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_MaidDressA_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_NunAttireA_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopA_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_DressA_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-				</hideList>
 			</li>
 			<li>
 				<prefix>
@@ -497,145 +107,15 @@
 				<flipped>true</flipped>
 				<switchEastWest>true</switchEastWest>
 				<useStaticYOffset>true</useStaticYOffset>
-				<drawOffsetSouth>(0, 66, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 66, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 66, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 13, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 3.038, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 3.038, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 3.038, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.000, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_LS_Right</def>
 				</actionManager>
-				<hideList>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorSuitA_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorSuitB_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_ShirtNecktie_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_OversizedShirt_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_OpenChestShirt_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopD_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_LongDressB_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_LongDressB_White_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_ShirtA_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_DressC_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_LongDressA_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_GymShirt_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_TShirt_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_TShirt_Olive_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_Dress_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_HalfRobeA_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_HalfRobeB_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorCropTopA_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorCropTopB_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtBowTie_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtNecktie_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtOpen_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_KendoTop_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_ShirtB_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopD_Anneli_Apparel2_LCS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_NunAttireB_Anneli_Apparel2_LLS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_BodiceB_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_Chemise_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_MaidDressA_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_NunAttireA_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopA_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_DressA_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-				</hideList>
 			</li>
 		</levels>
 	</NareisLib.MultiTexDef>
@@ -653,10 +133,10 @@
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3</textureLevelsName>
-				<drawOffsetSouth>(0, 52, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 52, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 52, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 52, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 2.500, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.500, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.500, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.500, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
@@ -668,145 +148,15 @@
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3_LS_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
-				<drawOffsetSouth>(0, 66, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 13, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 66, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 66, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 3.038, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.000, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 3.038, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 3.038, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_LS_Left</def>
 				</actionManager>
-				<hideList>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorSuitA_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorSuitB_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_ShirtNecktie_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_OversizedShirt_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_OpenChestShirt_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopD_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_LongDressB_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_LongDressB_White_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_ShirtA_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_DressC_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_LongDressA_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_GymShirt_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_TShirt_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_TShirt_Olive_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_Dress_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_HalfRobeA_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_HalfRobeB_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorCropTopA_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorCropTopB_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtBowTie_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtNecktie_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtOpen_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_KendoTop_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_ShirtB_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopD_Anneli_Apparel2_LCS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_NunAttireB_Anneli_Apparel2_LLS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_BodiceB_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_Chemise_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_MaidDressA_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_NunAttireA_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopA_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_DressA_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-				</hideList>
 			</li>
 			<li>
 				<prefix>
@@ -817,145 +167,15 @@
 				<flipped>true</flipped>
 				<switchEastWest>true</switchEastWest>
 				<useStaticYOffset>true</useStaticYOffset>
-				<drawOffsetSouth>(0, 66, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 66, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 66, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 13, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 3.038, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 3.038, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 3.038, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.000, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_LS_Right</def>
 				</actionManager>
-				<hideList>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorSuitA_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorSuitB_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_ShirtNecktie_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_OversizedShirt_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_OpenChestShirt_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopD_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_LongDressB_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_LongDressB_White_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_ShirtA_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_DressC_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_LongDressA_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_GymShirt_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_TShirt_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_TShirt_Olive_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_Dress_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_HalfRobeA_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_HalfRobeB_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorCropTopA_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorCropTopB_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtBowTie_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtNecktie_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtOpen_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_KendoTop_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_ShirtB_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopD_Anneli_Apparel2_LCS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_NunAttireB_Anneli_Apparel2_LLS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_BodiceB_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_Chemise_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_MaidDressA_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_NunAttireA_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopA_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_DressA_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-				</hideList>
 			</li>
 		</levels>
 	</NareisLib.MultiTexDef>
@@ -973,10 +193,10 @@
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3</textureLevelsName>
-				<drawOffsetSouth>(0, 52, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 52, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 52, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 52, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 2.500, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.500, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.500, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.500, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
@@ -988,145 +208,15 @@
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3_LS_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
-				<drawOffsetSouth>(0, 66, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 13, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 66, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 66, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 3.038, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.000, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 3.038, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 3.038, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_LS_Left</def>
 				</actionManager>
-				<hideList>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorSuitA_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorSuitB_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_ShirtNecktie_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_OversizedShirt_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_OpenChestShirt_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopD_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_LongDressB_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_LongDressB_White_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_ShirtA_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_DressC_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_LongDressA_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_GymShirt_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_TShirt_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_TShirt_Olive_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_Dress_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_HalfRobeA_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_HalfRobeB_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorCropTopA_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorCropTopB_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtBowTie_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtNecktie_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtOpen_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_KendoTop_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_ShirtB_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopD_Anneli_Apparel2_LCS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_NunAttireB_Anneli_Apparel2_LLS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_BodiceB_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_Chemise_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_MaidDressA_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_NunAttireA_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopA_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_DressA_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-				</hideList>
 			</li>
 			<li>
 				<prefix>
@@ -1137,145 +227,15 @@
 				<flipped>true</flipped>
 				<switchEastWest>true</switchEastWest>
 				<useStaticYOffset>true</useStaticYOffset>
-				<drawOffsetSouth>(0, 66, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 66, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 66, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 13, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 3.038, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 3.038, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 3.038, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.000, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_LS_Right</def>
 				</actionManager>
-				<hideList>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorSuitA_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorSuitB_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_ShirtNecktie_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_OversizedShirt_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_OpenChestShirt_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopD_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_LongDressB_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_LongDressB_White_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_ShirtA_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_DressC_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_LongDressA_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_GymShirt_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_TShirt_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_TShirt_Olive_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_Dress_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_HalfRobeA_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_HalfRobeB_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorCropTopA_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorCropTopB_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtBowTie_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtNecktie_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtOpen_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_KendoTop_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_ShirtB_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopD_Anneli_Apparel2_LCS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_NunAttireB_Anneli_Apparel2_LLS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_BodiceB_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_Chemise_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_MaidDressA_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_NunAttireA_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopA_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_DressA_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-				</hideList>
 			</li>
 		</levels>
 	</NareisLib.MultiTexDef>
@@ -1293,10 +253,10 @@
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3</textureLevelsName>
-				<drawOffsetSouth>(0, 52, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 52, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 52, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 52, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 2.500, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.500, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.500, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.500, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
@@ -1308,10 +268,10 @@
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3_LS_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
-				<drawOffsetSouth>(0, 66, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 13, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 66, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 66, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 3.038, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.000, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 3.038, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 3.038, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticColor>true</useStaticColor>
 				<color>RGBA(0.373,0.365,0.302,1)</color>
@@ -1319,136 +279,6 @@
 				<actionManager>
 					<def>Anneli_Arm_LS_Left</def>
 				</actionManager>
-				<hideList>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorSuitA_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorSuitB_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_ShirtNecktie_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_OversizedShirt_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_OpenChestShirt_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopD_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_LongDressB_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_LongDressB_White_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_ShirtA_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_DressC_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_LongDressA_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_GymShirt_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_TShirt_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_TShirt_Olive_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_Dress_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_HalfRobeA_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_HalfRobeB_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorCropTopA_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorCropTopB_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtBowTie_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtNecktie_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtOpen_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_KendoTop_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_ShirtB_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopD_Anneli_Apparel2_LCS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_NunAttireB_Anneli_Apparel2_LLS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_BodiceB_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_Chemise_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_MaidDressA_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_NunAttireA_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopA_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_DressA_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-				</hideList>
 			</li>
 			<li>
 				<prefix>
@@ -1459,10 +289,10 @@
 				<flipped>true</flipped>
 				<switchEastWest>true</switchEastWest>
 				<useStaticYOffset>true</useStaticYOffset>
-				<drawOffsetSouth>(0, 66, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 66, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 66, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 13, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 3.038, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 3.038, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 3.038, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.000, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticColor>true</useStaticColor>
 				<color>RGBA(0.373,0.365,0.302,1)</color>
@@ -1470,136 +300,6 @@
 				<actionManager>
 					<def>Anneli_Arm_LS_Right</def>
 				</actionManager>
-				<hideList>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorSuitA_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorSuitB_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_ShirtNecktie_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_OversizedShirt_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_OpenChestShirt_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopD_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_LongDressB_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_LongDressB_White_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_ShirtA_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_DressC_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_LongDressA_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_GymShirt_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_TShirt_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_TShirt_Olive_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_Dress_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_HalfRobeA_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_HalfRobeB_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorCropTopA_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorCropTopB_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtBowTie_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtNecktie_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtOpen_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_KendoTop_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_ShirtB_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopD_Anneli_Apparel2_LCS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_NunAttireB_Anneli_Apparel2_LLS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_BodiceB_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_Chemise_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_MaidDressA_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_NunAttireA_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopA_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_DressA_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-				</hideList>
 			</li>
 		</levels>
 	</NareisLib.MultiTexDef>
@@ -1617,10 +317,10 @@
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3</textureLevelsName>
-				<drawOffsetSouth>(0, 52, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 52, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 52, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 52, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 2.500, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.500, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.500, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.500, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
@@ -1632,145 +332,15 @@
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3_CamoLS_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
-				<drawOffsetSouth>(0, 66, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 13, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 66, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 66, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 3.038, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.000, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 3.038, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 3.038, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_CamoLS_Left</def>
 				</actionManager>
-				<hideList>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorSuitA_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorSuitB_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_ShirtNecktie_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_OversizedShirt_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_OpenChestShirt_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopD_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_LongDressB_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_LongDressB_White_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_ShirtA_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_DressC_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_LongDressA_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_GymShirt_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_TShirt_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_TShirt_Olive_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_Dress_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_HalfRobeA_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_HalfRobeB_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorCropTopA_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorCropTopB_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtBowTie_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtNecktie_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtOpen_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_KendoTop_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_ShirtB_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopD_Anneli_Apparel2_LCS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_NunAttireB_Anneli_Apparel2_LLS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_BodiceB_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_Chemise_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_MaidDressA_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_NunAttireA_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopA_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_DressA_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-				</hideList>
 			</li>
 			<li>
 				<prefix>
@@ -1781,145 +351,15 @@
 				<flipped>true</flipped>
 				<switchEastWest>true</switchEastWest>
 				<useStaticYOffset>true</useStaticYOffset>
-				<drawOffsetSouth>(0, 66, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 66, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 66, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 13, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 3.038, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 3.038, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 3.038, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.000, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_CamoLS_Right</def>
 				</actionManager>
-				<hideList>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorSuitA_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorSuitB_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_ShirtNecktie_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_OversizedShirt_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_OpenChestShirt_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopD_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_LongDressB_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_LongDressB_White_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_ShirtA_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_DressC_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_LongDressA_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_GymShirt_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_TShirt_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_TShirt_Olive_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_Dress_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_HalfRobeA_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_HalfRobeB_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorCropTopA_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorCropTopB_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtBowTie_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtNecktie_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtOpen_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_KendoTop_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_ShirtB_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopD_Anneli_Apparel2_LCS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_NunAttireB_Anneli_Apparel2_LLS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_BodiceB_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_Chemise_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_MaidDressA_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_NunAttireA_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopA_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_DressA_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-				</hideList>
 			</li>
 		</levels>
 	</NareisLib.MultiTexDef>
@@ -1937,10 +377,10 @@
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3</textureLevelsName>
-				<drawOffsetSouth>(0, 52, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 52, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 52, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 52, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 2.500, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.500, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.500, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.500, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
@@ -1961,10 +401,10 @@
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3</textureLevelsName>
-				<drawOffsetSouth>(0, 52, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 52, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 52, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 52, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 2.500, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.500, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.500, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.500, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
@@ -1976,145 +416,15 @@
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3_LCS_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
-				<drawOffsetSouth>(0, 66, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 13, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 66, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 66, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 3.038, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.000, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 3.038, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 3.038, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_LCS_Left</def>
 				</actionManager>
-				<hideList>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorSuitA_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorSuitB_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_ShirtNecktie_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_OversizedShirt_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_OpenChestShirt_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopD_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_LongDressB_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_LongDressB_White_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_ShirtA_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_DressC_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_LongDressA_Anneli_Apparel2_LS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_GymShirt_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_TShirt_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_TShirt_Olive_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_Dress_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_HalfRobeA_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_HalfRobeB_Anneli_Apparel2_SS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorCropTopA_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorCropTopB_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtBowTie_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtNecktie_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtOpen_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_KendoTop_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_ShirtB_Anneli_Apparel2_ShirtSS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopD_Anneli_Apparel2_LCS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_NunAttireB_Anneli_Apparel2_LLS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_BodiceB_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_Chemise_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_MaidDressA_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_NunAttireA_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopA_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_DressA_Anneli_Apparel2_LBS_Left</defLevelName>
-						<hide>true</hide>
-					</li>
-				</hideList>
 			</li>
 			<li>
 				<prefix>
@@ -2125,145 +435,15 @@
 				<flipped>true</flipped>
 				<switchEastWest>true</switchEastWest>
 				<useStaticYOffset>true</useStaticYOffset>
-				<drawOffsetSouth>(0, 66, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 66, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 66, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 13, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 3.038, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 3.038, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 3.038, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.000, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_LCS_Right</def>
 				</actionManager>
-				<hideList>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorSuitA_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorSuitB_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_ShirtNecktie_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_OversizedShirt_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_OpenChestShirt_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopD_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_LongDressB_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_LongDressB_White_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_ShirtA_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_DressC_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_LongDressA_Anneli_Apparel2_LS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_GymShirt_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_TShirt_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_TShirt_Olive_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Jurnizia_Dress_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_HalfRobeA_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_HalfRobeB_Anneli_Apparel2_SS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorCropTopA_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_SailorCropTopB_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtBowTie_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtNecktie_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_ShirtOpen_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Gakuen_KendoTop_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_ShirtB_Anneli_Apparel2_ShirtSS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopD_Anneli_Apparel2_LCS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_NunAttireB_Anneli_Apparel2_LLS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_BodiceB_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_Chemise_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_MaidDressA_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_Ahmislan_NunAttireA_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_TopA_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-					<li>
-						<defLevelName>Anneli_YoRHa_DressA_Anneli_Apparel2_LBS_Right</defLevelName>
-						<hide>true</hide>
-					</li>
-				</hideList>
 			</li>
 		</levels>
 	</NareisLib.MultiTexDef>
