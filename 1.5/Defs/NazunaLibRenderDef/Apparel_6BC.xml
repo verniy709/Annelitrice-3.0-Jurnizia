@@ -13,10 +13,10 @@
 				</prefix>
 				<renderLayer>Hat</renderLayer>
 				<textureLevelsName>Anneli_Apparel6BC</textureLevelsName>
-				<drawOffsetSouth>(0, 3.731, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 3.731, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 3.731, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 3.731, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 2.423, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.423, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.423, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.423, 0)</drawOffsetWest>
 				<meshType>Head</meshType>
 			</li>
 		</levels>
@@ -35,10 +35,10 @@
 				</prefix>
 				<renderLayer>Hat</renderLayer>
 				<textureLevelsName>Anneli_Apparel6BC</textureLevelsName>
-				<drawOffsetSouth>(0, 3.731, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 3.731, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 3.731, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 3.731, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 2.423, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.423, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.423, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.423, 0)</drawOffsetWest>
 				<meshType>Head</meshType>
 			</li>
 		</levels>
@@ -57,10 +57,10 @@
 				</prefix>
 				<renderLayer>Hat</renderLayer>
 				<textureLevelsName>Anneli_Apparel6BC</textureLevelsName>
-				<drawOffsetSouth>(0, 4.000, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 4.000, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 4.000, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 4.000, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 2.558, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.558, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.558, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.558, 0)</drawOffsetWest>
 				<meshType>Head</meshType>
 			</li>
 		</levels>
@@ -79,10 +79,10 @@
 				</prefix>
 				<renderLayer>Hat</renderLayer>
 				<textureLevelsName>Anneli_Apparel6BC</textureLevelsName>
-				<drawOffsetSouth>(0, 4.000, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 4.000, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 4.000, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 4.000, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 2.558, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.558, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.558, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.558, 0)</drawOffsetWest>
 				<meshType>Head</meshType>
 			</li>
 		</levels>
