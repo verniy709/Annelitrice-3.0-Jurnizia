@@ -17,6 +17,7 @@
 				<drawOffsetEast>(0, 2.423, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 2.423, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 2.423, 0)</drawOffsetWest>
+				<useStaticYOffset>true</useStaticYOffset>
 				<meshType>Head</meshType>
 			</li>
 		</levels>
@@ -39,6 +40,7 @@
 				<drawOffsetEast>(0, 2.423, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 2.423, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 2.423, 0)</drawOffsetWest>
+				<useStaticYOffset>true</useStaticYOffset>
 				<meshType>Head</meshType>
 			</li>
 		</levels>
@@ -61,6 +63,7 @@
 				<drawOffsetEast>(0, 2.423, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 2.423, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 2.423, 0)</drawOffsetWest>
+				<useStaticYOffset>true</useStaticYOffset>
 				<meshType>Head</meshType>
 			</li>
 		</levels>
@@ -83,6 +86,7 @@
 				<drawOffsetEast>(0, 2.423, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 2.423, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 2.423, 0)</drawOffsetWest>
+				<useStaticYOffset>true</useStaticYOffset>
 				<meshType>Head</meshType>
 			</li>
 		</levels>
