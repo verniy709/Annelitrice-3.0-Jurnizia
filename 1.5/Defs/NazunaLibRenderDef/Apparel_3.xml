@@ -33,6 +33,7 @@
 				<drawOffsetNorth>(0, 1.750, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 1.750, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_LCS_Left</def>
@@ -52,6 +53,7 @@
 				<drawOffsetNorth>(0, 1.750, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 0.500, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_LCS_Right</def>
@@ -93,6 +95,7 @@
 				<drawOffsetNorth>(0, 1.750, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 1.750, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_LS_Left</def>
@@ -112,6 +115,7 @@
 				<drawOffsetNorth>(0, 1.750, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 0.500, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_LS_Right</def>
@@ -153,6 +157,7 @@
 				<drawOffsetNorth>(0, 1.750, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 1.750, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_LS_Left</def>
@@ -172,6 +177,7 @@
 				<drawOffsetNorth>(0, 1.750, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 0.500, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_LS_Right</def>
@@ -213,6 +219,7 @@
 				<drawOffsetNorth>(0, 1.750, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 1.750, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_LS_Left</def>
@@ -232,6 +239,7 @@
 				<drawOffsetNorth>(0, 1.750, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 0.500, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_LS_Right</def>
@@ -275,6 +283,7 @@
 				<meshType>Body</meshType>
 				<useStaticColor>true</useStaticColor>
 				<color>RGBA(0.373,0.365,0.302,1)</color>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_LS_Left</def>
@@ -296,6 +305,7 @@
 				<meshType>Body</meshType>
 				<useStaticColor>true</useStaticColor>
 				<color>RGBA(0.373,0.365,0.302,1)</color>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_LS_Right</def>
@@ -337,6 +347,7 @@
 				<drawOffsetNorth>(0, 1.750, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 1.750, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_CamoLS_Left</def>
@@ -356,6 +367,7 @@
 				<drawOffsetNorth>(0, 1.750, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 0.500, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_CamoLS_Right</def>
@@ -421,6 +433,7 @@
 				<drawOffsetNorth>(0, 1.750, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 1.750, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_LCS_Left</def>
@@ -440,6 +453,7 @@
 				<drawOffsetNorth>(0, 1.750, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 0.500, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_LCS_Right</def>
