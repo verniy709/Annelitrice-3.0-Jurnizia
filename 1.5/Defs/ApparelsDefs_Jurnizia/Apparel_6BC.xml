@@ -45,8 +45,16 @@
 				<li>Anneli_Jurnizia_HeavyTrooper</li>
 				<li>Anneli_Jurnizia_Spetsnaz</li>
 				<li>Anneli_Jurnizia_Sniper</li>
+				<li>Anneli_SkipHeadAddons</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<renderSkipFlags>
+				<li>Anneli_MiddleHair</li>
+				<li>Anneli_Ahoge</li>
+				<li>Anneli_FrontHair</li>
+				<li>Anneli_BackHair</li>
+				<li>Anneli_BackHair_Braid</li>
+			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
