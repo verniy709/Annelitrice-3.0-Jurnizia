@@ -158,6 +158,20 @@
 				<useStaticYOffset>true</useStaticYOffset>
 				<meshType>Head</meshType>
 			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Back_Jurnizia_Hood</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A_Back</textureLevelsName>
+				<drawOffsetSouth>(0, 0.212, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 0.212, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 0.212, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 0.212, 0)</drawOffsetWest>
+				<renderSwitch>(1, 0, 0)</renderSwitch>
+				<useStaticYOffset>true</useStaticYOffset>
+				<meshType>Head</meshType>
+			</li>
 		</levels>
 	</NareisLib.MultiTexDef>
 
@@ -180,6 +194,22 @@
 				<drawOffsetWest>(0, 2.577, 0)</drawOffsetWest>
 				<useStaticYOffset>true</useStaticYOffset>
 				<meshType>Head</meshType>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Back_Jurnizia_Hood</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A_Back</textureLevelsName>
+				<drawOffsetSouth>(0, 0.212, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 0.212, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 0.212, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 0.212, 0)</drawOffsetWest>
+				<renderSwitch>(1, 0, 0)</renderSwitch>
+				<useStaticYOffset>true</useStaticYOffset>
+				<meshType>Head</meshType>
+				<useStaticColor>true</useStaticColor>
+				<color>RGBA(0.63,0.65,0.47,1)</color>
 			</li>
 		</levels>
 	</NareisLib.MultiTexDef>
@@ -204,6 +234,22 @@
 				<useStaticYOffset>true</useStaticYOffset>
 				<meshType>Head</meshType>
 			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Back_Jurnizia_Hood</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A_Back</textureLevelsName>
+				<drawOffsetSouth>(0, 0.212, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 0.212, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 0.212, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 0.212, 0)</drawOffsetWest>
+				<renderSwitch>(1, 0, 0)</renderSwitch>
+				<useStaticYOffset>true</useStaticYOffset>
+				<meshType>Head</meshType>
+				<useStaticColor>true</useStaticColor>
+				<color>RGBA(0.49,0.48,0.41,1)</color>
+			</li>
 		</levels>
 	</NareisLib.MultiTexDef>
 
@@ -226,6 +272,22 @@
 				<drawOffsetWest>(0, 2.577, 0)</drawOffsetWest>
 				<useStaticYOffset>true</useStaticYOffset>
 				<meshType>Head</meshType>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Back_Jurnizia_Hood</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A_Back</textureLevelsName>
+				<drawOffsetSouth>(0, 0.212, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 0.212, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 0.212, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 0.212, 0)</drawOffsetWest>
+				<renderSwitch>(1, 0, 0)</renderSwitch>
+				<useStaticYOffset>true</useStaticYOffset>
+				<meshType>Head</meshType>
+				<useStaticColor>true</useStaticColor>
+				<color>RGBA(0.49,0.48,0.41,1)</color>
 			</li>
 		</levels>
 	</NareisLib.MultiTexDef>
