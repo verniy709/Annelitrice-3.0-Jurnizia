@@ -6,6 +6,8 @@
         <techLevel>Medieval</techLevel>
         <smeltable>true</smeltable>
         <burnableByRecipe>true</burnableByRecipe>
+        <tradeNeverStack>true</tradeNeverStack>
+        <tradeability>Sellable</tradeability>
         <weaponClasses>
             <li>Melee</li>
         </weaponClasses>
