@@ -30,6 +30,7 @@
 				<li>Anneli_Jurnizia_HeavyTrooper</li>
 				<li>Anneli_Jurnizia_InternalTroop_Male</li>
 				<li>Anneli_SkipHeadAddons</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>

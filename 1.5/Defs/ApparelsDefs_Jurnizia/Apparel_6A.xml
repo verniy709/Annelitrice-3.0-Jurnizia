@@ -42,6 +42,7 @@
 			<wornGraphicPath>6A/Anneli_Jurnizia_PeakCap</wornGraphicPath>
 			<tags>
 				<li>Anneli_Jurnizia_Officer</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
@@ -75,6 +76,7 @@
 				<li>Anneli_Jurnizia_Militia_Female</li>
 				<li>Anneli_Jurnizia_Driver</li>
 				<li>Anneli_Jurnizia_Draftee</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
@@ -110,6 +112,7 @@
 				<li>Anneli_Jurnizia_Civilian_Streamer</li>
 				<li>Anneli_Jurnizia_Militia_Female</li>
 				<li>Anneli_Jurnizia_Driver</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
@@ -155,6 +158,7 @@
 				<li>Anneli_Jurnizia_Civilian_Male</li>
 				<li>Anneli_Jurnizia_Militia_Male</li>
 				<li>Anneli_Jurnizia_Driver</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -183,6 +187,7 @@
 				<li>Anneli_Jurnizia_Civilian_Male</li>
 				<li>Anneli_Jurnizia_Militia_Male</li>
 				<li>Anneli_Jurnizia_Driver</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
@@ -224,6 +229,7 @@
 				<li>Anneli_Jurnizia_Militia_Male</li>
 				<li>Anneli_Jurnizia_Militia_Female</li>
 				<li>Anneli_Jurnizia_Draftee</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
@@ -257,6 +263,7 @@
 				<li>Anneli_Hood</li>
 				<li>Anneli_Jurnizia_Militia_Male</li>
 				<li>Anneli_Jurnizia_Militia_Female</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
@@ -288,6 +295,7 @@
 			<tags>
 				<li>Anneli_Hood</li>
 				<li>Anneli_Jurnizia_Draftee</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
@@ -319,6 +327,7 @@
 			<tags>
 				<li>Anneli_Hood</li>
 				<li>Anneli_Jurnizia_Spetsnaz</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
@@ -350,6 +359,7 @@
 			<tags>
 				<li>Anneli_Hood</li>
 				<li>Anneli_Jurnizia_Sniper</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
@@ -382,6 +392,7 @@
 				<li>Anneli_Jurnizia_Driver</li>
 				<li>Anneli_Jurnizia_InternalTroop_Male</li>
 				<li>Anneli_Jurnizia_InternalTroop_Female</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
@@ -414,6 +425,7 @@
 				<li>Anneli_Jurnizia_Militia_Male</li>
 				<li>Anneli_Jurnizia_Militia_Female</li>
 				<li>Anneli_Jurnizia_Draftee</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
@@ -449,6 +461,7 @@
 				<li>Anneli_Jurnizia_Driver</li>
 				<li>Anneli_Jurnizia_Draftee</li>
 				<li>Anneli_Jurnizia_HeavyTrooper</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
@@ -484,6 +497,7 @@
 				<li>Anneli_Jurnizia_Civilian_Streamer</li>
 				<li>Anneli_Jurnizia_Militia_Male</li>
 				<li>Anneli_Jurnizia_Militia_Female</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
@@ -524,6 +538,7 @@
 			<tags>
 				<li>Anneli_Jurnizia_InternalTroop_Male</li>
 				<li>Anneli_Jurnizia_InternalTroop_Female</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
@@ -557,6 +572,7 @@
 				<li>Anneli_Jurnizia_Militia_Female</li>
 				<li>Anneli_Jurnizia_Draftee</li>
 				<li>Anneli_Jurnizia_HeavyTrooper</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
@@ -588,6 +604,7 @@
 			<tags>
 				<li>Anneli_Jurnizia_InternalTroop_Male</li>
 				<li>Anneli_Jurnizia_InternalTroop_Female</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
@@ -621,6 +638,7 @@
 				<li>Anneli_Jurnizia_Militia_Female</li>
 				<li>Anneli_Jurnizia_Draftee</li>
 				<li>Anneli_Jurnizia_HeavyTrooper</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
