@@ -42,7 +42,7 @@
 		</inventoryOptions>
 		<xenotypeSet>
 			<xenotypeChances>
-				<Anneli_Xenotype MayRequire="Ludeon.RimWorld.Biotech">1.0</Anneli_Xenotype>
+				<Anneli_Xenotype MayRequire="Ludeon.RimWorld.Biotech">1.5</Anneli_Xenotype>
 				<Anneli_Xenotype_Abomination MayRequire="Ludeon.RimWorld.Biotech">0.2</Anneli_Xenotype_Abomination>
 				<Anneli_Xenotype_Dragonkin MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Dragonkin>
 				<Anneli_Xenotype_Elf MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Elf>

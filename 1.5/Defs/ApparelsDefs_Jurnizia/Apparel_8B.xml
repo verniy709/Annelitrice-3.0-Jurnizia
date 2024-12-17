@@ -64,6 +64,7 @@
 				<li>Anneli_Jurnizia_Officer</li>
 				<li>Anneli_Jurnizia_Spetsnaz</li>
 				<li>Anneli_Jurnizia_Sniper</li>
+				<li>Anneli_ExcludeShambler</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -111,12 +112,9 @@
 		<comps>
 			<li Class="CompProperties_ApparelReloadable">
 				<maxCharges>2</maxCharges>
-				<ammoDef>Steel</ammoDef>
-				<ammoCountPerCharge>150</ammoCountPerCharge>
-				<baseReloadTicks>60</baseReloadTicks>
-				<soundReload>Standard_Reload</soundReload>
+				<destroyOnEmpty>true</destroyOnEmpty>
 				<hotKey>Misc4</hotKey>
-				<chargeNoun>refill</chargeNoun>
+				<chargeNoun>charge</chargeNoun>
 				<displayGizmoWhileUndrafted>false</displayGizmoWhileUndrafted>
 			</li>
 		</comps>
