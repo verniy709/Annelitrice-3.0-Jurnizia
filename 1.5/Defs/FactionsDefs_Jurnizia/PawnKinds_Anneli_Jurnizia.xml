@@ -140,6 +140,7 @@
 			<li>NeolithicMeleeBasic</li>
 			<li>MedievalMeleeDecent</li>
 		</weaponTags>
+		<apparelColor>(50,45,50)</apparelColor><!--Fixed apparel color generation-->
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Jurnizia_KindBase">
@@ -323,6 +324,7 @@
 			<li>Revolver</li>
 			<li>IndustrialGunAdvanced</li>
 		</weaponTags>
+		<apparelColor>(50,45,50)</apparelColor><!--Fixed apparel color generation-->
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Jurnizia_KindBase">
@@ -460,7 +462,7 @@
 		</apparelRequired>
 		<apparelTags>
 			<li>Anneli_Jurnizia_Common</li>
-			<li>Anneli_Jurnizia_InternalTroop_Female</li>
+			<li>Anneli_Jurnizia_Civilian_Female</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
@@ -469,18 +471,6 @@
 			<li>IndustrialGunAdvanced</li>
 			<li>SniperRifle</li>
 		</weaponTags>
-		<modExtensions Inherit="False">
-			<li Class="VFECore.PawnKindDefExtension">
-				<shieldMoney>
-					<min>100</min>
-					<max>400</max>
-				</shieldMoney>
-				<shieldTags>
-					<li>Jurnizia_BZT75Shield</li>
-					<li>Jurnizia_VantVMShield</li>
-				</shieldTags>
-			</li>
-		</modExtensions>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Jurnizia_KindBase">

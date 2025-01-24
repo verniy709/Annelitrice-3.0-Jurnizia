@@ -26,7 +26,7 @@
 	<!--Anneli_Jurnizia_TacticalGloves-->
 	<ThingDef ParentName="Anneli_Jurnizia_5C_NonMetal">
 		<defName>Anneli_Jurnizia_TacticalGloves</defName>
-		<description>Dyeable.</description>
+		<description>Not dyeable.</description>
 		<label>(Jurnizia)5C_TacticalGloves</label>
 		<graphicData>
 			<texPath>5C/Anneli_Jurnizia_TacticalGloves</texPath>
@@ -35,7 +35,9 @@
 		<apparel>
 			<wornGraphicPath>5C/Anneli_Jurnizia_TacticalGloves</wornGraphicPath>
 			<tags>
-				
+				<li>Anneli_Jurnizia_Draftee</li>
+				<li>Anneli_Jurnizia_Sniper</li>
+				<li>Anneli_Jurnizia_HeavyTrooper</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -43,15 +45,11 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(255,245,245,255)</only>
-				</li>
-				<li>
-					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(255,255,255,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_WinterGloves-->
@@ -66,7 +64,12 @@
 		<apparel>
 			<wornGraphicPath>5C/Anneli_Jurnizia_WinterGloves</wornGraphicPath>
 			<tags>
-				
+				<li>Anneli_Jurnizia_Civilian_Male</li>
+				<li>Anneli_Jurnizia_Militia_Male</li>
+				<li>Anneli_Jurnizia_Militia_Female</li>
+				<li>Anneli_Jurnizia_Draftee</li>
+				<li>Anneli_Jurnizia_Officer</li>
+				<li>Anneli_Jurnizia_Driver</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -75,10 +78,6 @@
 				<li>
 					<weight>10</weight>
 					<only>(130,120,100,255)</only>
-				</li>
-				<li>
-					<weight>10</weight>
-					<only>(105,115,90,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
