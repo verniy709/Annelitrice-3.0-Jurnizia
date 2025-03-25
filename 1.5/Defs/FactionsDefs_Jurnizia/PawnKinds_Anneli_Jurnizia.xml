@@ -140,7 +140,19 @@
 			<li>NeolithicMeleeBasic</li>
 			<li>MedievalMeleeDecent</li>
 		</weaponTags>
-		<apparelColor>(50,45,50)</apparelColor><!--Fixed apparel color generation-->
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_Jurnizia_WinterGloves</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Jurnizia_KindBase">
@@ -166,6 +178,23 @@
 			<li>NeolithicMeleeBasic</li>
 			<li>MedievalMeleeDecent</li>
 		</weaponTags>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_Jurnizia_WinterGloves</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(220,210,200,255)</only>
+						</li>
+						<li>
+							<weight>10</weight>
+							<only>(240,205,195,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Jurnizia_KindBase">
@@ -191,6 +220,23 @@
 			<li>NeolithicMeleeBasic</li>
 			<li>MedievalMeleeDecent</li>
 		</weaponTags>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_Jurnizia_WinterGloves</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(220,210,200,255)</only>
+						</li>
+						<li>
+							<weight>10</weight>
+							<only>(240,205,195,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Jurnizia_KindBase">
@@ -324,7 +370,19 @@
 			<li>Revolver</li>
 			<li>IndustrialGunAdvanced</li>
 		</weaponTags>
-		<apparelColor>(50,45,50)</apparelColor><!--Fixed apparel color generation-->
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_Jurnizia_WinterGloves</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Jurnizia_KindBase">

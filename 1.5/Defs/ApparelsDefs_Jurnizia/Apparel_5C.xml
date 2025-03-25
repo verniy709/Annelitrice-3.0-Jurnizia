@@ -53,7 +53,7 @@
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_WinterGloves-->
-	<ThingDef ParentName="Anneli_5C_Metal">
+	<ThingDef ParentName="Anneli_Jurnizia_5C_NonMetal">
 		<defName>Anneli_Jurnizia_WinterGloves</defName>
 		<description>Dyeable.</description>
 		<label>(Jurnizia)5C_WinterGloves</label>
@@ -65,6 +65,7 @@
 			<wornGraphicPath>5C/Anneli_Jurnizia_WinterGloves</wornGraphicPath>
 			<tags>
 				<li>Anneli_Jurnizia_Civilian_Male</li>
+				<li>Anneli_Jurnizia_Civilian_Female</li>
 				<li>Anneli_Jurnizia_Militia_Male</li>
 				<li>Anneli_Jurnizia_Militia_Female</li>
 				<li>Anneli_Jurnizia_Draftee</li>
