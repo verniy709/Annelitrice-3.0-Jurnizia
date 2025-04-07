@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName="Anneli_Jurnizia_BZT75Shield"]/graphicData/texPath</xpath>
+		<value>
+			<texPath>Anneli_Null/Anneli_Null</texPath>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName="Anneli_Jurnizia_CamoBZT75Shield"]/graphicData/texPath</xpath>
+		<value>
+			<texPath>Anneli_Null/Anneli_Null</texPath>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName="Anneli_Jurnizia_VantVMShield"]/graphicData/texPath</xpath>
+		<value>
+			<texPath>Anneli_Null/Anneli_Null</texPath>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName="Anneli_Jurnizia_CamoVantVMShield"]/graphicData/texPath</xpath>
+		<value>
+			<texPath>Anneli_Null/Anneli_Null</texPath>
+		</value>
+	</Operation>
+
+</Patch>
