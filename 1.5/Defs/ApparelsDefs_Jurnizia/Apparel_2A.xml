@@ -292,7 +292,6 @@
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
-				<li>Anneli_Underwear</li>
 			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
@@ -321,7 +320,6 @@
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
-				<li>Anneli_Underwear</li>
 			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
@@ -354,7 +352,6 @@
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
-				<li>Anneli_Underwear</li>
 			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
@@ -390,7 +387,6 @@
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
-				<li>Anneli_Underwear</li>
 			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">

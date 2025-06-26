@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Jurnizia_ATAKA</defName>
+		<originalDef>Anneli_Jurnizia_ATAKA</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>7/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Jurnizia_ATAKA</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel7</textureLevelsName>
+				<drawOffsetSouth>(0, 1.596, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.596, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.654, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.596, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Back_Jurnizia_ATAKA</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel7_Back</textureLevelsName>
+				<drawOffsetSouth>(0, 0.135, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 0.135, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 0.135, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 0.135, 0)</drawOffsetWest>
+				<renderSwitch>(1, 0, 0)</renderSwitch>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Jurnizia_ATAKA_Olive</defName>
+		<originalDef>Anneli_Jurnizia_ATAKA_Olive</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>7/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Jurnizia_ATAKA</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel7</textureLevelsName>
+				<drawOffsetSouth>(0, 1.596, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.596, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.654, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.596, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Back_Jurnizia_ATAKA</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel7_Back</textureLevelsName>
+				<drawOffsetSouth>(0, 0.135, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 0.135, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 0.135, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 0.135, 0)</drawOffsetWest>
+				<renderSwitch>(1, 0, 0)</renderSwitch>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Jurnizia_CamoATAKA</defName>
+		<originalDef>Anneli_Jurnizia_CamoATAKA</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>7/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Jurnizia_CamoATAKA</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel7</textureLevelsName>
+				<drawOffsetSouth>(0, 1.596, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.596, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.654, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.596, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Back_Jurnizia_CamoATAKA</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel7_Back</textureLevelsName>
+				<drawOffsetSouth>(0, 0.135, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 0.135, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 0.135, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 0.135, 0)</drawOffsetWest>
+				<renderSwitch>(1, 0, 0)</renderSwitch>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Jurnizia_Backpack</defName>
+		<originalDef>Anneli_Jurnizia_Backpack</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>7/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Jurnizia_Backpack</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel7</textureLevelsName>
+				<drawOffsetSouth>(0, 1.808, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.596, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.808, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.596, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Back_Jurnizia_Backpack</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel7_Back</textureLevelsName>
+				<drawOffsetSouth>(0, 0.385, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 0.385, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 0.385, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 0.385, 0)</drawOffsetWest>
+				<renderSwitch>(1, 0, 0)</renderSwitch>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Jurnizia_Sack</defName>
+		<originalDef>Anneli_Jurnizia_Sack</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>7/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Jurnizia_Sack</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel7</textureLevelsName>
+				<drawOffsetSouth>(0, 1.808, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.596, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.808, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.596, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Back_Jurnizia_Sack</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel7_Back</textureLevelsName>
+				<drawOffsetSouth>(0, 0.385, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 0.385, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 0.385, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 0.385, 0)</drawOffsetWest>
+				<renderSwitch>(1, 0, 0)</renderSwitch>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+	
+</Defs>

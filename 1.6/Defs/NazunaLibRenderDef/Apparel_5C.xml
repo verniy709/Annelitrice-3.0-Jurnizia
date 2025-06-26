@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Jurnizia_TacticalGloves</defName>
+		<originalDef>Anneli_Jurnizia_TacticalGloves</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>5C/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Jurnizia_TacticalGloves</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel5C_Left</textureLevelsName>
+				<useStaticYOffset>true</useStaticYOffset>
+				<drawOffsetSouth>(0, 1.731, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 0.481, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.731, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.731, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
+				<useBodyType>true</useBodyType>
+				<isSleeve>true</isSleeve>
+				<actionManager>
+					<def>Anneli_Jurnizia_TacticalGloves_Left</def>
+				</actionManager>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Jurnizia_TacticalGloves</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel5C_Right</textureLevelsName>
+				<flipped>true</flipped>
+				<switchEastWest>true</switchEastWest>
+				<useStaticYOffset>true</useStaticYOffset>
+				<drawOffsetSouth>(0, 1.731, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.731, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.731, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 0.481, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
+				<useBodyType>true</useBodyType>
+				<isSleeve>true</isSleeve>
+				<actionManager>
+					<def>Anneli_Jurnizia_TacticalGloves_Right</def>
+				</actionManager>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Jurnizia_WinterGloves</defName>
+		<originalDef>Anneli_Jurnizia_WinterGloves</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>5C/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Jurnizia_WinterGloves</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel5C_Left</textureLevelsName>
+				<useStaticYOffset>true</useStaticYOffset>
+				<drawOffsetSouth>(0, 1.769, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 0.519, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.769, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.769, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
+				<useBodyType>true</useBodyType>
+				<isSleeve>true</isSleeve>
+				<actionManager>
+					<def>Anneli_Jurnizia_WinterGloves_Left</def>
+				</actionManager>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Jurnizia_WinterGloves</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel5C_Right</textureLevelsName>
+				<flipped>true</flipped>
+				<switchEastWest>true</switchEastWest>
+				<useStaticYOffset>true</useStaticYOffset>
+				<drawOffsetSouth>(0, 1.769, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.769, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.769, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 0.519, 0)</drawOffsetWest>
+				<meshType>Body</meshType>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
+				<useBodyType>true</useBodyType>
+				<isSleeve>true</isSleeve>
+				<actionManager>
+					<def>Anneli_Jurnizia_WinterGloves_Right</def>
+				</actionManager>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+</Defs>
