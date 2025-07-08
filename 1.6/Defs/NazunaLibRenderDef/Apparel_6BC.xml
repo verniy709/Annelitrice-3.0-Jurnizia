@@ -12,11 +12,11 @@
 					<li>Anneli_Jurnizia_GP5GasMaskA</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6BC</textureLevelsName>
-				<drawOffsetSouth>(0, 2.423, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 2.423, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 2.423, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 2.423, 0)</drawOffsetWest>
+				<textureLevelsName>Anneli_Hat6BC</textureLevelsName>
+				<drawOffsetSouth>(0, 2.404, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.404, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.404, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.404, 0)</drawOffsetWest>
 				<useStaticYOffset>true</useStaticYOffset>
 				<meshType>Head</meshType>
 			</li>
@@ -35,11 +35,11 @@
 					<li>Anneli_Jurnizia_GP5GasMaskB</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6BC</textureLevelsName>
-				<drawOffsetSouth>(0, 2.423, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 2.423, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 2.423, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 2.423, 0)</drawOffsetWest>
+				<textureLevelsName>Anneli_Hat6BC</textureLevelsName>
+				<drawOffsetSouth>(0, 2.404, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.404, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.404, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.404, 0)</drawOffsetWest>
 				<useStaticYOffset>true</useStaticYOffset>
 				<meshType>Head</meshType>
 			</li>
@@ -58,7 +58,7 @@
 					<li>Anneli_Jurnizia_PMK1GasMaskA</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6BC</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6BC</textureLevelsName>
 				<drawOffsetSouth>(0, 2.558, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 2.558, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 2.558, 0)</drawOffsetNorth>
@@ -81,7 +81,7 @@
 					<li>Anneli_Jurnizia_PMK1GasMaskB</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6BC</textureLevelsName>
+				<textureLevelsName>Anneli_Hat6BC</textureLevelsName>
 				<drawOffsetSouth>(0, 2.558, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 2.558, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 2.558, 0)</drawOffsetNorth>

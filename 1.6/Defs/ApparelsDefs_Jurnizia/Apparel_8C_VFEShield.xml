@@ -11,7 +11,7 @@
         <weaponClasses>
             <li>Melee</li>
         </weaponClasses>
-        <thingClass>VFECore.Apparel_Shield</thingClass>
+        <thingClass>VEF.Apparels.Apparel_Shield</thingClass>
         <costStuffCount>75</costStuffCount>
         <stuffCategories>
             <li>Woody</li>
@@ -113,7 +113,7 @@
             <drawSize>1</drawSize>
         </graphicData>
         <comps>
-            <li Class="VFECore.CompProperties_Shield">
+            <li Class="VEF.Apparels.CompProperties_Shield">
                 <shieldTags>
                     <li>Jurnizia_BZT75Shield</li>
                 </shieldTags>
@@ -172,7 +172,7 @@
             <drawSize>1</drawSize>
         </graphicData>
         <comps>
-            <li Class="VFECore.CompProperties_Shield">
+            <li Class="VEF.Apparels.CompProperties_Shield">
                 <shieldTags>
                     <li>Jurnizia_CamoBZT75Shield</li>
                 </shieldTags>
@@ -230,7 +230,7 @@
             <drawSize>1</drawSize>
         </graphicData>
         <comps>
-            <li Class="VFECore.CompProperties_Shield">
+            <li Class="VEF.Apparels.CompProperties_Shield">
                 <shieldTags>
                     <li>Jurnizia_VantVMShield</li>
                 </shieldTags>
@@ -289,7 +289,7 @@
             <drawSize>1</drawSize>
         </graphicData>
         <comps>
-            <li Class="VFECore.CompProperties_Shield">
+            <li Class="VEF.Apparels.CompProperties_Shield">
                 <shieldTags>
                     <li>Jurnizia_CamoVantVMShield</li>
                 </shieldTags>

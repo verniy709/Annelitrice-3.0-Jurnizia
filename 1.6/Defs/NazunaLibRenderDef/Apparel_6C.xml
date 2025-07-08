@@ -12,11 +12,11 @@
 					<li>Anneli_Jurnizia_Balaclava</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6C</textureLevelsName>
-				<drawOffsetSouth>(0, 2.404, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 2.404, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 2.404, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 2.404, 0)</drawOffsetWest>
+				<textureLevelsName>Anneli_Hat6C</textureLevelsName>
+				<drawOffsetSouth>(0, 2.385, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.385, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.385, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.385, 0)</drawOffsetWest>
 				<useStaticYOffset>true</useStaticYOffset>
 				<meshType>Head</meshType>
 			</li>
@@ -35,11 +35,11 @@
 					<li>Anneli_Jurnizia_CamoMask</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6C</textureLevelsName>
-				<drawOffsetSouth>(0, 2.404, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 2.404, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 2.404, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 2.404, 0)</drawOffsetWest>
+				<textureLevelsName>Anneli_Hat6C</textureLevelsName>
+				<drawOffsetSouth>(0, 2.385, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.385, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.385, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.385, 0)</drawOffsetWest>
 				<useStaticYOffset>true</useStaticYOffset>
 				<meshType>Head</meshType>
 			</li>
@@ -58,11 +58,11 @@
 					<li>Anneli_Jurnizia_Cigar</li>
 				</prefix>
 				<renderLayer>Hat</renderLayer>
-				<textureLevelsName>Anneli_Apparel6C</textureLevelsName>
-				<drawOffsetSouth>(0, 2.404, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 2.404, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 2.404, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 2.404, 0)</drawOffsetWest>
+				<textureLevelsName>Anneli_Hat6C</textureLevelsName>
+				<drawOffsetSouth>(0, 2.385, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.385, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.385, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.385, 0)</drawOffsetWest>
 				<useStaticYOffset>true</useStaticYOffset>
 				<meshType>Head</meshType>
 			</li>

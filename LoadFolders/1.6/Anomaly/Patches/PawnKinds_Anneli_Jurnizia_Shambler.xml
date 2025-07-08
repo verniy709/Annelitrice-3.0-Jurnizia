@@ -8,22 +8,7 @@
                 <kindDef>Shamblers</kindDef>
                 <commonality>10</commonality>
                 <options>
-                    <Anneli_Jurnizia_Shambler_Civilian_Male>3</Anneli_Jurnizia_Shambler_Civilian_Male>
-                    <Anneli_Jurnizia_Shambler_Thug>3</Anneli_Jurnizia_Shambler_Thug>
-                    <Anneli_Jurnizia_Shambler_Civilian_Female>3</Anneli_Jurnizia_Shambler_Civilian_Female>
-                    <Anneli_Jurnizia_Shambler_Civilian_Jogger>3</Anneli_Jurnizia_Shambler_Civilian_Jogger>
-                    <Anneli_Jurnizia_Shambler_Civilian_Streamer>3</Anneli_Jurnizia_Shambler_Civilian_Streamer>
-                    <Anneli_Jurnizia_Shambler_Militia_Male>3</Anneli_Jurnizia_Shambler_Militia_Male>
-                    <Anneli_Jurnizia_Shambler_Militia_Female>3</Anneli_Jurnizia_Shambler_Militia_Female>
-                    <Anneli_Jurnizia_Shambler_Draftee>5</Anneli_Jurnizia_Shambler_Draftee>
-                    <Anneli_Jurnizia_Shambler_Officer>3</Anneli_Jurnizia_Shambler_Officer>
-                    <Anneli_Jurnizia_Shambler_Driver>2</Anneli_Jurnizia_Shambler_Driver>
-                    <Anneli_Jurnizia_Shambler_Spetsnaz>2</Anneli_Jurnizia_Shambler_Spetsnaz>
-                    <Anneli_Jurnizia_Shambler_Sniper>2</Anneli_Jurnizia_Shambler_Sniper>
-                    <Anneli_Jurnizia_Shambler_InternalTroop_Male>3</Anneli_Jurnizia_Shambler_InternalTroop_Male>
-                    <Anneli_Jurnizia_Shambler_InternalTroop_Female>3</Anneli_Jurnizia_Shambler_InternalTroop_Female>
-                    <Anneli_Jurnizia_Shambler_Agent>3</Anneli_Jurnizia_Shambler_Agent>
-                    <Anneli_Jurnizia_Shambler_HeavyTrooper>5</Anneli_Jurnizia_Shambler_HeavyTrooper>
+
                 </options>
             </li>
         </value>

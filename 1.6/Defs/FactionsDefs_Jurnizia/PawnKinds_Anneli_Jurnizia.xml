@@ -79,10 +79,10 @@
 			<li>GunHeavy</li>
 		</weaponTags>
 		<modExtensions Inherit="False">
-			<li Class="VFECore.PawnKindDefExtension">
+			<li Class="VEF.Pawns.PawnKindDefExtension">
 				<shieldMoney>
-					<min>100</min>
-					<max>400</max>
+					<min>300</min>
+					<max>800</max>
 				</shieldMoney>
 				<shieldTags>
 					<li>Jurnizia_CamoBZT75Shield</li>
@@ -407,10 +407,10 @@
 			<li>SniperRifle</li>
 		</weaponTags>
 		<modExtensions Inherit="False">
-			<li Class="VFECore.PawnKindDefExtension">
+			<li Class="VEF.Pawns.PawnKindDefExtension">
 				<shieldMoney>
-					<min>100</min>
-					<max>400</max>
+					<min>300</min>
+					<max>800</max>
 				</shieldMoney>
 				<shieldTags>
 					<li>Jurnizia_CamoBZT75Shield</li>
@@ -464,10 +464,10 @@
 			<li>SniperRifle</li>
 		</weaponTags>
 		<modExtensions Inherit="False">
-			<li Class="VFECore.PawnKindDefExtension">
+			<li Class="VEF.Pawns.PawnKindDefExtension">
 				<shieldMoney>
-					<min>100</min>
-					<max>400</max>
+					<min>300</min>
+					<max>800</max>
 				</shieldMoney>
 				<shieldTags>
 					<li>Jurnizia_BZT75Shield</li>
@@ -497,10 +497,10 @@
 			<li>SniperRifle</li>
 		</weaponTags>
 		<modExtensions Inherit="False">
-			<li Class="VFECore.PawnKindDefExtension">
+			<li Class="VEF.Pawns.PawnKindDefExtension">
 				<shieldMoney>
-					<min>100</min>
-					<max>400</max>
+					<min>300</min>
+					<max>800</max>
 				</shieldMoney>
 				<shieldTags>
 					<li>Jurnizia_BZT75Shield</li>
@@ -552,10 +552,10 @@
 			<li>GunHeavy</li>
 		</weaponTags>
 		<modExtensions Inherit="False">
-			<li Class="VFECore.PawnKindDefExtension">
+			<li Class="VEF.Pawns.PawnKindDefExtension">
 				<shieldMoney>
-					<min>100</min>
-					<max>400</max>
+					<min>300</min>
+					<max>800</max>
 				</shieldMoney>
 				<shieldTags>
 					<li>Jurnizia_CamoBZT75Shield</li>

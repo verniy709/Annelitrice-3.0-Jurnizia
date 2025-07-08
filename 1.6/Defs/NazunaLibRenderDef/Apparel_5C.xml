@@ -12,12 +12,12 @@
 					<li>Anneli_Jurnizia_TacticalGloves</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Apparel5C_Left</textureLevelsName>
+				<textureLevelsName>Anneli_Glove1_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
-				<drawOffsetSouth>(0, 1.731, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 0.481, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 1.731, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 1.731, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 1.712, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 0.596, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.712, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.712, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<useBodyType>true</useBodyType>
@@ -31,14 +31,14 @@
 					<li>Anneli_Jurnizia_TacticalGloves</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Apparel5C_Right</textureLevelsName>
+				<textureLevelsName>Anneli_Glove1_Right</textureLevelsName>
 				<flipped>true</flipped>
 				<switchEastWest>true</switchEastWest>
 				<useStaticYOffset>true</useStaticYOffset>
-				<drawOffsetSouth>(0, 1.731, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 1.731, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 1.731, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 0.481, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 1.712, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.712, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.712, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 0.596, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<useBodyType>true</useBodyType>
@@ -62,12 +62,12 @@
 					<li>Anneli_Jurnizia_WinterGloves</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Apparel5C_Left</textureLevelsName>
+				<textureLevelsName>Anneli_Glove2_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
-				<drawOffsetSouth>(0, 1.769, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 0.519, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 1.769, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 1.769, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 1.750, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 0.615, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.750, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.750, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<useBodyType>true</useBodyType>
@@ -81,14 +81,14 @@
 					<li>Anneli_Jurnizia_WinterGloves</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Apparel5C_Right</textureLevelsName>
+				<textureLevelsName>Anneli_Glove2_Right</textureLevelsName>
 				<flipped>true</flipped>
 				<switchEastWest>true</switchEastWest>
 				<useStaticYOffset>true</useStaticYOffset>
-				<drawOffsetSouth>(0, 1.769, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 1.769, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 1.769, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 0.519, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 1.750, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.750, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.750, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 0.615, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<useBodyType>true</useBodyType>

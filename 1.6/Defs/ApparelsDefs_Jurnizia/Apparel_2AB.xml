@@ -33,8 +33,6 @@
 				<li>Anneli_Jurnizia_InternalTroop_Female</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
-			<renderSkipFlags>
-			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
@@ -64,8 +62,6 @@
 				<li>Anneli_Jurnizia_InternalTroop_Female</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
-			<renderSkipFlags>
-			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
@@ -102,8 +98,6 @@
 				<li>Anneli_Jurnizia_InternalTroop_Female</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
-			<renderSkipFlags>
-			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>

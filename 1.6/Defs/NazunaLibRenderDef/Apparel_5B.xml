@@ -13,34 +13,10 @@
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel5B</textureLevelsName>
-				<drawOffsetSouth>(0, 1.385, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 1.385, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 1.385, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 1.385, 0)</drawOffsetWest>
-				<meshType>Body</meshType>
-				<useStaticYOffset>true</useStaticYOffset>
-				<useBodyType>true</useBodyType>
-			</li>
-		</levels>
-	</NareisLib.MultiTexDef>
-
-	<NareisLib.MultiTexDef>
-		<defName>Anneli_Jurnizia_KneePads_Green</defName>
-		<originalDef>Anneli_Jurnizia_KneePads_Green</originalDef>
-		<originalDefClass>ThingDef</originalDefClass>
-		<renderOriginTex>false</renderOriginTex>
-		<path>5B/</path>
-		<levels>
-			<li>
-				<prefix>
-					<li>Anneli_Jurnizia_KneePads</li>
-				</prefix>
-				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Apparel5B</textureLevelsName>
-				<drawOffsetSouth>(0, 1.385, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 1.385, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 1.385, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 1.385, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 1.346, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.346, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.346, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.346, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
