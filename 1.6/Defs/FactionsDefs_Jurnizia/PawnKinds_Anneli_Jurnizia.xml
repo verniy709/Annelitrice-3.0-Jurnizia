@@ -72,24 +72,14 @@
 		<apparelTags>
 			<li>Anneli_Jurnizia_Common</li>
 			<li>Anneli_Jurnizia_HeavyTrooper</li>
+			<li>Anneli_Jurnizia_CamoBZT75Shield</li>
+			<li>Anneli_Jurnizia_CamoVantVMShield</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
 			<li>IndustrialGunAdvanced</li>
 			<li>GunHeavy</li>
 		</weaponTags>
-		<modExtensions Inherit="False">
-			<li Class="VEF.Pawns.PawnKindDefExtension">
-				<shieldMoney>
-					<min>300</min>
-					<max>800</max>
-				</shieldMoney>
-				<shieldTags>
-					<li>Jurnizia_CamoBZT75Shield</li>
-					<li>Jurnizia_CamoVantVMShield</li>
-				</shieldTags>
-			</li>
-		</modExtensions>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Jurnizia_KindBase">
@@ -273,6 +263,19 @@
 			<li>Anneli_Jurnizia_TShirt</li>
 			<li>Anneli_Jurnizia_Jeans</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelLayer>Anneli_Tactical</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(130,120,100,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_Jurnizia_Common</li>
 			<li>Anneli_Jurnizia_Militia_Male</li>
@@ -294,6 +297,19 @@
 		<apparelRequired>
 			<li>Anneli_Jurnizia_Dress</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelLayer>Anneli_Tactical</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(130,120,100,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_Jurnizia_Common</li>
 			<li>Anneli_Jurnizia_Militia_Female</li>
@@ -394,10 +410,47 @@
 			<li>Anneli_Jurnizia_GorkaPants</li>
 			<li>Anneli_Jurnizia_GorkaParka</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelLayer>Anneli_Armor</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(130,120,100,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelLayer>Anneli_Tactical</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(130,120,100,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelLayer>Anneli_Bag</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(130,120,100,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>BeltDefensePop</li>
 			<li>Anneli_Jurnizia_Common</li>
 			<li>Anneli_Jurnizia_Spetsnaz</li>
+			<li>Anneli_Jurnizia_CamoBZT75Shield</li>
+			<li>Anneli_Jurnizia_CamoVantVMShield</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
@@ -406,18 +459,6 @@
 			<li>IndustrialGunAdvanced</li>
 			<li>SniperRifle</li>
 		</weaponTags>
-		<modExtensions Inherit="False">
-			<li Class="VEF.Pawns.PawnKindDefExtension">
-				<shieldMoney>
-					<min>300</min>
-					<max>800</max>
-				</shieldMoney>
-				<shieldTags>
-					<li>Jurnizia_CamoBZT75Shield</li>
-					<li>Jurnizia_CamoVantVMShield</li>
-				</shieldTags>
-			</li>
-		</modExtensions>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Jurnizia_KindBase">
@@ -431,6 +472,30 @@
 			<li>Anneli_Jurnizia_GhillieSuit</li>
 			<li>Anneli_Jurnizia_GhillieHood</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelLayer>Anneli_Armor</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(130,120,100,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelLayer>Anneli_Bag</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(130,120,100,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>BeltDefensePop</li>
 			<li>Anneli_Jurnizia_Common</li>
@@ -452,9 +517,24 @@
 			<li>Anneli_Jurnizia_ShirtNecktie</li>
 			<li>Anneli_Jurnizia_Jeans</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelLayer>Anneli_Knee</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_Jurnizia_Common</li>
 			<li>Anneli_Jurnizia_InternalTroop_Male</li>
+			<li>Anneli_Jurnizia_BZT75Shield</li>
+			<li>Anneli_Jurnizia_VantVMShield</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
@@ -463,18 +543,6 @@
 			<li>IndustrialGunAdvanced</li>
 			<li>SniperRifle</li>
 		</weaponTags>
-		<modExtensions Inherit="False">
-			<li Class="VEF.Pawns.PawnKindDefExtension">
-				<shieldMoney>
-					<min>300</min>
-					<max>800</max>
-				</shieldMoney>
-				<shieldTags>
-					<li>Jurnizia_BZT75Shield</li>
-					<li>Jurnizia_VantVMShield</li>
-				</shieldTags>
-			</li>
-		</modExtensions>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Jurnizia_KindBase">
@@ -485,9 +553,24 @@
 		<apparelRequired>
 			<li>Anneli_Jurnizia_SunDress</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelLayer>Anneli_Knee</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_Jurnizia_Common</li>
 			<li>Anneli_Jurnizia_InternalTroop_Female</li>
+			<li>Anneli_Jurnizia_BZT75Shield</li>
+			<li>Anneli_Jurnizia_VantVMShield</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
@@ -496,18 +579,6 @@
 			<li>IndustrialGunAdvanced</li>
 			<li>SniperRifle</li>
 		</weaponTags>
-		<modExtensions Inherit="False">
-			<li Class="VEF.Pawns.PawnKindDefExtension">
-				<shieldMoney>
-					<min>300</min>
-					<max>800</max>
-				</shieldMoney>
-				<shieldTags>
-					<li>Jurnizia_BZT75Shield</li>
-					<li>Jurnizia_VantVMShield</li>
-				</shieldTags>
-			</li>
-		</modExtensions>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Jurnizia_KindBase">
@@ -543,6 +614,8 @@
 		<apparelTags>
 			<li>Anneli_Jurnizia_Common</li>
 			<li>Anneli_Jurnizia_HeavyTrooper</li>
+			<li>Anneli_Jurnizia_CamoBZT75Shield</li>
+			<li>Anneli_Jurnizia_CamoVantVMShield</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
@@ -551,18 +624,6 @@
 			<li>IndustrialGunAdvanced</li>
 			<li>GunHeavy</li>
 		</weaponTags>
-		<modExtensions Inherit="False">
-			<li Class="VEF.Pawns.PawnKindDefExtension">
-				<shieldMoney>
-					<min>300</min>
-					<max>800</max>
-				</shieldMoney>
-				<shieldTags>
-					<li>Jurnizia_CamoBZT75Shield</li>
-					<li>Jurnizia_CamoVantVMShield</li>
-				</shieldTags>
-			</li>
-		</modExtensions>
 	</PawnKindDef>
 
 </Defs>

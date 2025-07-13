@@ -112,6 +112,11 @@
             <graphicClass>Graphic_Single</graphicClass>
             <drawSize>1</drawSize>
         </graphicData>
+        <apparel>
+            <tags>
+                <li>Anneli_Jurnizia_BZT75Shield</li>
+            </tags>
+        </apparel>
         <comps>
             <li Class="VEF.Apparels.CompProperties_Shield">
                 <shieldTags>
@@ -171,6 +176,11 @@
             <shaderType>CutoutComplex</shaderType>
             <drawSize>1</drawSize>
         </graphicData>
+        <apparel>
+            <tags>
+                <li>Anneli_Jurnizia_CamoBZT75Shield</li>
+            </tags>
+        </apparel>
         <comps>
             <li Class="VEF.Apparels.CompProperties_Shield">
                 <shieldTags>
@@ -229,6 +239,11 @@
             <graphicClass>Graphic_Single</graphicClass>
             <drawSize>1</drawSize>
         </graphicData>
+        <apparel>
+            <tags>
+                <li>Anneli_Jurnizia_VantVMShield</li>
+            </tags>
+        </apparel>
         <comps>
             <li Class="VEF.Apparels.CompProperties_Shield">
                 <shieldTags>
@@ -288,6 +303,11 @@
             <shaderType>CutoutComplex</shaderType>
             <drawSize>1</drawSize>
         </graphicData>
+        <apparel>
+            <tags>
+                <li>Anneli_Jurnizia_CamoVantVMShield</li>
+            </tags>
+        </apparel>
         <comps>
             <li Class="VEF.Apparels.CompProperties_Shield">
                 <shieldTags>

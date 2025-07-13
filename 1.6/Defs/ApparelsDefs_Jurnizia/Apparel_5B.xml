@@ -37,6 +37,10 @@
 			<tags>
 				<li>Anneli_Jurnizia_InternalTroop_Male</li>
 				<li>Anneli_Jurnizia_InternalTroop_Female</li>
+				<li>Anneli_Jurnizia_Spetsnaz</li>
+				<li>Anneli_Jurnizia_Sniper</li>
+				<li>Anneli_Jurnizia_Draftee</li>
+				<li>Anneli_Jurnizia_HeavyTrooper</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -44,7 +48,7 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(105,115,90,255)</only>
 				</li>
 			</options>
 		</colorGenerator>

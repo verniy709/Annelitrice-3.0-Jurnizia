@@ -26,6 +26,9 @@
 			<tags>
 				<li>Anneli_Jurnizia_InternalTroop_Male</li>
 				<li>Anneli_Jurnizia_InternalTroop_Female</li>
+				<li>Anneli_Jurnizia_Spetsnaz</li>
+				<li>Anneli_Jurnizia_Militia_Male</li>
+				<li>Anneli_Jurnizia_Militia_Female</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -82,6 +85,9 @@
 			<tags>
 				<li>Anneli_Jurnizia_InternalTroop_Male</li>
 				<li>Anneli_Jurnizia_InternalTroop_Female</li>
+				<li>Anneli_Jurnizia_Spetsnaz</li>
+				<li>Anneli_Jurnizia_Militia_Male</li>
+				<li>Anneli_Jurnizia_Militia_Female</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
