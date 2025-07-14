@@ -116,6 +116,19 @@
 			<li>Anneli_Jurnizia_SportPants</li>
 			<li>Anneli_Jurnizia_AdidasJacket</li> 
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_Jurnizia_WinterGloves</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_Jurnizia_Common</li>
 			<li>Anneli_Jurnizia_Civilian_Male</li>
@@ -130,19 +143,6 @@
 			<li>NeolithicMeleeBasic</li>
 			<li>MedievalMeleeDecent</li>
 		</weaponTags>
-		<specificApparelRequirements>
-			<li>
-				<apparelDef>Anneli_Jurnizia_WinterGloves</apparelDef>
-				<colorGenerator Class="ColorGenerator_Options">
-					<options>
-						<li>
-							<weight>10</weight>
-							<only>(50,45,50,255)</only>
-						</li>
-					</options>
-				</colorGenerator>
-			</li>
-		</specificApparelRequirements>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Jurnizia_KindBase">
@@ -154,20 +154,6 @@
 			<li>Anneli_Jurnizia_SleevelessShirt</li>
 			<li>Anneli_Jurnizia_DenimShorts</li>
 		</apparelRequired>
-		<apparelTags>
-			<li>Anneli_Jurnizia_Common</li>
-			<li>Anneli_Jurnizia_Civilian_Female</li>
-		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
-		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
-			<li>GrenadeDestructive</li>
-			<li>MedievalMeleeBasic</li>
-			<li>NeolithicMeleeBasic</li>
-			<li>MedievalMeleeDecent</li>
-		</weaponTags>
 		<specificApparelRequirements>
 			<li>
 				<apparelDef>Anneli_Jurnizia_WinterGloves</apparelDef>
@@ -185,6 +171,20 @@
 				</colorGenerator>
 			</li>
 		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_Jurnizia_Common</li>
+			<li>Anneli_Jurnizia_Civilian_Female</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>SimpleGun</li>
+			<li>Revolver</li>
+			<li>IndustrialGunAdvanced</li>
+			<li>GrenadeDestructive</li>
+			<li>MedievalMeleeBasic</li>
+			<li>NeolithicMeleeBasic</li>
+			<li>MedievalMeleeDecent</li>
+		</weaponTags>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Jurnizia_KindBase">
@@ -196,20 +196,6 @@
 			<li>Anneli_Jurnizia_Leggings</li>
 			<li>Anneli_Jurnizia_Hoodie</li>
 		</apparelRequired>
-		<apparelTags>
-			<li>Anneli_Jurnizia_Common</li>
-			<li>Anneli_Jurnizia_Civilian_Female</li>
-		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
-		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
-			<li>GrenadeDestructive</li>
-			<li>MedievalMeleeBasic</li>
-			<li>NeolithicMeleeBasic</li>
-			<li>MedievalMeleeDecent</li>
-		</weaponTags>
 		<specificApparelRequirements>
 			<li>
 				<apparelDef>Anneli_Jurnizia_WinterGloves</apparelDef>
@@ -227,6 +213,20 @@
 				</colorGenerator>
 			</li>
 		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_Jurnizia_Common</li>
+			<li>Anneli_Jurnizia_Civilian_Female</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>SimpleGun</li>
+			<li>Revolver</li>
+			<li>IndustrialGunAdvanced</li>
+			<li>GrenadeDestructive</li>
+			<li>MedievalMeleeBasic</li>
+			<li>NeolithicMeleeBasic</li>
+			<li>MedievalMeleeDecent</li>
+		</weaponTags>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Jurnizia_KindBase">
@@ -376,16 +376,6 @@
 			<li>Anneli_Jurnizia_BaggyPants</li>
 			<li>Anneli_Jurnizia_Parka</li>
 		</apparelRequired>
-		<apparelTags>
-			<li>Anneli_Jurnizia_Common</li>
-			<li>Anneli_Jurnizia_Driver</li>
-		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
-		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
-		</weaponTags>
 		<specificApparelRequirements>
 			<li>
 				<apparelDef>Anneli_Jurnizia_WinterGloves</apparelDef>
@@ -399,6 +389,16 @@
 				</colorGenerator>
 			</li>
 		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_Jurnizia_Common</li>
+			<li>Anneli_Jurnizia_Driver</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>SimpleGun</li>
+			<li>Revolver</li>
+			<li>IndustrialGunAdvanced</li>
+		</weaponTags>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Jurnizia_KindBase">
