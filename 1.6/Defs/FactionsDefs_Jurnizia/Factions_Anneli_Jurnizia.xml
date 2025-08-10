@@ -94,6 +94,19 @@
 				</options>
 			</li>
 			<li>
+				<kindDef>Combat</kindDef>
+				<commonality>60</commonality>
+				<options>
+					<Anneli_Jurnizia_Leader>1</Anneli_Jurnizia_Leader>
+					<Anneli_Jurnizia_Draftee>5</Anneli_Jurnizia_Draftee>
+					<Anneli_Jurnizia_Officer>3</Anneli_Jurnizia_Officer>
+					<Anneli_Jurnizia_Driver>2</Anneli_Jurnizia_Driver>
+					<Anneli_Jurnizia_Spetsnaz>2</Anneli_Jurnizia_Spetsnaz>
+					<Anneli_Jurnizia_Sniper>2</Anneli_Jurnizia_Sniper>
+					<Anneli_Jurnizia_HeavyTrooper>5</Anneli_Jurnizia_HeavyTrooper>
+				</options>
+			</li>
+			<li>
 				<kindDef>Peaceful</kindDef>
 				<options>
 					<Anneli_Jurnizia_Civilian_Male>1</Anneli_Jurnizia_Civilian_Male>
