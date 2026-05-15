@@ -8,7 +8,7 @@
 		<initialResistanceRange>7~12</initialResistanceRange>
 		<isGoodBreacher>true</isGoodBreacher>
 		<overrideDebugActionCategory>Entity</overrideDebugActionCategory>
-		<combatPower>90</combatPower>
+		<combatPower>150</combatPower>
 		<gearHealthRange>0.2~0.4</gearHealthRange>
 		<meleeAttackInfectionPathways>
 			<li>EntityAttacked</li>
