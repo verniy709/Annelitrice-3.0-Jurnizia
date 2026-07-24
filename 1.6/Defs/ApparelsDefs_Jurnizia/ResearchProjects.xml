@@ -4,7 +4,7 @@
 	<ResearchProjectDef>
 		<defName>Anneli_Jurnizia_Apparels</defName>
 		<label>Annelitrice Jurnizia Apparels</label>
-		<description>Annelitrice Jurnizia Apparels.</description>
+		<description>A strange nightstand-like furniture with a big mirror. Sometimes the mirror shows an angry old man who yells in an ancient language.</description>
 		<baseCost>400</baseCost>
 		<techLevel>Medieval</techLevel>
 		<prerequisites>
