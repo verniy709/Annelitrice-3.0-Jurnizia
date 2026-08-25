@@ -4,13 +4,13 @@
 	<FactionDef ParentName="Anneli_FactionBase">
 		<defName>Anneli_Faction_Jurnizia</defName>
 		<label>Anneli Faction Republic of Jurnizia</label>
-		<description>In the distant past, a powerful annelitrice faction sought to impose order on a chaotic planet through their own rule, creating the "Confederacy". However, a group of dissident annelitrice disagreed with the rule and formed the "Rebels" to wage war against the Confederacy. The two factions engaged in a strangely never-ending cycle of battles, with the superior Confederates always emerging victorious and exterminating every single Rebel.\n\nUnbeknownst to outsiders, both the Confederates and Rebels were made up of the same annelitrice. Both sides are attempting to create the ultimate war movie by repeating the same conflict over and over. However, after thousands of cycles, something went awry and the Confederates suffered a crushing defeat against the weaker Rebels. Against all odds, the Rebels emerged victorious and assimilated the remaining Confederates under a new branding called "Jurnizia".\n\nAlthough not inherently evil, the Jurnizia’s desire to create the perfect war movie has led them to cause immense destruction and countless deaths. They are a feared and notorious faction, known for their brutal tactics,audaciousness and strange accent. Their true origins and motivations are known only to themselves. Now, they continue to roam the planet as a reminder of the power of chaos and the dangers of obsession.</description>
+		<description>In the distant past, a powerful annelitrice faction attempted to impose order on a chaotic planet under the banner of the Confederacy. Dissidents soon rose against them as the Rebels, and war followed. The Confederates were stronger, better organized, and almost always victorious, routinely crushing the Rebels and wiping out their forces. Yet somehow, the war never truly ended. New Rebels would appear, another campaign would begin, and the same conflict would play out again.\n\nWhat outsiders did not know was that both sides were made up of the same annelitrice. The endless war was an elaborate attempt to produce the perfect war movie. After thousands of repetitions, however, something finally went wrong. Against all expectations, the weaker Rebels won. Rather than stopping the movie production, they absorbed the surviving Confederates and rebranded the entire project as Jurnizia.\n\nAnnelitrice from Jurnizia are not particularly interested in conquest, but their pursuit of spectacular battles has left ruined settlements and countless casualties in its wake. Feared for their brutality, reckless audacity, and peculiar accent, the Jurnizia's army roam the planet in search of ever larger conflicts and ever better footage.</description>
 		<colorSpectrum>
 			<li>(0.1, 0.6, 0)</li>
 		</colorSpectrum>
 		<pawnSingular>Annelitrice</pawnSingular>
 		<pawnsPlural>Annelitrice</pawnsPlural>
-		<fixedName>Forged Republic of Jurnizia</fixedName>
+		<fixedName>Forged Republic</fixedName>
 		<requiredMemes>
 			<li MayRequire="Ludeon.RimWorld.Ideology">FemaleSupremacy</li>
 			<li MayRequire="Ludeon.RimWorld.Ideology">Raider</li>
