@@ -2,9 +2,6 @@
 <Defs>
 
 	<ThingDef Name="Anneli_Jurnizia_6B_NonMetal" ParentName="Anneli_6B_NonMetal" Abstract="True">
-		<equippedStatOffsets>
-			<ShootingAccuracyPawn>0.1</ShootingAccuracyPawn>
-		</equippedStatOffsets>
 		<thingCategories>
 			<li>Anneli_Category_Jurnizia</li>
 		</thingCategories>
@@ -16,9 +13,6 @@
 	</ThingDef>
 
 	<ThingDef Name="Anneli_Jurnizia_6B_Metal" ParentName="Anneli_6B_Metal" Abstract="True">
-		<equippedStatOffsets>
-			<ShootingAccuracyPawn>0.1</ShootingAccuracyPawn>
-		</equippedStatOffsets>
 		<thingCategories>
 			<li>Anneli_Category_Jurnizia</li>
 		</thingCategories>

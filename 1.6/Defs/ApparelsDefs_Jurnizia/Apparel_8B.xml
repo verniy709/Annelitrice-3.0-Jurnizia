@@ -78,8 +78,8 @@
 		</colorGenerator>
 		<generateAllowChance>0.05</generateAllowChance><!--Less Spawn-->
 		<costList>
-			<Steel>300</Steel>
-			<ComponentIndustrial>1</ComponentIndustrial>
+			<Steel>800</Steel>
+			<ComponentIndustrial>10</ComponentIndustrial>
 		</costList>
 		<rotatable>false</rotatable>
 		<statBases>

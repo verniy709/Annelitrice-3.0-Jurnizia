@@ -2,9 +2,6 @@
 <Defs>
 
 	<ThingDef Name="Anneli_Jurnizia_2A" ParentName="Anneli_2A" Abstract="True">
-		<equippedStatOffsets>
-			<AimingDelayFactor>-0.1</AimingDelayFactor>
-		</equippedStatOffsets>
 		<thingCategories>
 			<li>Anneli_Category_Jurnizia</li>
 		</thingCategories>

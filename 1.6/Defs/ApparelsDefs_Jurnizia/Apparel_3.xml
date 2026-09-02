@@ -2,11 +2,6 @@
 <Defs>
 
 	<ThingDef Name="Anneli_Jurnizia_3" ParentName="Anneli_3" Abstract="True">
-		<equippedStatOffsets>
-			<HuntingStealth>0.2</HuntingStealth>
-			<MedicalTendSpeed>0.2</MedicalTendSpeed>
-			<MedicalTendQuality>0.2</MedicalTendQuality>
-		</equippedStatOffsets>
 		<thingCategories>
 			<li>Anneli_Category_Jurnizia</li>
 		</thingCategories>

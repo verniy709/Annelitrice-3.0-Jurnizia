@@ -282,7 +282,7 @@
 				<drawOffsetWest>(0, 1.731, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticColor>true</useStaticColor>
-				<color>RGBA(0.373,0.365,0.302,1)</color>
+				<color>RGBA(145,135,100,255)</color>
 				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
@@ -304,7 +304,7 @@
 				<drawOffsetWest>(0, 0.558, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticColor>true</useStaticColor>
-				<color>RGBA(0.373,0.365,0.302,1)</color>
+				<color>RGBA(145,135,100,255)</color>
 				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
