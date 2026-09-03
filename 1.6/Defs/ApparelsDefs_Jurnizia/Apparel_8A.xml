@@ -134,7 +134,7 @@
 						<clipPath>Anneli_AccordionA</clipPath>
 					</li>
 				</grains>
-				<volumeRange>40~40</volumeRange>
+				<volumeRange>75~75</volumeRange>
 			</li>
 		</subSounds>
 	</SoundDef>
@@ -155,7 +155,7 @@
 						<clipPath>Anneli_AccordionB</clipPath>
 					</li>
 				</grains>
-				<volumeRange>40~40</volumeRange>
+				<volumeRange>65~65</volumeRange>
 			</li>
 		</subSounds>
 	</SoundDef>
