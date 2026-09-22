@@ -29,7 +29,6 @@
 					</li>
 				</grains>
 				<volumeRange>40~40</volumeRange>
-				<distRange>20~50</distRange>
 			</li>
 		</subSounds>
 	</SoundDef>
@@ -51,7 +50,6 @@
 					</li>
 				</grains>
 				<volumeRange>40~40</volumeRange>
-				<distRange>20~50</distRange>
 			</li>
 		</subSounds>
 	</SoundDef>
@@ -99,13 +97,13 @@
 		<tickerType>Normal</tickerType>
 		<comps>
 			<li Class="Annelitrice.CompProperties_ApparelCauseHediff_AoE">
-				<hediff>Anneli_Music_Melancholic</hediff>
-				<range>21.9</range>
-				<canTargetSelf>true</canTargetSelf>
-				<drawLines>false</drawLines>
-				<ignoreMechs>true</ignoreMechs>
-				<checkInterval>500</checkInterval>
-			</li>
+                <hediff>Anneli_Music_Melancholic</hediff>
+                <range>21.9</range>
+                <canTargetSelf>true</canTargetSelf>
+                <drawLines>false</drawLines>
+                <ignoreMechs>true</ignoreMechs>
+                <checkInterval>500</checkInterval>
+            </li>
 			<li Class="Annelitrice.CompProperties_PlayMusic">
 				<soundDefs>
 					<li>Anneli_GuitarA</li>
@@ -137,7 +135,6 @@
 					</li>
 				</grains>
 				<volumeRange>75~75</volumeRange>
-				<distRange>20~50</distRange>
 			</li>
 		</subSounds>
 	</SoundDef>
@@ -159,7 +156,6 @@
 					</li>
 				</grains>
 				<volumeRange>65~65</volumeRange>
-				<distRange>20~50</distRange>
 			</li>
 		</subSounds>
 	</SoundDef>
@@ -215,13 +211,13 @@
 		<tickerType>Normal</tickerType>
 		<comps>
 			<li Class="Annelitrice.CompProperties_ApparelCauseHediff_AoE">
-				<hediff>Anneli_Music_Intense</hediff>
-				<range>21.9</range>
-				<canTargetSelf>true</canTargetSelf>
-				<drawLines>false</drawLines>
-				<ignoreMechs>true</ignoreMechs>
-				<checkInterval>500</checkInterval>
-			</li>
+                <hediff>Anneli_Music_Intense</hediff>
+                <range>21.9</range>
+                <canTargetSelf>true</canTargetSelf>
+                <drawLines>false</drawLines>
+                <ignoreMechs>true</ignoreMechs>
+<checkInterval>500</checkInterval>
+            </li>
 			<li Class="Annelitrice.CompProperties_PlayMusic">
 				<soundDefs>
 					<li>Anneli_AccordionA</li>
@@ -236,5 +232,5 @@
 		</comps>
 	</ThingDef>
 
-	
+			
 </Defs>

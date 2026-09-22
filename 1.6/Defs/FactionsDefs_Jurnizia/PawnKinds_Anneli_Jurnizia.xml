@@ -4,10 +4,9 @@
 	<PawnKindDef Name="Anneli_Jurnizia_KindBase" ParentName="Anneli_KindBase" Abstract="True">
 		<label>Anneli_Jurnizia_KindBase</label>
 		<itemQuality>Masterwork</itemQuality>
-		<forceWeaponQuality>Masterwork</forceWeaponQuality>
 		<defaultFactionType>Anneli_Faction_Jurnizia</defaultFactionType>
 		<isFighter>true</isFighter>
-		<combatPower>160</combatPower>
+		<combatPower>170</combatPower>
 		<canBeSapper>true</canBeSapper>
 		<backstoryFiltersOverride>
 			<li>
@@ -41,7 +40,6 @@
 				</li>
 			</subOptionsChooseOne>
 		</inventoryOptions>
-		<combatEnhancingDrugsChance>1.0</combatEnhancingDrugsChance>
 		<xenotypeSet>
 			<xenotypeChances>
 				<Anneli_Xenotype MayRequire="Ludeon.RimWorld.Biotech">10.0</Anneli_Xenotype>
