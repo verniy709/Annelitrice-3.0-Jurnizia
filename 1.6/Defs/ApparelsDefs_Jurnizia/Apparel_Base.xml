@@ -4,7 +4,7 @@
 	<ThingCategoryDef>
 		<defName>Anneli_Category_Jurnizia</defName>
 		<parent>Apparel</parent>
-		<label>Annelitrice Jurnizia Apparels</label>
+		<label>Annelitrice Jurnizia Apparel</label>
 	</ThingCategoryDef>
 	
 </Defs>
