@@ -69,17 +69,17 @@
 			<max>75</max>
 		</allowedArrivalTemperatureRange>
 		<pawnGroupMakers>
-			<!-- Regular Army -->
+			<!-- Raid Party -->
 			<li>
 				<kindDef>Combat</kindDef>
 				<commonality>100</commonality>
 				<options>
 					<Anneli_Jurnizia_Leader>1</Anneli_Jurnizia_Leader>
 					<Anneli_Jurnizia_Civilian_Male>3</Anneli_Jurnizia_Civilian_Male>
-					<Anneli_Jurnizia_Thug>3</Anneli_Jurnizia_Thug>
+					<Anneli_Jurnizia_Thug>2</Anneli_Jurnizia_Thug>
 					<Anneli_Jurnizia_Civilian_Female>3</Anneli_Jurnizia_Civilian_Female>
-					<Anneli_Jurnizia_Civilian_Jogger>3</Anneli_Jurnizia_Civilian_Jogger>
-					<Anneli_Jurnizia_Civilian_Streamer>3</Anneli_Jurnizia_Civilian_Streamer>
+					<Anneli_Jurnizia_Civilian_Jogger>2</Anneli_Jurnizia_Civilian_Jogger>
+					<Anneli_Jurnizia_Civilian_Streamer>2</Anneli_Jurnizia_Civilian_Streamer>
 					<Anneli_Jurnizia_Militia_Male>3</Anneli_Jurnizia_Militia_Male>
 					<Anneli_Jurnizia_Militia_Female>3</Anneli_Jurnizia_Militia_Female>
 					<Anneli_Jurnizia_Draftee>5</Anneli_Jurnizia_Draftee>
@@ -89,15 +89,15 @@
 					<Anneli_Jurnizia_Sniper>2</Anneli_Jurnizia_Sniper>
 					<Anneli_Jurnizia_InternalTroop_Male>3</Anneli_Jurnizia_InternalTroop_Male>
 					<Anneli_Jurnizia_InternalTroop_Female>3</Anneli_Jurnizia_InternalTroop_Female>
-					<Anneli_Jurnizia_Agent>3</Anneli_Jurnizia_Agent>
+					<Anneli_Jurnizia_Agent>2</Anneli_Jurnizia_Agent>
 					<Anneli_Jurnizia_HeavyTrooper>5</Anneli_Jurnizia_HeavyTrooper>
 				</options>
 			</li>
+			<!-- Regular Army -->
 			<li>
 				<kindDef>Combat</kindDef>
 				<commonality>60</commonality>
 				<options>
-					<Anneli_Jurnizia_Leader>1</Anneli_Jurnizia_Leader>
 					<Anneli_Jurnizia_Draftee>5</Anneli_Jurnizia_Draftee>
 					<Anneli_Jurnizia_Officer>3</Anneli_Jurnizia_Officer>
 					<Anneli_Jurnizia_Driver>2</Anneli_Jurnizia_Driver>
@@ -159,10 +159,10 @@
 				<options>
 					<Anneli_Jurnizia_Leader>1</Anneli_Jurnizia_Leader>
 					<Anneli_Jurnizia_Civilian_Male>3</Anneli_Jurnizia_Civilian_Male>
-					<Anneli_Jurnizia_Thug>3</Anneli_Jurnizia_Thug>
+					<Anneli_Jurnizia_Thug>2</Anneli_Jurnizia_Thug>
 					<Anneli_Jurnizia_Civilian_Female>3</Anneli_Jurnizia_Civilian_Female>
-					<Anneli_Jurnizia_Civilian_Jogger>3</Anneli_Jurnizia_Civilian_Jogger>
-					<Anneli_Jurnizia_Civilian_Streamer>3</Anneli_Jurnizia_Civilian_Streamer>
+					<Anneli_Jurnizia_Civilian_Jogger>2</Anneli_Jurnizia_Civilian_Jogger>
+					<Anneli_Jurnizia_Civilian_Streamer>2</Anneli_Jurnizia_Civilian_Streamer>
 					<Anneli_Jurnizia_Militia_Male>3</Anneli_Jurnizia_Militia_Male>
 					<Anneli_Jurnizia_Militia_Female>3</Anneli_Jurnizia_Militia_Female>
 					<Anneli_Jurnizia_Draftee>5</Anneli_Jurnizia_Draftee>
@@ -172,7 +172,7 @@
 					<Anneli_Jurnizia_Sniper>2</Anneli_Jurnizia_Sniper>
 					<Anneli_Jurnizia_InternalTroop_Male>3</Anneli_Jurnizia_InternalTroop_Male>
 					<Anneli_Jurnizia_InternalTroop_Female>3</Anneli_Jurnizia_InternalTroop_Female>
-					<Anneli_Jurnizia_Agent>3</Anneli_Jurnizia_Agent>
+					<Anneli_Jurnizia_Agent>2</Anneli_Jurnizia_Agent>
 					<Anneli_Jurnizia_HeavyTrooper>5</Anneli_Jurnizia_HeavyTrooper>
 				</options>
 			</li>

@@ -56,7 +56,6 @@
 			<wornGraphicPath>2B/Anneli_Jurnizia_DenimShorts</wornGraphicPath>
 			<tags>
 				<li>Anneli_Jurnizia_Civilian_Female</li>
-				<li>Anneli_Jurnizia_InternalTroop_Female</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -87,7 +86,6 @@
 			<wornGraphicPath>2B/Anneli_Jurnizia_Leggings</wornGraphicPath>
 			<tags>
 				<li>Anneli_Jurnizia_Civilian_Jogger</li>
-				<li>Anneli_Jurnizia_InternalTroop_Female</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -114,7 +112,6 @@
 			<wornGraphicPath>2B/Anneli_Jurnizia_Skirt</wornGraphicPath>
 			<tags>
 				<li>Anneli_Jurnizia_Officer</li>
-				<li>Anneli_Jurnizia_InternalTroop_Female</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -122,11 +119,7 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(130,120,100,255)</only>
-				</li>
-				<li>
-					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(145,140,115,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
@@ -145,8 +138,6 @@
 			<wornGraphicPath>2B/Anneli_Jurnizia_LeatherSkirt</wornGraphicPath>
 			<tags>
 				<li>Anneli_Jurnizia_Civilian_Streamer</li>
-				<li>Anneli_Jurnizia_Officer</li>
-				<li>Anneli_Jurnizia_InternalTroop_Female</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -173,7 +164,6 @@
 			<wornGraphicPath>2B/Anneli_Jurnizia_SportPants</wornGraphicPath>
 			<tags>
 				<li>Anneli_Jurnizia_Thug</li>
-				<li>Anneli_Jurnizia_Driver</li>
 				<li>Anneli_Jurnizia_InternalTroop_Male</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
@@ -201,7 +191,6 @@
 			<wornGraphicPath>2B/Anneli_Jurnizia_BaggyPants</wornGraphicPath>
 			<tags>
 				<li>Anneli_Jurnizia_Driver</li>
-				<li>Anneli_Jurnizia_InternalTroop_Male</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>

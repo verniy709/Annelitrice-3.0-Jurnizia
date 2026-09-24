@@ -158,7 +158,7 @@
             <options>
                 <li>
                     <weight>10</weight>
-                    <only>(50,45,50,255)</only>
+                    <only>(145,140,115,255)</only>
                 </li>
             </options>
         </colorGenerator>
@@ -283,7 +283,7 @@
             <options>
                 <li>
                     <weight>10</weight>
-                    <only>(50,45,50,255)</only>
+                    <only>(145,140,115,255)</only>
                 </li>
             </options>
         </colorGenerator>

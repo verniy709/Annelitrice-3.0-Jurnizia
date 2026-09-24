@@ -35,11 +35,9 @@
 		<apparel>
 			<wornGraphicPath>5B/Anneli_Jurnizia_KneePads</wornGraphicPath>
 			<tags>
-				<li>Anneli_Jurnizia_InternalTroop_Male</li>
-				<li>Anneli_Jurnizia_InternalTroop_Female</li>
-				<li>Anneli_Jurnizia_Spetsnaz</li>
 				<li>Anneli_Jurnizia_Sniper</li>
 				<li>Anneli_Jurnizia_Draftee</li>
+				<li>Anneli_Jurnizia_InternalTroop_Male</li>
 				<li>Anneli_Jurnizia_HeavyTrooper</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->

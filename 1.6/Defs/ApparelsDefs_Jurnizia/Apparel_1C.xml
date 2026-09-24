@@ -26,8 +26,8 @@
 			<tags>				
 				<li>Anneli_Jurnizia_Civilian_Female</li>
 				<li>Anneli_Jurnizia_Militia_Female</li>
-				<li>Anneli_Jurnizia_Officer</li>
 				<li>Anneli_Jurnizia_InternalTroop_Female</li>
+				<li>Anneli_Jurnizia_Agent</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -63,8 +63,8 @@
 			<tags>				
 				<li>Anneli_Jurnizia_Civilian_Female</li>
 				<li>Anneli_Jurnizia_Militia_Female</li>
-				<li>Anneli_Jurnizia_Officer</li>
 				<li>Anneli_Jurnizia_InternalTroop_Female</li>
+				<li>Anneli_Jurnizia_Agent</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -101,6 +101,7 @@
 				<li>Anneli_Jurnizia_Civilian_Streamer</li>
 				<li>Anneli_Jurnizia_Officer</li>
 				<li>Anneli_Jurnizia_InternalTroop_Female</li>
+				<li>Anneli_Jurnizia_Agent</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -137,6 +138,7 @@
 				<li>Anneli_Jurnizia_Civilian_Streamer</li>
 				<li>Anneli_Jurnizia_Officer</li>
 				<li>Anneli_Jurnizia_InternalTroop_Female</li>
+				<li>Anneli_Jurnizia_Agent</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -170,11 +172,8 @@
 		<apparel>
 			<wornGraphicPath>1C/Anneli_Jurnizia_Footwraps</wornGraphicPath>
 			<tags>				
-				<li>Anneli_Jurnizia_Draftee</li>
 				<li>Anneli_Jurnizia_Driver</li>
 				<li>Anneli_Jurnizia_InternalTroop_Male</li>
-				<li>Anneli_Jurnizia_Spetsnaz</li>
-				<li>Anneli_Jurnizia_Sniper</li>
 				<li>Anneli_Jurnizia_HeavyTrooper</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
@@ -237,10 +236,10 @@
 		</graphicData>
 		<apparel>
 			<wornGraphicPath>1C/Anneli_Jurnizia_CamoSocks</wornGraphicPath>
-			<tags>				
+			<tags>
+				<li>Anneli_Jurnizia_Draftee</li>				
 				<li>Anneli_Jurnizia_Spetsnaz</li>
 				<li>Anneli_Jurnizia_Sniper</li>
-				<li>Anneli_Jurnizia_HeavyTrooper</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>

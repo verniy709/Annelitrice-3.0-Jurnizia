@@ -24,9 +24,9 @@
 		<apparel>
 			<wornGraphicPath>5A/Anneli_Jurnizia_Lifchik</wornGraphicPath>
 			<tags>
+				<li>Anneli_Jurnizia_Spetsnaz</li>
 				<li>Anneli_Jurnizia_InternalTroop_Male</li>
 				<li>Anneli_Jurnizia_InternalTroop_Female</li>
-				<li>Anneli_Jurnizia_Spetsnaz</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -34,7 +34,7 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(145,140,115,255)</only>
 				</li>
 			</options>
 		</colorGenerator>

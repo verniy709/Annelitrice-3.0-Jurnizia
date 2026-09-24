@@ -24,8 +24,8 @@
 		<apparel>
 			<wornGraphicPath>1AB/Anneli_Jurnizia_Lingerie</wornGraphicPath>
 			<tags>				
-				<li>Anneli_Jurnizia_Officer</li>
 				<li>Anneli_Jurnizia_InternalTroop_Female</li>
+				<li>Anneli_Jurnizia_Agent</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -33,15 +33,7 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(240,205,195,255)</only>
-				</li>
-				<li>
-					<weight>10</weight>
 					<only>(255,245,245,255)</only>
-				</li>
-				<li>
-					<weight>10</weight>
-					<only>(50,45,50,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
@@ -60,20 +52,11 @@
 			<wornGraphicPath>1AB/Anneli_Jurnizia_LaceLingerie</wornGraphicPath>
 			<tags>				
 				<li>Anneli_Jurnizia_Officer</li>
-				<li>Anneli_Jurnizia_InternalTroop_Female</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
-				<li>
-					<weight>10</weight>
-					<only>(240,205,195,255)</only>
-				</li>
-				<li>
-					<weight>10</weight>
-					<only>(255,245,245,255)</only>
-				</li>
 				<li>
 					<weight>10</weight>
 					<only>(50,45,50,255)</only>

@@ -37,9 +37,7 @@
 			<tags>
 				<li>Anneli_Jurnizia_Militia_Male</li>
 				<li>Anneli_Jurnizia_Militia_Female</li>
-				<li>Anneli_Jurnizia_Driver</li>
 				<li>Anneli_Jurnizia_Draftee</li>
-				<li>Anneli_Jurnizia_HeavyTrooper</li>
 				<li>Anneli_Jurnizia_Spetsnaz</li>
 				<li>Anneli_Jurnizia_Sniper</li>
 			</tags>
@@ -53,6 +51,7 @@
 				</li>
 			</options>
 		</colorGenerator>
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_Sunglasses-->
@@ -70,9 +69,8 @@
 				<li>Anneli_Jurnizia_Thug</li>
 				<li>Anneli_Jurnizia_Officer</li>
 				<li>Anneli_Jurnizia_Driver</li>
-				<li>Anneli_Jurnizia_Draftee</li>
-				<li>Anneli_Jurnizia_InternalTroop_Male</li>
 				<li>Anneli_Jurnizia_InternalTroop_Female</li>
+				<li>Anneli_Jurnizia_Agent</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -96,7 +94,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_EyePatchA-->
@@ -138,6 +136,7 @@
 			<tags>
 				<li>Anneli_Jurnizia_Militia_Male</li>
 				<li>Anneli_Jurnizia_Officer</li>
+				<li>Anneli_Jurnizia_Agent</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
