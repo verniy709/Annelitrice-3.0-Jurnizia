@@ -23,10 +23,8 @@
 		</graphicData>
 		<apparel>
 			<wornGraphicPath>1C/Anneli_Jurnizia_StockingsA</wornGraphicPath>
-			<tags>
-				<li>Anneli_Underwear</li>
+			<tags>				
 				<li>Anneli_Jurnizia_Civilian_Female</li>
-				<li>Anneli_Jurnizia_Civilian_Streamer</li>
 				<li>Anneli_Jurnizia_Militia_Female</li>
 				<li>Anneli_Jurnizia_Officer</li>
 				<li>Anneli_Jurnizia_InternalTroop_Female</li>
@@ -62,10 +60,8 @@
 		</graphicData>
 		<apparel>
 			<wornGraphicPath>1C/Anneli_Jurnizia_StockingsB</wornGraphicPath>
-			<tags>
-				<li>Anneli_Underwear</li>
+			<tags>				
 				<li>Anneli_Jurnizia_Civilian_Female</li>
-				<li>Anneli_Jurnizia_Civilian_Streamer</li>
 				<li>Anneli_Jurnizia_Militia_Female</li>
 				<li>Anneli_Jurnizia_Officer</li>
 				<li>Anneli_Jurnizia_InternalTroop_Female</li>
@@ -101,11 +97,8 @@
 		</graphicData>
 		<apparel>
 			<wornGraphicPath>1C/Anneli_Jurnizia_GarterStockingsA</wornGraphicPath>
-			<tags>
-				<li>Anneli_Underwear</li>
-				<li>Anneli_Jurnizia_Civilian_Female</li>
+			<tags>				
 				<li>Anneli_Jurnizia_Civilian_Streamer</li>
-				<li>Anneli_Jurnizia_Militia_Female</li>
 				<li>Anneli_Jurnizia_Officer</li>
 				<li>Anneli_Jurnizia_InternalTroop_Female</li>
 			</tags>
@@ -140,11 +133,8 @@
 		</graphicData>
 		<apparel>
 			<wornGraphicPath>1C/Anneli_Jurnizia_GarterStockingsB</wornGraphicPath>
-			<tags>
-				<li>Anneli_Underwear</li>
-				<li>Anneli_Jurnizia_Civilian_Female</li>
+			<tags>				
 				<li>Anneli_Jurnizia_Civilian_Streamer</li>
-				<li>Anneli_Jurnizia_Militia_Female</li>
 				<li>Anneli_Jurnizia_Officer</li>
 				<li>Anneli_Jurnizia_InternalTroop_Female</li>
 			</tags>
@@ -179,8 +169,7 @@
 		</graphicData>
 		<apparel>
 			<wornGraphicPath>1C/Anneli_Jurnizia_Footwraps</wornGraphicPath>
-			<tags>
-				<li>Anneli_Underwear</li>
+			<tags>				
 				<li>Anneli_Jurnizia_Draftee</li>
 				<li>Anneli_Jurnizia_Driver</li>
 				<li>Anneli_Jurnizia_InternalTroop_Male</li>
@@ -211,13 +200,11 @@
 		</graphicData>
 		<apparel>
 			<wornGraphicPath>1C/Anneli_Jurnizia_Socks</wornGraphicPath>
-			<tags>
-				<li>Anneli_Underwear</li>
+			<tags>				
 				<li>Anneli_Jurnizia_Civilian_Male</li>
+				<li>Anneli_Jurnizia_Thug</li>
+				<li>Anneli_Jurnizia_Civilian_Jogger</li>
 				<li>Anneli_Jurnizia_Militia_Male</li>
-				<li>Anneli_Jurnizia_Draftee</li>
-				<li>Anneli_Jurnizia_Driver</li>
-				<li>Anneli_Jurnizia_InternalTroop_Male</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -250,8 +237,7 @@
 		</graphicData>
 		<apparel>
 			<wornGraphicPath>1C/Anneli_Jurnizia_CamoSocks</wornGraphicPath>
-			<tags>
-				<li>Anneli_Underwear</li>
+			<tags>				
 				<li>Anneli_Jurnizia_Spetsnaz</li>
 				<li>Anneli_Jurnizia_Sniper</li>
 				<li>Anneli_Jurnizia_HeavyTrooper</li>
@@ -267,6 +253,5 @@
 			</options>
 		</colorGenerator>
 	</ThingDef>
-
 		
 </Defs>

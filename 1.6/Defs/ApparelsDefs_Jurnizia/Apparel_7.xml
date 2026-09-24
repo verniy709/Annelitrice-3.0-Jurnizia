@@ -39,7 +39,6 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_CamoATAKA-->
@@ -67,7 +66,6 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_Backpack-->
@@ -84,7 +82,6 @@
 			<tags>
 				<li>Anneli_Jurnizia_Civilian_Male</li>
 				<li>Anneli_Jurnizia_Civilian_Female</li>
-				<li>Anneli_Jurnizia_Civilian_Streamer</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -104,7 +101,6 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_Sack-->
@@ -120,7 +116,6 @@
 			<wornGraphicPath>7/Anneli_Jurnizia_Sack</wornGraphicPath>
 			<tags>
 				<li>Anneli_Jurnizia_Militia_Male</li>
-				<li>Anneli_Jurnizia_Militia_Female</li>
 				<li>Anneli_Jurnizia_Draftee</li>
 				<li>Anneli_Jurnizia_Driver</li>
 			</tags>
@@ -130,16 +125,10 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(110,90,75,255)</only>
-				</li>
-				<li>
-					<weight>10</weight>
-					<only>(130,120,100,255)</only>
+					<only>(145,140,115,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
-
-			
+		
 </Defs>

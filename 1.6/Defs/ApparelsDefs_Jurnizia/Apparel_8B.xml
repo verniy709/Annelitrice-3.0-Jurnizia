@@ -76,7 +76,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.05</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.1</generateAllowChance><!--Less Spawn-->
 		<costList>
 			<Steel>800</Steel>
 			<ComponentIndustrial>10</ComponentIndustrial>

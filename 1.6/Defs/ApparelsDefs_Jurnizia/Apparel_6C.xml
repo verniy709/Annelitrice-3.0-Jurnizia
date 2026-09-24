@@ -24,7 +24,6 @@
 		<apparel>
 			<wornGraphicPath>6C/Anneli_Jurnizia_Balaclava</wornGraphicPath>
 			<tags>
-				<li>Anneli_Jurnizia_Militia_Male</li>
 				<li>Anneli_Jurnizia_Driver</li>
 				<li>Anneli_Jurnizia_Draftee</li>
 				<li>Anneli_Jurnizia_HeavyTrooper</li>
@@ -49,7 +48,6 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_CamoMask-->
@@ -64,7 +62,6 @@
 		<apparel>
 			<wornGraphicPath>6C/Anneli_Jurnizia_CamoMask</wornGraphicPath>
 			<tags>
-				<li>Anneli_Jurnizia_Militia_Male</li>
 				<li>Anneli_Jurnizia_Militia_Female</li>
 				<li>Anneli_Jurnizia_Driver</li>
 				<li>Anneli_Jurnizia_Draftee</li>
@@ -82,7 +79,6 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_Cigar-->
@@ -97,10 +93,9 @@
 		<apparel>
 			<wornGraphicPath>6C/Anneli_Jurnizia_Cigar</wornGraphicPath>
 			<tags>
+				<li>Anneli_Jurnizia_Thug</li>
 				<li>Anneli_Jurnizia_Militia_Male</li>
-				<li>Anneli_Jurnizia_Militia_Female</li>
 				<li>Anneli_Jurnizia_Driver</li>
-				<li>Anneli_Jurnizia_Draftee</li>
 				<li>Anneli_Jurnizia_Officer</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
@@ -113,9 +108,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.35</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
-
-
 
 </Defs>

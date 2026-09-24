@@ -42,7 +42,6 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_Camo6B2BodyArmor-->
@@ -73,7 +72,6 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_6B3BodyArmor-->
@@ -88,10 +86,7 @@
 		<apparel>
 			<wornGraphicPath>4/Anneli_Jurnizia_6B3BodyArmor</wornGraphicPath>
 			<tags>
-				<li>Anneli_Jurnizia_InternalTroop_Male</li>
-				<li>Anneli_Jurnizia_InternalTroop_Female</li>
-				<li>Anneli_Jurnizia_Spetsnaz</li>
-				<li>Anneli_Jurnizia_Sniper</li>
+				<li>Anneli_Jurnizia_Militia_Male</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
@@ -106,7 +101,6 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_Camo6B3BodyArmor-->
@@ -121,8 +115,7 @@
 		<apparel>
 			<wornGraphicPath>4/Anneli_Jurnizia_Camo6B3BodyArmor</wornGraphicPath>
 			<tags>
-				<li>Anneli_Jurnizia_Draftee</li>
-				<li>Anneli_Jurnizia_HeavyTrooper</li>
+				<li>Anneli_Jurnizia_Militia_Female</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
@@ -137,7 +130,6 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_6B13BodyArmor-->
@@ -170,7 +162,6 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_Camo6B13BodyArmor-->
@@ -201,7 +192,6 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 </Defs>

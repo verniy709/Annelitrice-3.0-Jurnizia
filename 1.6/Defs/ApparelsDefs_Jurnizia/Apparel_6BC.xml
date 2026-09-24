@@ -59,7 +59,6 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_GP5GasMaskB-->
@@ -74,10 +73,7 @@
 		<apparel>
 			<wornGraphicPath>6BC/Anneli_Jurnizia_GP5GasMaskB</wornGraphicPath>
 			<tags>
-				<li>Anneli_Jurnizia_Draftee</li>
-				<li>Anneli_Jurnizia_HeavyTrooper</li>
-				<li>Anneli_Jurnizia_Spetsnaz</li>
-				<li>Anneli_Jurnizia_Sniper</li>
+				<li>Anneli_Jurnizia_Militia_Male</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -89,7 +85,6 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_PMK1GasMaskA-->
@@ -117,7 +112,6 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_PMK1GasMaskB-->
@@ -132,8 +126,7 @@
 		<apparel>
 			<wornGraphicPath>6BC/Anneli_Jurnizia_PMK1GasMaskB</wornGraphicPath>
 			<tags>
-				<li>Anneli_Jurnizia_InternalTroop_Male</li>
-				<li>Anneli_Jurnizia_InternalTroop_Female</li>
+				<li>Anneli_Jurnizia_Militia_Female</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -145,7 +138,6 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 </Defs>

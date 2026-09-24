@@ -24,14 +24,7 @@
 		<apparel>
 			<wornGraphicPath>3/Anneli_Jurnizia_Hoodie</wornGraphicPath>
 			<tags>
-				<li>Anneli_Jurnizia_Civilian_Male</li>
-				<li>Anneli_Jurnizia_Militia_Male</li>
-				<li>Anneli_Jurnizia_Driver</li>
-				<li>Anneli_Jurnizia_InternalTroop_Male</li>
-				<li>Anneli_Jurnizia_Civilian_Female</li>
-				<li>Anneli_Jurnizia_Civilian_Streamer</li>
-				<li>Anneli_Jurnizia_Militia_Female</li>
-				<li>Anneli_Jurnizia_InternalTroop_Female</li>
+				<li>Anneli_Jurnizia_Civilian_Jogger</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
@@ -39,8 +32,7 @@
 				<li>Anneli_Sleeve2_Right</li>
 				<li>Anneli_Sleeve3_Left</li>
 				<li>Anneli_Sleeve3_Right</li>
-				<li>Anneli_Middle</li>
-				<li>Anneli_Underwear</li>
+				<li>Anneli_Middle</li>				
 			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
@@ -63,7 +55,6 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_TrenchCoat-->
@@ -97,7 +88,6 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_AdidasJacket-->
@@ -112,22 +102,14 @@
 		<apparel>
 			<wornGraphicPath>3/Anneli_Jurnizia_AdidasJacket</wornGraphicPath>
 			<tags>
-				<li>Anneli_Jurnizia_Civilian_Male</li>
-				<li>Anneli_Jurnizia_Militia_Male</li>
-				<li>Anneli_Jurnizia_Driver</li>
-				<li>Anneli_Jurnizia_InternalTroop_Male</li>
-				<li>Anneli_Jurnizia_Civilian_Female</li>
-				<li>Anneli_Jurnizia_Civilian_Streamer</li>
-				<li>Anneli_Jurnizia_Militia_Female</li>
-				<li>Anneli_Jurnizia_InternalTroop_Female</li>
+				<li>Anneli_Jurnizia_Thug</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
 				<li>Anneli_Sleeve2_Left</li>
 				<li>Anneli_Sleeve2_Right</li>
 				<li>Anneli_Sleeve3_Left</li>
-				<li>Anneli_Sleeve3_Right</li>
-				<li>Anneli_Underwear</li>
+				<li>Anneli_Sleeve3_Right</li>				
 			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
@@ -138,7 +120,6 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_Parka-->
@@ -153,7 +134,6 @@
 		<apparel>
 			<wornGraphicPath>3/Anneli_Jurnizia_Parka</wornGraphicPath>
 			<tags>
-				<li>Anneli_Jurnizia_Civilian_Male</li>
 				<li>Anneli_Jurnizia_Militia_Male</li>
 				<li>Anneli_Jurnizia_Driver</li>
 				<li>Anneli_Jurnizia_InternalTroop_Male</li>
@@ -164,15 +144,14 @@
 				<li>Anneli_Sleeve2_Right</li>
 				<li>Anneli_Sleeve3_Left</li>
 				<li>Anneli_Sleeve3_Right</li>
-				<li>Anneli_Middle</li>
-				<li>Anneli_Underwear</li>
+				<li>Anneli_Middle</li>				
 			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(145,140,115,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
@@ -199,8 +178,7 @@
 				<li>Anneli_Sleeve2_Right</li>
 				<li>Anneli_Sleeve3_Left</li>
 				<li>Anneli_Sleeve3_Right</li>
-				<li>Anneli_Middle</li>
-				<li>Anneli_Underwear</li>
+				<li>Anneli_Middle</li>				
 			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
@@ -211,7 +189,6 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_CamoParka-->
@@ -226,6 +203,7 @@
 		<apparel>
 			<wornGraphicPath>3/Anneli_Jurnizia_CamoParka</wornGraphicPath>
 			<tags>
+				<li>Anneli_Jurnizia_Militia_Female</li>
 				<li>Anneli_Jurnizia_Draftee</li>
 				<li>Anneli_Jurnizia_HeavyTrooper</li>
 			</tags>
@@ -235,8 +213,7 @@
 				<li>Anneli_Sleeve2_Right</li>
 				<li>Anneli_Sleeve3_Left</li>
 				<li>Anneli_Sleeve3_Right</li>
-				<li>Anneli_Middle</li>
-				<li>Anneli_Underwear</li>
+				<li>Anneli_Middle</li>				
 			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
@@ -247,7 +224,6 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_Jurnizia_PufferVest-->
@@ -263,7 +239,6 @@
 			<wornGraphicPath>3/Anneli_Jurnizia_PufferVest</wornGraphicPath>
 			<tags>
 				<li>Anneli_Jurnizia_Civilian_Male</li>
-				<li>Anneli_Jurnizia_Militia_Male</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -283,7 +258,6 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 	
 	<!--Anneli_Jurnizia_FurCoat-->
@@ -299,7 +273,6 @@
 			<wornGraphicPath>3/Anneli_Jurnizia_FurCoat</wornGraphicPath>
 			<tags>
 				<li>Anneli_Jurnizia_Civilian_Female</li>
-				<li>Anneli_Jurnizia_Militia_Female</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
@@ -330,8 +303,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
-	
 
 </Defs>

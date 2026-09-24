@@ -67,21 +67,7 @@
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<factionLeader>true</factionLeader>
-		<apparelRequired>
-			<li>Anneli_Jurnizia_CamoPants</li>
-			<li>Anneli_Jurnizia_CamoParka</li>
-		</apparelRequired>
-		<apparelTags>
-			<li>Anneli_Jurnizia_Common</li>
-			<li>Anneli_Jurnizia_HeavyTrooper</li>
-			<li>Anneli_Jurnizia_CamoBZT75Shield</li>
-			<li>Anneli_Jurnizia_CamoVantVMShield</li>
-		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
-		<weaponTags>
-			<li>IndustrialGunAdvanced</li>
-			<li>GunHeavy</li>
-		</weaponTags>
+
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_Jurnizia_KindBase">
@@ -93,8 +79,19 @@
 			<li>Anneli_Jurnizia_PlaidSleevelessShirt</li>
 			<li>Anneli_Jurnizia_Jeans</li> 
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_Jurnizia_Civilian_Male</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_Jurnizia_Civilian_Male</requiredTag>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
-			<li>Anneli_Jurnizia_Common</li>
 			<li>Anneli_Jurnizia_Civilian_Male</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -120,20 +117,18 @@
 		</apparelRequired>
 		<specificApparelRequirements>
 			<li>
-				<apparelDef>Anneli_Jurnizia_WinterGloves</apparelDef>
-				<colorGenerator Class="ColorGenerator_Options">
-					<options>
-						<li>
-							<weight>10</weight>
-							<only>(50,45,50,255)</only>
-						</li>
-					</options>
-				</colorGenerator>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_Jurnizia_Thug</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_Jurnizia_Thug</requiredTag>
 			</li>
 		</specificApparelRequirements>
 		<apparelTags>
-			<li>Anneli_Jurnizia_Common</li>
-			<li>Anneli_Jurnizia_Civilian_Male</li>
+			<li>Anneli_Jurnizia_Thug</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
@@ -158,23 +153,17 @@
 		</apparelRequired>
 		<specificApparelRequirements>
 			<li>
-				<apparelDef>Anneli_Jurnizia_WinterGloves</apparelDef>
-				<colorGenerator Class="ColorGenerator_Options">
-					<options>
-						<li>
-							<weight>10</weight>
-							<only>(220,210,200,255)</only>
-						</li>
-						<li>
-							<weight>10</weight>
-							<only>(240,205,195,255)</only>
-						</li>
-					</options>
-				</colorGenerator>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_Jurnizia_Civilian_Female</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_Jurnizia_Civilian_Female</requiredTag>
 			</li>
 		</specificApparelRequirements>
 		<apparelTags>
-			<li>Anneli_Jurnizia_Common</li>
 			<li>Anneli_Jurnizia_Civilian_Female</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -195,29 +184,47 @@
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
+			<li>Anneli_Jurnizia_HalterTop</li>
 			<li>Anneli_Jurnizia_Leggings</li>
 			<li>Anneli_Jurnizia_Hoodie</li>
+			<li>Anneli_Jurnizia_Hood</li>
 		</apparelRequired>
 		<specificApparelRequirements>
 			<li>
-				<apparelDef>Anneli_Jurnizia_WinterGloves</apparelDef>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_Jurnizia_Civilian_Jogger</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_Jurnizia_Civilian_Jogger</requiredTag>
+			</li>
+			<li>
+				<apparelDef>Anneli_Jurnizia_Hoodie</apparelDef>
 				<colorGenerator Class="ColorGenerator_Options">
 					<options>
 						<li>
 							<weight>10</weight>
-							<only>(220,210,200,255)</only>
+							<only>(205,200,205,255)</only>
 						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelDef>Anneli_Jurnizia_Hood</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
 						<li>
 							<weight>10</weight>
-							<only>(240,205,195,255)</only>
+							<only>(205,200,205,255)</only>
 						</li>
 					</options>
 				</colorGenerator>
 			</li>
 		</specificApparelRequirements>
 		<apparelTags>
-			<li>Anneli_Jurnizia_Common</li>
-			<li>Anneli_Jurnizia_Civilian_Female</li>
+			<li>Anneli_Jurnizia_Civilian_Jogger</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
@@ -240,8 +247,19 @@
 			<li>Anneli_Jurnizia_OpenChestShirt</li>
 			<li>Anneli_Jurnizia_LeatherSkirt</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_Jurnizia_Civilian_Streamer</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_Jurnizia_Civilian_Streamer</requiredTag>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
-			<li>Anneli_Jurnizia_Common</li>
 			<li>Anneli_Jurnizia_Civilian_Streamer</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -264,22 +282,35 @@
 		<apparelRequired>
 			<li>Anneli_Jurnizia_TShirt</li>
 			<li>Anneli_Jurnizia_Jeans</li>
+			<li>Anneli_Jurnizia_Parka</li>
+			<li>Anneli_Jurnizia_6B3BodyArmor</li>
+			<li>Anneli_Jurnizia_TacticalBelt</li>
+			<li>Anneli_Jurnizia_SSH68Helmet</li>
 		</apparelRequired>
 		<specificApparelRequirements>
 			<li>
-				<apparelLayer>Anneli_Tactical</apparelLayer>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_Jurnizia_Militia_Male</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_Jurnizia_Militia_Male</requiredTag>
+			</li>
+			<li>
+				<apparelDef>Anneli_Jurnizia_6B3BodyArmor</apparelDef>
 				<colorGenerator Class="ColorGenerator_Options">
 					<options>
 						<li>
 							<weight>10</weight>
-							<only>(130,120,100,255)</only>
+							<only>(145,140,115,255)</only>
 						</li>
 					</options>
 				</colorGenerator>
 			</li>
 		</specificApparelRequirements>
 		<apparelTags>
-			<li>Anneli_Jurnizia_Common</li>
 			<li>Anneli_Jurnizia_Militia_Male</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -298,22 +329,24 @@
 		<trader>true</trader>
 		<apparelRequired>
 			<li>Anneli_Jurnizia_Dress</li>
+			<li>Anneli_Jurnizia_CamoParka</li>
+			<li>Anneli_Jurnizia_Camo6B3BodyArmor</li>
+			<li>Anneli_Jurnizia_CamoTacticalBelt</li>
+			<li>Anneli_Jurnizia_CamoSSH68Helmet</li>
 		</apparelRequired>
 		<specificApparelRequirements>
 			<li>
-				<apparelLayer>Anneli_Tactical</apparelLayer>
-				<colorGenerator Class="ColorGenerator_Options">
-					<options>
-						<li>
-							<weight>10</weight>
-							<only>(130,120,100,255)</only>
-						</li>
-					</options>
-				</colorGenerator>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_Jurnizia_Militia_Female</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_Jurnizia_Militia_Female</requiredTag>
 			</li>
 		</specificApparelRequirements>
 		<apparelTags>
-			<li>Anneli_Jurnizia_Common</li>
 			<li>Anneli_Jurnizia_Militia_Female</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -335,7 +368,6 @@
 			<li>Anneli_Jurnizia_CamoPants</li>
 		</apparelRequired>
 		<apparelTags>
-			<li>Anneli_Jurnizia_Common</li>
 			<li>Anneli_Jurnizia_Draftee</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -358,7 +390,6 @@
 		</apparelRequired>
 		<apparelTags>
 			<li>BeltDefensePop</li>
-			<li>Anneli_Jurnizia_Common</li>
 			<li>Anneli_Jurnizia_Officer</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -392,7 +423,6 @@
 			</li>
 		</specificApparelRequirements>
 		<apparelTags>
-			<li>Anneli_Jurnizia_Common</li>
 			<li>Anneli_Jurnizia_Driver</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -449,7 +479,6 @@
 		</specificApparelRequirements>
 		<apparelTags>
 			<li>BeltDefensePop</li>
-			<li>Anneli_Jurnizia_Common</li>
 			<li>Anneli_Jurnizia_Spetsnaz</li>
 			<li>Anneli_Jurnizia_CamoBZT75Shield</li>
 			<li>Anneli_Jurnizia_CamoVantVMShield</li>
@@ -500,7 +529,6 @@
 		</specificApparelRequirements>
 		<apparelTags>
 			<li>BeltDefensePop</li>
-			<li>Anneli_Jurnizia_Common</li>
 			<li>Anneli_Jurnizia_Sniper</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -533,7 +561,6 @@
 			</li>
 		</specificApparelRequirements>
 		<apparelTags>
-			<li>Anneli_Jurnizia_Common</li>
 			<li>Anneli_Jurnizia_InternalTroop_Male</li>
 			<li>Anneli_Jurnizia_BZT75Shield</li>
 			<li>Anneli_Jurnizia_VantVMShield</li>
@@ -569,7 +596,6 @@
 			</li>
 		</specificApparelRequirements>
 		<apparelTags>
-			<li>Anneli_Jurnizia_Common</li>
 			<li>Anneli_Jurnizia_InternalTroop_Female</li>
 			<li>Anneli_Jurnizia_BZT75Shield</li>
 			<li>Anneli_Jurnizia_VantVMShield</li>
@@ -592,7 +618,6 @@
 			<li>Anneli_Jurnizia_SheathDress</li>
 		</apparelRequired>
 		<apparelTags>
-			<li>Anneli_Jurnizia_Common</li>
 			<li>Anneli_Jurnizia_Civilian_Female</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -614,7 +639,6 @@
 			<li>Anneli_Jurnizia_CamoParka</li>
 		</apparelRequired>
 		<apparelTags>
-			<li>Anneli_Jurnizia_Common</li>
 			<li>Anneli_Jurnizia_HeavyTrooper</li>
 			<li>Anneli_Jurnizia_CamoBZT75Shield</li>
 			<li>Anneli_Jurnizia_CamoVantVMShield</li>

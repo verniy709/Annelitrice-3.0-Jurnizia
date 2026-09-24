@@ -23,10 +23,7 @@
 		</graphicData>
 		<apparel>
 			<wornGraphicPath>1AB/Anneli_Jurnizia_Lingerie</wornGraphicPath>
-			<tags>
-				<li>Anneli_Underwear</li>
-				<li>Anneli_Jurnizia_Civilian_Female</li>
-				<li>Anneli_Jurnizia_Militia_Female</li>
+			<tags>				
 				<li>Anneli_Jurnizia_Officer</li>
 				<li>Anneli_Jurnizia_InternalTroop_Female</li>
 			</tags>
@@ -61,10 +58,7 @@
 		</graphicData>
 		<apparel>
 			<wornGraphicPath>1AB/Anneli_Jurnizia_LaceLingerie</wornGraphicPath>
-			<tags>
-				<li>Anneli_Underwear</li>
-				<li>Anneli_Jurnizia_Civilian_Female</li>
-				<li>Anneli_Jurnizia_Militia_Female</li>
+			<tags>				
 				<li>Anneli_Jurnizia_Officer</li>
 				<li>Anneli_Jurnizia_InternalTroop_Female</li>
 			</tags>
