@@ -21,6 +21,21 @@
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
 			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Upper_Jurnizia_Lifchik</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel5A_Upper</textureLevelsName>
+				<drawOffsetSouth>(0, 1.827, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.827, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.827, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.827, 0)</drawOffsetWest>
+				<renderSwitch>(1, 0, 0)</renderSwitch>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
 		</levels>
 	</NareisLib.MultiTexDef>
 
@@ -45,6 +60,21 @@
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
 			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Upper_Jurnizia_CamoLifchik</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel5A_Upper</textureLevelsName>
+				<drawOffsetSouth>(0, 1.827, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.827, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.827, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.827, 0)</drawOffsetWest>
+				<renderSwitch>(1, 0, 0)</renderSwitch>
+				<meshType>Body</meshType>
+				<useStaticYOffset>true</useStaticYOffset>
+				<useBodyType>true</useBodyType>
+			</li>
 		</levels>
 	</NareisLib.MultiTexDef>
 
@@ -61,7 +91,7 @@
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel5A</textureLevelsName>
-				<drawOffsetSouth>(0, 1.558, 0)</drawOffsetSouth>
+				<drawOffsetSouth>(0, 1.827, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 1.558, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 1.558, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 1.558, 0)</drawOffsetWest>
@@ -85,7 +115,7 @@
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel5A</textureLevelsName>
-				<drawOffsetSouth>(0, 1.558, 0)</drawOffsetSouth>
+				<drawOffsetSouth>(0, 1.827, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 1.558, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 1.558, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 1.558, 0)</drawOffsetWest>
