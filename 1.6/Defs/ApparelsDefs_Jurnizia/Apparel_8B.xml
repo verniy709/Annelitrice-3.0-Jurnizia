@@ -92,6 +92,7 @@
 		<verbs>
 			<li>
 				<verbClass>Verb_Bombardment</verbClass>
+				<label>Bomb an area</label>
 				<hasStandardCommand>true</hasStandardCommand>
 				<warmupTime>9.5</warmupTime>
 				<ai_AvoidFriendlyFireRadius>23</ai_AvoidFriendlyFireRadius>
