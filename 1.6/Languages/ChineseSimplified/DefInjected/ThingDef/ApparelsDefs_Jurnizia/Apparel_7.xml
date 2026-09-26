@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Dyeable. -->
+  <Anneli_Jurnizia_ATAKA.description>可染色.</Anneli_Jurnizia_ATAKA.description>
+  <!-- EN: (Jurnizia)7_ATAKA -->
+  <Anneli_Jurnizia_ATAKA.label>(切尼亚)7_ATAKA背包</Anneli_Jurnizia_ATAKA.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Jurnizia_Backpack.description>可染色.</Anneli_Jurnizia_Backpack.description>
+  <!-- EN: (Jurnizia)7_Backpack -->
+  <Anneli_Jurnizia_Backpack.label>(切尼亚)7_书包</Anneli_Jurnizia_Backpack.label>
+  <!-- EN: NOT dyeable. -->
+  <Anneli_Jurnizia_CamoATAKA.description>不可染色.</Anneli_Jurnizia_CamoATAKA.description>
+  <!-- EN: (Jurnizia)7_CamoATAKA -->
+  <Anneli_Jurnizia_CamoATAKA.label>(切尼亚)7_迷彩ATAKA背包</Anneli_Jurnizia_CamoATAKA.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Jurnizia_Sack.description>可染色.</Anneli_Jurnizia_Sack.description>
+  <!-- EN: (Jurnizia)7_Sack -->
+  <Anneli_Jurnizia_Sack.label>(切尼亚)7_帆布袋</Anneli_Jurnizia_Sack.label>
+</LanguageData>

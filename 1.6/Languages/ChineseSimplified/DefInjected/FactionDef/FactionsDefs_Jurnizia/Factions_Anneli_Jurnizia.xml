@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: In the distant past, a powerful annelitrice faction attempted to impose order on a chaotic planet under the banner of the Confederacy. Dissidents soon rose against them as the Rebels, and war followed. The Confederates were stronger, better organized, and almost always victorious, routinely crushing the Rebels and wiping out their forces. Yet somehow, the war never truly ended. New Rebels would appear, another campaign would begin, and the same conflict would play out again.\n\nWhat outsiders did not know was that both sides were made up of the same annelitrice. The endless war was an elaborate attempt to produce the perfect war movie. After thousands of repetitions, however, something finally went wrong. Against all expectations, the weaker Rebels won. Rather than stopping the movie production, they absorbed the surviving Confederates and rebranded the entire project as Jurnizia.\n\nAnnelitrice from Jurnizia are not particularly interested in conquest, but their pursuit of spectacular battles has left ruined settlements and countless casualties in its wake. Feared for their brutality, reckless audacity, and peculiar accent, the Jurnizia's army roam the planet in search of ever larger conflicts and ever better footage. -->
+  <Anneli_Faction_Jurnizia.description>在遥远的过去,一支强大的安妮莉特丝势力,打着"联盟"的旗号,妄图在一颗混乱不堪的星球上强行建立秩序。反抗者很快揭竿而起,自称"叛军",战火自此燃起。联盟军力更强、组织更严,几乎每战必胜,而叛军被一次又一次被碾碎。可这场战争,却怎么也打不完。旧的叛军倒下了,新的叛军又会从废墟中站起来,使得同样的冲突总是一遍又一遍地重演。\n\n外人不知道的是,交战双方其实是同一群安妮莉特丝。这场永无休止的战争,不过是一场精心策划的、旷日持久的战争片拍摄工程。经过数千次的重拍之后,终于出了岔子。出乎所有人的意料,那支注定失败的叛军竟然赢了,但她们没有就此收工杀青,而是将幸存的联盟军尽数收编,把整个项目改了个名字——"切尼亚"。\n\n来自切尼亚的安妮莉特丝,对征服本身毫无兴致,可她们对惊天动地的战斗场面的执念,却在这颗星球上留下了一座座化为焦土的城镇,和数不清的亡魂。带着她们的残暴、不要命的疯劲儿、还有古怪的口音,切尼亚的军队游荡在这片大地上,只为寻找更大的战场,拍出更好的镜头。</Anneli_Faction_Jurnizia.description>
+  <!-- EN: Forged Republic -->
+  <Anneli_Faction_Jurnizia.fixedName>伪造的共和国</Anneli_Faction_Jurnizia.fixedName>
+  <!-- EN: Anneli Faction Republic of Jurnizia -->
+  <Anneli_Faction_Jurnizia.label>安妮莉特丝切尼亚共和国</Anneli_Faction_Jurnizia.label>
+  <!-- EN: Chief -->
+  <Anneli_Faction_Jurnizia.leaderTitle>头领</Anneli_Faction_Jurnizia.leaderTitle>
+  <!-- EN: Annelitrice -->
+  <Anneli_Faction_Jurnizia.pawnsPlural>安妮莉特丝</Anneli_Faction_Jurnizia.pawnsPlural>
+</LanguageData>

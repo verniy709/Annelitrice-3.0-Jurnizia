@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Not dyeable. -->
+  <Anneli_Jurnizia_Bandolier.description>不可染色.</Anneli_Jurnizia_Bandolier.description>
+  <!-- EN: (Jurnizia)5A_Bandolier -->
+  <Anneli_Jurnizia_Bandolier.label>(切尼亚)5A_弹药带</Anneli_Jurnizia_Bandolier.label>
+  <!-- EN: Not dyeable. -->
+  <Anneli_Jurnizia_CamoLifchik.description>不可染色.</Anneli_Jurnizia_CamoLifchik.description>
+  <!-- EN: (Jurnizia)5A_CamoLifchik -->
+  <Anneli_Jurnizia_CamoLifchik.label>(切尼亚)5A_迷彩弹挂</Anneli_Jurnizia_CamoLifchik.label>
+  <!-- EN: Not dyeable. -->
+  <Anneli_Jurnizia_CamoTacticalBelt.description>不可染色.</Anneli_Jurnizia_CamoTacticalBelt.description>
+  <!-- EN: (Jurnizia)5A_CamoTacticalBelt -->
+  <Anneli_Jurnizia_CamoTacticalBelt.label>(切尼亚)5A_迷彩战术腰带</Anneli_Jurnizia_CamoTacticalBelt.label>
+  <!-- EN: Not dyeable. -->
+  <Anneli_Jurnizia_GhillieSuit.description>不可染色.</Anneli_Jurnizia_GhillieSuit.description>
+  <!-- EN: (Jurnizia)5A_GhillieSuit -->
+  <Anneli_Jurnizia_GhillieSuit.label>(切尼亚)5A_吉利服</Anneli_Jurnizia_GhillieSuit.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Jurnizia_Lifchik.description>可染色.</Anneli_Jurnizia_Lifchik.description>
+  <!-- EN: (Jurnizia)5A_Lifchik -->
+  <Anneli_Jurnizia_Lifchik.label>(切尼亚)5A_弹挂</Anneli_Jurnizia_Lifchik.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Jurnizia_TacticalBelt.description>可染色.</Anneli_Jurnizia_TacticalBelt.description>
+  <!-- EN: (Jurnizia)5A_TacticalBelt -->
+  <Anneli_Jurnizia_TacticalBelt.label>(切尼亚)5A_战术腰带</Anneli_Jurnizia_TacticalBelt.label>
+</LanguageData>

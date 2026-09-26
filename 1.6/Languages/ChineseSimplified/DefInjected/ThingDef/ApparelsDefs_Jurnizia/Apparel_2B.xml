@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Dyeable. -->
+  <Anneli_Jurnizia_BaggyPants.description>可染色.</Anneli_Jurnizia_BaggyPants.description>
+  <!-- EN: (Jurnizia)2B_BaggyPants -->
+  <Anneli_Jurnizia_BaggyPants.label>(切尼亚)2B_休闲裤</Anneli_Jurnizia_BaggyPants.label>
+  <!-- EN: NOT dyeable. -->
+  <Anneli_Jurnizia_CamoPants.description>不可染色.</Anneli_Jurnizia_CamoPants.description>
+  <!-- EN: (Jurnizia)2B_CamoPants -->
+  <Anneli_Jurnizia_CamoPants.label>(切尼亚)2B_迷彩裤</Anneli_Jurnizia_CamoPants.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Jurnizia_DenimShorts.description>可染色.</Anneli_Jurnizia_DenimShorts.description>
+  <!-- EN: (Jurnizia)2B_DenimShorts -->
+  <Anneli_Jurnizia_DenimShorts.label>(切尼亚)2B_牛仔短裤</Anneli_Jurnizia_DenimShorts.label>
+  <!-- EN: NOT dyeable. -->
+  <Anneli_Jurnizia_GorkaPants.description>不可染色.</Anneli_Jurnizia_GorkaPants.description>
+  <!-- EN: (Jurnizia)2B_GorkaPants -->
+  <Anneli_Jurnizia_GorkaPants.label>(切尼亚)2B_郭卡裤</Anneli_Jurnizia_GorkaPants.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Jurnizia_Jeans.description>可染色.</Anneli_Jurnizia_Jeans.description>
+  <!-- EN: (Jurnizia)2B_Jeans -->
+  <Anneli_Jurnizia_Jeans.label>(切尼亚)2B_牛仔裤</Anneli_Jurnizia_Jeans.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Jurnizia_LeatherSkirt.description>可染色.</Anneli_Jurnizia_LeatherSkirt.description>
+  <!-- EN: (Jurnizia)2B_LeatherSkirt -->
+  <Anneli_Jurnizia_LeatherSkirt.label>(切尼亚)2B_皮裙</Anneli_Jurnizia_LeatherSkirt.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Jurnizia_Leggings.description>可染色.</Anneli_Jurnizia_Leggings.description>
+  <!-- EN: (Jurnizia)2B_Leggings -->
+  <Anneli_Jurnizia_Leggings.label>(切尼亚)2B_紧身裤</Anneli_Jurnizia_Leggings.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Jurnizia_Skirt.description>可染色.</Anneli_Jurnizia_Skirt.description>
+  <!-- EN: (Jurnizia)2B_Skirt -->
+  <Anneli_Jurnizia_Skirt.label>(切尼亚)2B_短裙</Anneli_Jurnizia_Skirt.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_Jurnizia_SportPants.description>可染色.</Anneli_Jurnizia_SportPants.description>
+  <!-- EN: (Jurnizia)2B_SportPants -->
+  <Anneli_Jurnizia_SportPants.label>(切尼亚)2B_运动裤</Anneli_Jurnizia_SportPants.label>
+</LanguageData>

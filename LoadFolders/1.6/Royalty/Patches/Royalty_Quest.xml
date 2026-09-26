@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <Patch>
     <Operation Class="PatchOperationSequence">
         <operations>
@@ -10,7 +10,10 @@
                         <factionDef>Anneli_Faction_Jurnizia</factionDef>
                         <pawnKinds>
                             <li>Anneli_Jurnizia_Civilian_Male</li>
+                            <li>Anneli_Jurnizia_Thug</li>
                             <li>Anneli_Jurnizia_Civilian_Female</li>
+                            <li>Anneli_Jurnizia_Civilian_Jogger</li>
+                            <li>Anneli_Jurnizia_Civilian_Streamer</li>
                             <li>Anneli_Jurnizia_Militia_Male</li>
                             <li>Anneli_Jurnizia_Militia_Female</li>
                             <li>Anneli_Jurnizia_Draftee</li>
@@ -20,6 +23,7 @@
                             <li>Anneli_Jurnizia_Sniper</li>
                             <li>Anneli_Jurnizia_InternalTroop_Male</li>
                             <li>Anneli_Jurnizia_InternalTroop_Female</li>
+                            <li>Anneli_Jurnizia_Agent</li>
                             <li>Anneli_Jurnizia_HeavyTrooper</li>
                         </pawnKinds>
                     </li>  
@@ -33,7 +37,10 @@
                         <factionDef>Anneli_Faction_Jurnizia</factionDef>
                         <pawnKinds>
                             <li>Anneli_Jurnizia_Civilian_Male</li>
+                            <li>Anneli_Jurnizia_Thug</li>
                             <li>Anneli_Jurnizia_Civilian_Female</li>
+                            <li>Anneli_Jurnizia_Civilian_Jogger</li>
+                            <li>Anneli_Jurnizia_Civilian_Streamer</li>
                             <li>Anneli_Jurnizia_Militia_Male</li>
                             <li>Anneli_Jurnizia_Militia_Female</li>
                             <li>Anneli_Jurnizia_Draftee</li>
@@ -43,6 +50,7 @@
                             <li>Anneli_Jurnizia_Sniper</li>
                             <li>Anneli_Jurnizia_InternalTroop_Male</li>
                             <li>Anneli_Jurnizia_InternalTroop_Female</li>
+                            <li>Anneli_Jurnizia_Agent</li>
                             <li>Anneli_Jurnizia_HeavyTrooper</li>
                         </pawnKinds>
                     </li>  
