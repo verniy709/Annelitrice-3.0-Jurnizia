@@ -324,10 +324,10 @@
 				</prefix>
 				<renderLayer>Hat</renderLayer>
 				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
-				<drawOffsetSouth>(0, 2.488, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 2.488, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 2.488, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 2.488, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 2.451, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.451, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.451, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.451, 0)</drawOffsetWest>
 				<useStaticYOffset>true</useStaticYOffset>
 				<meshType>Head</meshType>
 			</li>
@@ -455,10 +455,10 @@
 				</prefix>
 				<renderLayer>Hat</renderLayer>
 				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
-				<drawOffsetSouth>(0, 2.488, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 2.488, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 2.488, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 2.488, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 2.451, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.451, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.451, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.451, 0)</drawOffsetWest>
 				<useStaticYOffset>true</useStaticYOffset>
 				<meshType>Head</meshType>
 			</li>
@@ -478,10 +478,10 @@
 				</prefix>
 				<renderLayer>Hat</renderLayer>
 				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
-				<drawOffsetSouth>(0, 2.488, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 2.488, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 2.488, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 2.488, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 2.451, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.451, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.451, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.451, 0)</drawOffsetWest>
 				<useStaticYOffset>true</useStaticYOffset>
 				<meshType>Head</meshType>
 			</li>
@@ -501,10 +501,10 @@
 				</prefix>
 				<renderLayer>Hat</renderLayer>
 				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
-				<drawOffsetSouth>(0, 2.488, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 2.488, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 2.488, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 2.488, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 2.451, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.451, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.451, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.451, 0)</drawOffsetWest>
 				<useStaticYOffset>true</useStaticYOffset>
 				<meshType>Head</meshType>
 			</li>
@@ -524,10 +524,10 @@
 				</prefix>
 				<renderLayer>Hat</renderLayer>
 				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
-				<drawOffsetSouth>(0, 2.488, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 2.488, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 2.488, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 2.488, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 2.451, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.451, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.451, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.451, 0)</drawOffsetWest>
 				<useStaticYOffset>true</useStaticYOffset>
 				<meshType>Head</meshType>
 			</li>
