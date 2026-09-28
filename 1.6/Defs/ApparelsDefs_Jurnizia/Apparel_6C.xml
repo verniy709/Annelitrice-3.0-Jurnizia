@@ -37,6 +37,7 @@
 				<li>Anneli_FrontHair</li>
 				<li>Anneli_BackHair</li>
 				<li>Anneli_BackHair_Braid</li>
+				<li>Anneli_Overhead</li>
 			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">

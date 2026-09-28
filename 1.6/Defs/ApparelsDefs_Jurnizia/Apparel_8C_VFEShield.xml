@@ -110,7 +110,7 @@
         <graphicData>
             <texPath>8C/Anneli_Jurnizia_BZT75Shield</texPath>
             <graphicClass>Graphic_Single</graphicClass>
-            <drawSize>1</drawSize>
+            <drawSize>1.2</drawSize>
         </graphicData>
         <apparel>
             <tags>
@@ -173,7 +173,7 @@
             <texPath>8C/Anneli_Jurnizia_CamoBZT75Shield</texPath>
             <graphicClass>Graphic_Single</graphicClass>
             <shaderType>CutoutComplex</shaderType>
-            <drawSize>1</drawSize>
+            <drawSize>1.2</drawSize>
         </graphicData>
         <apparel>
             <tags>
@@ -235,7 +235,7 @@
         <graphicData>
             <texPath>8C/Anneli_Jurnizia_VantVMShield</texPath>
             <graphicClass>Graphic_Single</graphicClass>
-            <drawSize>1</drawSize>
+            <drawSize>1.2</drawSize>
         </graphicData>
         <apparel>
             <tags>
@@ -298,7 +298,7 @@
             <texPath>8C/Anneli_Jurnizia_CamoVantVMShield</texPath>
             <graphicClass>Graphic_Single</graphicClass>
             <shaderType>CutoutComplex</shaderType>
-            <drawSize>1</drawSize>
+            <drawSize>1.2</drawSize>
         </graphicData>
         <apparel>
             <tags>

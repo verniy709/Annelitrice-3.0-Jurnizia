@@ -7,7 +7,7 @@
 		<forceWeaponQuality>Masterwork</forceWeaponQuality>
 		<defaultFactionType>Anneli_Faction_Jurnizia</defaultFactionType>
 		<isFighter>true</isFighter>
-		<combatPower>160</combatPower>
+		<combatPower>170</combatPower>
 		<canBeSapper>true</canBeSapper>
 		<backstoryFiltersOverride>
 			<li>
@@ -42,6 +42,7 @@
 			</subOptionsChooseOne>
 		</inventoryOptions>
 		<combatEnhancingDrugsChance>1.0</combatEnhancingDrugsChance>
+		<combatEnhancingDrugsCount>0~2</combatEnhancingDrugsCount>
 		<xenotypeSet>
 			<xenotypeChances>
 				<Anneli_Xenotype MayRequire="Ludeon.RimWorld.Biotech">10.0</Anneli_Xenotype>
