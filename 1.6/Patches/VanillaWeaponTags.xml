@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Gun_AssaultRifle"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_AssaultRifle"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_Jurnizia_Gun_AssaultRifle</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_AssaultRifle"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_Jurnizia_Gun_AssaultRifle</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Gun_BoltActionRifle"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_BoltActionRifle"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_Jurnizia_Gun_BoltActionRifle</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_BoltActionRifle"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_Jurnizia_Gun_BoltActionRifle</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Gun_DoomsdayRocket"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_DoomsdayRocket"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_Jurnizia_Gun_DoomsdayRocket</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_DoomsdayRocket"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_Jurnizia_Gun_DoomsdayRocket</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Gun_HeavySMG"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_HeavySMG"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_Jurnizia_Gun_HeavySMG</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_HeavySMG"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_Jurnizia_Gun_HeavySMG</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Gun_IncendiaryLauncher"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_IncendiaryLauncher"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_Jurnizia_Gun_IncendiaryLauncher</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_IncendiaryLauncher"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_Jurnizia_Gun_IncendiaryLauncher</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Gun_Incinerator"]</xpath>
+    <match Class="PatchOperationConditional">
+      <xpath>Defs/ThingDef[defName="Gun_Incinerator"]/weaponTags</xpath>
+      <match Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="Gun_Incinerator"]/weaponTags</xpath>
+        <value>
+          <li>Anneli_Jurnizia_Gun_Incinerator</li>
+        </value>
+      </match>
+      <nomatch Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="Gun_Incinerator"]</xpath>
+        <value>
+          <weaponTags>
+            <li>Anneli_Jurnizia_Gun_Incinerator</li>
+          </weaponTags>
+        </value>
+      </nomatch>
+    </match>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Gun_LMG"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_LMG"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_Jurnizia_Gun_LMG</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_LMG"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_Jurnizia_Gun_LMG</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Gun_MachinePistol"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_MachinePistol"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_Jurnizia_Gun_MachinePistol</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_MachinePistol"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_Jurnizia_Gun_MachinePistol</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Gun_Minigun"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_Minigun"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_Jurnizia_Gun_Minigun</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_Minigun"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_Jurnizia_Gun_Minigun</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Gun_SmokeLauncher"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_SmokeLauncher"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_Jurnizia_Gun_SmokeLauncher</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_SmokeLauncher"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_Jurnizia_Gun_SmokeLauncher</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Gun_SniperRifle"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_SniperRifle"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_Jurnizia_Gun_SniperRifle</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_SniperRifle"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_Jurnizia_Gun_SniperRifle</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="MeleeWeapon_Knife"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="MeleeWeapon_Knife"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_Jurnizia_MeleeWeapon_Knife</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="MeleeWeapon_Knife"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_Jurnizia_MeleeWeapon_Knife</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="MeleeWeapon_Mace"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="MeleeWeapon_Mace"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_Jurnizia_MeleeWeapon_Mace</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="MeleeWeapon_Mace"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_Jurnizia_MeleeWeapon_Mace</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Weapon_GrenadeFrag"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Weapon_GrenadeFrag"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_Jurnizia_Weapon_GrenadeFrag</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Weapon_GrenadeFrag"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_Jurnizia_Weapon_GrenadeFrag</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation> 
+</Patch>

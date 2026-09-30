@@ -90,9 +90,8 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
+			<li>Anneli_Jurnizia_Gun_MachinePistol</li>
+			<li>Anneli_Jurnizia_Gun_AssaultRifle</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -145,13 +144,11 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
-			<li>GrenadeDestructive</li>
-			<li>MedievalMeleeBasic</li>
-			<li>NeolithicMeleeBasic</li>
-			<li>MedievalMeleeDecent</li>
+			<li>Anneli_Jurnizia_MeleeWeapon_Knife</li>
+			<li>Anneli_Jurnizia_MeleeWeapon_Mace</li>
+			<li>Anneli_Jurnizia_Gun_BoltActionRifle</li>
+			<li>Anneli_Jurnizia_Gun_HeavySMG</li>
+			<li>Anneli_Jurnizia_Weapon_GrenadeFrag</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -192,13 +189,11 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
-			<li>GrenadeDestructive</li>
-			<li>MedievalMeleeBasic</li>
-			<li>NeolithicMeleeBasic</li>
-			<li>MedievalMeleeDecent</li>
+			<li>Anneli_Jurnizia_MeleeWeapon_Knife</li>
+			<li>Anneli_Jurnizia_MeleeWeapon_Mace</li>
+			<li>Anneli_Jurnizia_Gun_BoltActionRifle</li>
+			<li>Anneli_Jurnizia_Gun_HeavySMG</li>
+			<li>Anneli_Jurnizia_Weapon_GrenadeFrag</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -228,13 +223,11 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
-			<li>GrenadeDestructive</li>
-			<li>MedievalMeleeBasic</li>
-			<li>NeolithicMeleeBasic</li>
-			<li>MedievalMeleeDecent</li>
+			<li>Anneli_Jurnizia_MeleeWeapon_Knife</li>
+			<li>Anneli_Jurnizia_MeleeWeapon_Mace</li>
+			<li>Anneli_Jurnizia_Gun_BoltActionRifle</li>
+			<li>Anneli_Jurnizia_Gun_HeavySMG</li>
+			<li>Anneli_Jurnizia_Weapon_GrenadeFrag</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -288,13 +281,11 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
-			<li>GrenadeDestructive</li>
-			<li>MedievalMeleeBasic</li>
-			<li>NeolithicMeleeBasic</li>
-			<li>MedievalMeleeDecent</li>
+			<li>Anneli_Jurnizia_MeleeWeapon_Knife</li>
+			<li>Anneli_Jurnizia_MeleeWeapon_Mace</li>
+			<li>Anneli_Jurnizia_Gun_BoltActionRifle</li>
+			<li>Anneli_Jurnizia_Gun_HeavySMG</li>
+			<li>Anneli_Jurnizia_Weapon_GrenadeFrag</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -324,13 +315,11 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
-			<li>GrenadeDestructive</li>
-			<li>MedievalMeleeBasic</li>
-			<li>NeolithicMeleeBasic</li>
-			<li>MedievalMeleeDecent</li>
+			<li>Anneli_Jurnizia_MeleeWeapon_Knife</li>
+			<li>Anneli_Jurnizia_MeleeWeapon_Mace</li>
+			<li>Anneli_Jurnizia_Gun_BoltActionRifle</li>
+			<li>Anneli_Jurnizia_Gun_HeavySMG</li>
+			<li>Anneli_Jurnizia_Weapon_GrenadeFrag</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -364,10 +353,11 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
-			<li>GrenadeDestructive</li>
+			<li>Anneli_Jurnizia_Gun_AssaultRifle</li>
+			<li>Anneli_Jurnizia_Gun_BoltActionRifle</li>
+			<li>Anneli_Jurnizia_Gun_HeavySMG</li>
+			<li>Anneli_Jurnizia_Gun_LMG</li>
+			<li>Anneli_Jurnizia_Weapon_GrenadeFrag</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -400,10 +390,11 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
-			<li>GrenadeDestructive</li>
+			<li>Anneli_Jurnizia_Gun_AssaultRifle</li>
+			<li>Anneli_Jurnizia_Gun_BoltActionRifle</li>
+			<li>Anneli_Jurnizia_Gun_HeavySMG</li>
+			<li>Anneli_Jurnizia_Gun_LMG</li>
+			<li>Anneli_Jurnizia_Weapon_GrenadeFrag</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -441,10 +432,11 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
-			<li>GrenadeDestructive</li>
+			<li>Anneli_Jurnizia_Gun_AssaultRifle</li>
+			<li>Anneli_Jurnizia_Gun_HeavySMG</li>
+			<li>Anneli_Jurnizia_Gun_LMG</li>
+			<li>Anneli_Jurnizia_Gun_Minigun</li>
+			<li>Anneli_Jurnizia_Weapon_GrenadeFrag</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -475,9 +467,8 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
+			<li>Anneli_Jurnizia_Gun_MachinePistol</li>
+			<li>Anneli_Jurnizia_Gun_AssaultRifle</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -541,9 +532,9 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
+			<li>Anneli_Jurnizia_Gun_AssaultRifle</li>
+			<li>Anneli_Jurnizia_Gun_HeavySMG</li>
+			<li>Anneli_Jurnizia_Gun_MachinePistol</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -580,10 +571,12 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
-			<li>SniperRifle</li>
+			<li>Anneli_Jurnizia_Gun_AssaultRifle</li>
+			<li>Anneli_Jurnizia_Gun_DoomsdayRocket</li>
+			<li>Anneli_Jurnizia_Gun_IncendiaryLauncher</li>
+			<li>Anneli_Jurnizia_Gun_Incinerator</li>
+			<li>Anneli_Jurnizia_Gun_SmokeLauncher</li>
+			<li>Anneli_Jurnizia_Gun_SniperRifle</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -618,8 +611,9 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>IndustrialGunAdvanced</li>
-			<li>SniperRifle</li>
+			<li>Anneli_Jurnizia_Gun_BoltActionRifle</li>
+			<li>Anneli_Jurnizia_Gun_SmokeLauncher</li>
+			<li>Anneli_Jurnizia_Gun_SniperRifle</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -713,10 +707,9 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
-			<li>SniperRifle</li>
+			<li>Anneli_Jurnizia_Gun_AssaultRifle</li>
+			<li>Anneli_Jurnizia_Gun_MachinePistol</li>
+			<li>Anneli_Jurnizia_Gun_Incinerator</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -782,10 +775,9 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
-			<li>SniperRifle</li>
+			<li>Anneli_Jurnizia_Gun_AssaultRifle</li>
+			<li>Anneli_Jurnizia_Gun_MachinePistol</li>
+			<li>Anneli_Jurnizia_Gun_Incinerator</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -815,10 +807,10 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
-			<li>SniperRifle</li>
+			<li>Anneli_Jurnizia_Gun_AssaultRifle</li>
+			<li>Anneli_Jurnizia_Gun_IncendiaryLauncher</li>
+			<li>Anneli_Jurnizia_Gun_SmokeLauncher</li>
+			<li>Anneli_Jurnizia_Gun_SniperRifle</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -861,10 +853,10 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
-			<li>GunHeavy</li>
+			<li>Anneli_Jurnizia_Gun_DoomsdayRocket</li>
+			<li>Anneli_Jurnizia_Gun_Incinerator</li>
+			<li>Anneli_Jurnizia_Gun_LMG</li>
+			<li>Anneli_Jurnizia_Gun_Minigun</li>
 		</weaponTags>
 	</PawnKindDef>
 

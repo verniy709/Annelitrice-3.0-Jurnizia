@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<ThingStyleDef>
+		<defName>Anneli_Jurnizia_Gun_AssaultRifle</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_Jurnizia_Gun_AssaultRifle</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef>
+		<defName>Anneli_Jurnizia_Gun_BoltActionRifle</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_Jurnizia_Gun_BoltActionRifle</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef>
+		<defName>Anneli_Jurnizia_Gun_DoomsdayRocket</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_Jurnizia_Gun_DoomsdayRocket</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef>
+		<defName>Anneli_Jurnizia_Gun_HeavySMG</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_Jurnizia_Gun_HeavySMG</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef>
+		<defName>Anneli_Jurnizia_Gun_IncendiaryLauncher</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_Jurnizia_Gun_IncendiaryLauncher</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef MayRequire="Ludeon.RimWorld.Anomaly">
+		<defName>Anneli_Jurnizia_Gun_Incinerator</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_Jurnizia_Gun_Incinerator</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef>
+		<defName>Anneli_Jurnizia_Gun_LMG</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_Jurnizia_Gun_LMG</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef>
+		<defName>Anneli_Jurnizia_Gun_MachinePistol</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_Jurnizia_Gun_MachinePistol</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef>
+		<defName>Anneli_Jurnizia_Gun_Minigun</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_Jurnizia_Gun_Minigun</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef>
+		<defName>Anneli_Jurnizia_Gun_SmokeLauncher</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_Jurnizia_Gun_SmokeLauncher</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef>
+		<defName>Anneli_Jurnizia_Gun_SniperRifle</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_Jurnizia_Gun_SniperRifle</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef>
+		<defName>Anneli_Jurnizia_MeleeWeapon_Knife</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_Jurnizia_MeleeWeapon_Knife</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef>
+		<defName>Anneli_Jurnizia_MeleeWeapon_Mace</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_Jurnizia_MeleeWeapon_Mace</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+
+	<ThingStyleDef>
+		<defName>Anneli_Jurnizia_Weapon_GrenadeFrag</defName>
+		<graphicData>
+			<texPath>Anneli_Styles/Weapons/Anneli_Jurnizia_Weapon_GrenadeFrag</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+</Defs>

@@ -21,7 +21,7 @@
 		<naturalEnemy>true</naturalEnemy>
 		<techLevel>Industrial</techLevel>
 		<allowedCultures>
-			<li>Anneli_Cultures_Kriminul</li>
+			<li>Anneli_Cultures_Kriminul_Jurnizia</li>
 		</allowedCultures>
 		<settlementTexturePath>Anneli_Factions/Anneli_Jurnizia</settlementTexturePath>
 		<factionIconPath>Anneli_Factions/Anneli_Jurnizia</factionIconPath>
