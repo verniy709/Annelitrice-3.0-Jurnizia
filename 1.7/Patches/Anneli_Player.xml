@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>
+      /Defs/PawnKindDef[defName="Anneli_Player"]/*[
+      self::apparelRequired
+      or self::specificApparelRequirements
+      or self::apparelTags
+      or self::weaponTags
+      ]
+    </xpath>
+
+    <match Class="PatchOperationSequence">
+      <operations>
+        <li Class="PatchOperationRemove">
+          <xpath>
+            /Defs/PawnKindDef[defName="Anneli_Player"]/*[
+            self::apparelRequired
+            or self::specificApparelRequirements
+            or self::apparelTags
+            or self::weaponTags
+            ]
+          </xpath>
+        </li>
+        
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/PawnKindDef[defName="Anneli_Player"]</xpath>
+          <value>
+           <apparelRequired>
+            <li>Anneli_Jurnizia_CamoTankTop</li>
+            <li>Anneli_Jurnizia_CamoPants</li>
+            <li>Anneli_Jurnizia_CamoParka</li>
+            <li>Anneli_Jurnizia_Camo6B13BodyArmor</li>
+            <li>Anneli_Jurnizia_CamoLifchik</li>
+            <li>Anneli_Jurnizia_KneePads</li>
+            <li>Anneli_Jurnizia_TacticalGloves</li>
+            <li>Anneli_Jurnizia_CamoATAKA</li>
+          </apparelRequired>
+          <specificApparelRequirements>
+            <li>
+              <bodyPartGroup>Feet</bodyPartGroup>
+              <apparelLayer>OnSkin</apparelLayer>
+              <requiredTag>Anneli_Jurnizia_HeavyTrooper</requiredTag>
+            </li>
+            <li>
+              <bodyPartGroup>Feet</bodyPartGroup>
+              <apparelLayer>Middle</apparelLayer>
+              <requiredTag>Anneli_Jurnizia_HeavyTrooper</requiredTag>
+            </li>
+            <li>
+              <bodyPartGroup>UpperHead</bodyPartGroup>
+              <apparelLayer>Overhead</apparelLayer>
+              <requiredTag>Anneli_Jurnizia_HeavyTrooper</requiredTag>
+            </li>
+          </specificApparelRequirements>
+          <apparelTags>
+            <li>Anneli_Jurnizia_HeavyTrooper</li>
+            <li>Anneli_Jurnizia_CamoBZT75Shield</li>
+            <li>Anneli_Jurnizia_CamoVantVMShield</li>
+          </apparelTags>
+          <apparelMoney>2000~4000</apparelMoney>
+          <weaponTags>
+            <li>Anneli_Jurnizia_Gun_DoomsdayRocket</li>
+            <li>Anneli_Jurnizia_Gun_Incinerator</li>
+            <li>Anneli_Jurnizia_Gun_LMG</li>
+            <li>Anneli_Jurnizia_Gun_Minigun</li>
+          </weaponTags>
+        </value>
+      </li>
+    </operations>
+  </match>
+
+  <nomatch Class="PatchOperationAdd">
+    <xpath>/Defs/PawnKindDef[defName="Anneli_Player"]</xpath>
+    <value>
+      <apparelRequired>
+        <li>Anneli_Jurnizia_CamoTankTop</li>
+        <li>Anneli_Jurnizia_CamoPants</li>
+        <li>Anneli_Jurnizia_CamoParka</li>
+        <li>Anneli_Jurnizia_Camo6B13BodyArmor</li>
+        <li>Anneli_Jurnizia_CamoLifchik</li>
+        <li>Anneli_Jurnizia_KneePads</li>
+        <li>Anneli_Jurnizia_TacticalGloves</li>
+        <li>Anneli_Jurnizia_CamoATAKA</li>
+      </apparelRequired>
+      <specificApparelRequirements>
+        <li>
+          <bodyPartGroup>Feet</bodyPartGroup>
+          <apparelLayer>OnSkin</apparelLayer>
+          <requiredTag>Anneli_Jurnizia_HeavyTrooper</requiredTag>
+        </li>
+        <li>
+          <bodyPartGroup>Feet</bodyPartGroup>
+          <apparelLayer>Middle</apparelLayer>
+          <requiredTag>Anneli_Jurnizia_HeavyTrooper</requiredTag>
+        </li>
+        <li>
+          <bodyPartGroup>UpperHead</bodyPartGroup>
+          <apparelLayer>Overhead</apparelLayer>
+          <requiredTag>Anneli_Jurnizia_HeavyTrooper</requiredTag>
+        </li>
+      </specificApparelRequirements>
+      <apparelTags>
+        <li>Anneli_Jurnizia_HeavyTrooper</li>
+        <li>Anneli_Jurnizia_CamoBZT75Shield</li>
+        <li>Anneli_Jurnizia_CamoVantVMShield</li>
+      </apparelTags>
+      <apparelMoney>2000~4000</apparelMoney>
+      <weaponTags>
+        <li>Anneli_Jurnizia_Gun_DoomsdayRocket</li>
+        <li>Anneli_Jurnizia_Gun_Incinerator</li>
+        <li>Anneli_Jurnizia_Gun_LMG</li>
+        <li>Anneli_Jurnizia_Gun_Minigun</li>
+      </weaponTags>
+    </value>
+  </nomatch>
+</Operation>
+</Patch>

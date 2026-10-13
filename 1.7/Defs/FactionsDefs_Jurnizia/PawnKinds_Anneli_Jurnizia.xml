@@ -7,7 +7,7 @@
 		<forceWeaponQuality>Masterwork</forceWeaponQuality>
 		<defaultFactionType>Anneli_Faction_Jurnizia</defaultFactionType>
 		<isFighter>true</isFighter>
-		<combatPower>170</combatPower>
+		<combatPower>150</combatPower>
 		<canBeSapper>true</canBeSapper>
 		<backstoryFiltersOverride>
 			<li>
