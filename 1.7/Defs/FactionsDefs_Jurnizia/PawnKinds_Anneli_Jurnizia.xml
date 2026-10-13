@@ -421,11 +421,6 @@
 				<apparelLayer>Middle</apparelLayer>
 				<requiredTag>Anneli_Jurnizia_Draftee</requiredTag>
 			</li>
-			<li>
-				<bodyPartGroup>UpperHead</bodyPartGroup>
-				<apparelLayer>Overhead</apparelLayer>
-				<requiredTag>Anneli_Jurnizia_Draftee</requiredTag>
-			</li>
 		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_Jurnizia_Draftee</li>
@@ -684,11 +679,6 @@
 				</colorGenerator>
 			</li>
 			<li>
-				<bodyPartGroup>UpperHead</bodyPartGroup>
-				<apparelLayer>Overhead</apparelLayer>
-				<requiredTag>Anneli_Jurnizia_InternalTroop_Male</requiredTag>
-			</li>
-			<li>
 				<apparelLayer>VFEC_OuterShell</apparelLayer>
 				<colorGenerator Class="ColorGenerator_Options">
 					<options>
@@ -838,11 +828,6 @@
 			<li>
 				<bodyPartGroup>Feet</bodyPartGroup>
 				<apparelLayer>Middle</apparelLayer>
-				<requiredTag>Anneli_Jurnizia_HeavyTrooper</requiredTag>
-			</li>
-			<li>
-				<bodyPartGroup>UpperHead</bodyPartGroup>
-				<apparelLayer>Overhead</apparelLayer>
 				<requiredTag>Anneli_Jurnizia_HeavyTrooper</requiredTag>
 			</li>
 		</specificApparelRequirements>
