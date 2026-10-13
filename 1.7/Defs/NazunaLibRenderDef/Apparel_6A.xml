@@ -462,6 +462,20 @@
 				<useStaticYOffset>true</useStaticYOffset>
 				<meshType>Head</meshType>
 			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Low_Jurnizia_SSH68Helmet</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A_Low</textureLevelsName>
+				<drawOffsetSouth>(0, 2.396, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.396, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.396, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.396, 0)</drawOffsetWest>
+				<renderSwitch>(1, 1, 0)</renderSwitch>
+				<useStaticYOffset>true</useStaticYOffset>
+				<meshType>Head</meshType>
+			</li>
 		</levels>
 	</NareisLib.MultiTexDef>
 
@@ -482,6 +496,20 @@
 				<drawOffsetEast>(0, 2.470, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 2.470, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 2.470, 0)</drawOffsetWest>
+				<useStaticYOffset>true</useStaticYOffset>
+				<meshType>Head</meshType>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Low_Jurnizia_CamoSSH68Helmet</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A_Low</textureLevelsName>
+				<drawOffsetSouth>(0, 2.396, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.396, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.396, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.396, 0)</drawOffsetWest>
+				<renderSwitch>(1, 1, 0)</renderSwitch>
 				<useStaticYOffset>true</useStaticYOffset>
 				<meshType>Head</meshType>
 			</li>
@@ -508,6 +536,20 @@
 				<useStaticYOffset>true</useStaticYOffset>
 				<meshType>Head</meshType>
 			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Low_Jurnizia_MASKAHelmet</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A_Low</textureLevelsName>
+				<drawOffsetSouth>(0, 2.396, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.396, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.396, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.396, 0)</drawOffsetWest>
+				<renderSwitch>(1, 1, 0)</renderSwitch>
+				<useStaticYOffset>true</useStaticYOffset>
+				<meshType>Head</meshType>
+			</li>
 		</levels>
 	</NareisLib.MultiTexDef>
 
@@ -528,6 +570,20 @@
 				<drawOffsetEast>(0, 2.470, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 2.470, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 2.470, 0)</drawOffsetWest>
+				<useStaticYOffset>true</useStaticYOffset>
+				<meshType>Head</meshType>
+			</li>
+			<li>
+				<prefix>
+					<li>Anneli_Low_Jurnizia_CamoMASKAHelmet</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A_Low</textureLevelsName>
+				<drawOffsetSouth>(0, 2.396, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 2.396, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 2.396, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 2.396, 0)</drawOffsetWest>
+				<renderSwitch>(1, 1, 0)</renderSwitch>
 				<useStaticYOffset>true</useStaticYOffset>
 				<meshType>Head</meshType>
 			</li>
