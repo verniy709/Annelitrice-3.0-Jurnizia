@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Jurnizia_BZT75Shield</defName>
+		<originalDef>Anneli_Jurnizia_BZT75Shield</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>true</renderOriginTex>
+		<path>Anneli_Null/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Null</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel_Shield</textureLevelsName>
+				<meshType>Body</meshType>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Jurnizia_CamoBZT75Shield</defName>
+		<originalDef>Anneli_Jurnizia_CamoBZT75Shield</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>true</renderOriginTex>
+		<path>Anneli_Null/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Null</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel_Shield</textureLevelsName>
+				<meshType>Body</meshType>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Jurnizia_VantVMShield</defName>
+		<originalDef>Anneli_Jurnizia_VantVMShield</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>true</renderOriginTex>
+		<path>Anneli_Null/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Null</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel_Shield</textureLevelsName>
+				<meshType>Body</meshType>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_Jurnizia_CamoVantVMShield</defName>
+		<originalDef>Anneli_Jurnizia_CamoVantVMShield</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>true</renderOriginTex>
+		<path>Anneli_Null/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_Null</li>
+				</prefix>
+				<renderLayer>Apparel</renderLayer>
+				<textureLevelsName>Anneli_Apparel_Shield</textureLevelsName>
+				<meshType>Body</meshType>
+				<useBodyType>true</useBodyType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+</Defs>

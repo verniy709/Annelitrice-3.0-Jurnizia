@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	
+	<ResearchProjectDef>
+		<defName>Anneli_Jurnizia_Apparels</defName>
+		<label>Annelitrice Jurnizia Apparels</label>
+		<description>A strange nightstand-like furniture with a big mirror. Sometimes the mirror shows an angry old man who yells in an ancient language.</description>
+		<baseCost>400</baseCost>
+		<techLevel>Medieval</techLevel>
+		<prerequisites>
+      		<li>Anneli_PuppetTheatre</li>
+    	</prerequisites>
+		<researchViewX>1</researchViewX>
+		<researchViewY>2</researchViewY>
+		<tab>Anneli_Research</tab>
+	</ResearchProjectDef>
+
+	
+</Defs>

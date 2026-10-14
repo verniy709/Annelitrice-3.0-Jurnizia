@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingCategoryDef>
+		<defName>Anneli_Category_Jurnizia</defName>
+		<parent>Apparel</parent>
+		<label>Annelitrice Jurnizia Apparels</label>
+	</ThingCategoryDef>
+	
+</Defs>
