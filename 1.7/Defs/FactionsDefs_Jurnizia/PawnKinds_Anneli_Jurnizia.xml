@@ -193,6 +193,7 @@
 			<li>Anneli_Jurnizia_MeleeWeapon_Mace</li>
 			<li>Anneli_Jurnizia_Gun_BoltActionRifle</li>
 			<li>Anneli_Jurnizia_Gun_HeavySMG</li>
+			<li>Anneli_Jurnizia_Gun_IncendiaryLauncher</li>
 			<li>Anneli_Jurnizia_Weapon_GrenadeFrag</li>
 		</weaponTags>
 	</PawnKindDef>
@@ -700,6 +701,7 @@
 			<li>Anneli_Jurnizia_Gun_AssaultRifle</li>
 			<li>Anneli_Jurnizia_Gun_MachinePistol</li>
 			<li>Anneli_Jurnizia_Gun_Incinerator</li>
+			<li>Anneli_Jurnizia_Gun_SniperRifle</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -768,6 +770,7 @@
 			<li>Anneli_Jurnizia_Gun_AssaultRifle</li>
 			<li>Anneli_Jurnizia_Gun_MachinePistol</li>
 			<li>Anneli_Jurnizia_Gun_Incinerator</li>
+			<li>Anneli_Jurnizia_Gun_SniperRifle</li>
 		</weaponTags>
 	</PawnKindDef>
 
