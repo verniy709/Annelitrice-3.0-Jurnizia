@@ -130,7 +130,6 @@
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
-				<useStaticColor>true</useStaticColor>
 			</li>
 		</levels>
 	</NareisLib.MultiTexDef>
@@ -169,7 +168,6 @@
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
-				<useStaticColor>true</useStaticColor>
 			</li>
 		</levels>
 	</NareisLib.MultiTexDef>
