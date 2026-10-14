@@ -129,7 +129,7 @@
 			<wornGraphicPath>6BC/Anneli_Jurnizia_PMK1GasMaskB</wornGraphicPath>
 			<tags>
 				<li>Anneli_Jurnizia_Militia_Female</li>
-				<li>Anneli_SkipRightForehead</li>
+				<li>Anneli_SkipLeftForehead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
