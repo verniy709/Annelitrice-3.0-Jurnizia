@@ -23,15 +23,14 @@
 			</li>
 			<li>
 				<prefix>
-					<li>Anneli_Back_Jurnizia_Guitar</li>
+					<li>Anneli_Low_Jurnizia_Guitar</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Apparel8A_Back</textureLevelsName>
-				<drawOffsetSouth>(0, 0.135, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 0.135, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 0.135, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 0.135, 0)</drawOffsetWest>
-				<renderSwitch>(0, 0, 1)</renderSwitch>
+				<textureLevelsName>Anneli_Apparel8A_Low</textureLevelsName>
+				<drawOffsetSouth>(0, 1.577, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.577, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.577, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.577, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
@@ -62,15 +61,14 @@
 			</li>
 			<li>
 				<prefix>
-					<li>Anneli_Back_Jurnizia_Accordion</li>
+					<li>Anneli_Low_Jurnizia_Accordion</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Apparel8A_Back</textureLevelsName>
-				<drawOffsetSouth>(0, 0.135, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 0.135, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 0.135, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 0.135, 0)</drawOffsetWest>
-				<renderSwitch>(0, 0, 1)</renderSwitch>
+				<textureLevelsName>Anneli_Apparel8A_Low</textureLevelsName>
+				<drawOffsetSouth>(0, 1.577, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.577, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.577, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.577, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
