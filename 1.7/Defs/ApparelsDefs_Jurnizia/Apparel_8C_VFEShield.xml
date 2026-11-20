@@ -144,10 +144,10 @@
                         <offset>(0.04, -0.07488256, 0.24)</offset>
                     </east>
                     <south>
-                        <offset>(0.12, -0.04927280, 0.23)</offset>
+                        <offset>(0.12, -0.04469963, 0.23)</offset>
                     </south>
                     <west>
-                        <offset>(-0.04, -0.04927280, 0.24)</offset>
+                        <offset>(-0.04, -0.04469963, 0.24)</offset>
                     </west>
                 </offHandHoldOffset>
             </li>
@@ -205,10 +205,10 @@
                         <offset>(0.04, -0.07488256, 0.24)</offset>
                     </east>
                     <south>
-                        <offset>(0.12, -0.04927280, 0.23)</offset>
+                        <offset>(0.12, -0.04469963, 0.23)</offset>
                     </south>
                     <west>
-                        <offset>(-0.04, -0.04927280, 0.24)</offset>
+                        <offset>(-0.04, -0.04469963, 0.24)</offset>
                     </west>
                 </offHandHoldOffset>
             </li>
@@ -265,10 +265,10 @@
                         <offset>(0.04, -0.07488256, 0.23)</offset>
                     </east>
                     <south>
-                        <offset>(0.12, -0.04927280, 0.22)</offset>
+                        <offset>(0.12, -0.04469963, 0.22)</offset>
                     </south>
                     <west>
-                        <offset>(-0.04, -0.04927280, 0.23)</offset>
+                        <offset>(-0.04, -0.04469963, 0.23)</offset>
                     </west>
                 </offHandHoldOffset>
             </li>
@@ -326,10 +326,10 @@
                         <offset>(0.04, -0.07488256, 0.23)</offset>
                     </east>
                     <south>
-                        <offset>(0.12, -0.04927280, 0.22)</offset>
+                        <offset>(0.12, -0.04469963, 0.22)</offset>
                     </south>
                     <west>
-                        <offset>(-0.04, -0.04927280, 0.23)</offset>
+                        <offset>(-0.04, -0.04469963, 0.23)</offset>
                     </west>
                 </offHandHoldOffset>
             </li>
